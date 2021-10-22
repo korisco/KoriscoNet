@@ -1,1071 +1,184 @@
-﻿#EXTM3U
-#EXTINF:-1 tvg-id="BandRede.br" tvg-name="Band SP +HD" tvg-logo="http://i.imgur.com/6xouXln.png" group-title="Canais Abertos",Band SP +HD
-http://cdn.teambr.live:80/wilsonmagrao/9010101/50
-#EXTINF:-1 tvg-id="BandRede.br" tvg-name="Band SP +SD" tvg-logo="http://i.imgur.com/6xouXln.png" group-title="Canais Abertos",Band SP +SD
-http://cdn.teambr.live:80/wilsonmagrao/9010101/3
-#EXTINF:-1 tvg-id="Canalbrasil.br" tvg-name="Canal Brasil HD #5" tvg-logo="https://raw.githubusercontent.com/korisco/KoriscoNet/main/Images/CanalBrasil.png" group-title="Canais Abertos",Canal Brasil HD #5
-http://cdn.teambr.live:80/wilsonmagrao/9010101/43477
-#EXTINF:-1 tvg-id="Canalbrasil.br" tvg-name="Canal Brasil SD #5" tvg-logo="https://raw.githubusercontent.com/korisco/KoriscoNet/main/Images/CanalBrasil.png" group-title="Canais Abertos",Canal Brasil SD #5
-http://cdn.teambr.live:80/wilsonmagrao/9010101/43478
-#EXTINF:-1 tvg-id="Tvcultura.br" tvg-name="Cultura +HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bc/TV_Cultura.svg/200px-TV_Cultura.svg.png" group-title="Canais Abertos",TV Cultura +HD
-http://cdn.teambr.live:80/wilsonmagrao/9010101/61
-#EXTINF:-1 tvg-id="Futura.br" tvg-name="Futura +HD" tvg-logo="https://macmagazine.com.br/wp-content/uploads/2014/10/29-futura.png" group-title="Canais Abertos",Futura +HD
-http://cdn.teambr.live:80/wilsonmagrao/9010101/40485
-#EXTINF:-1 tvg-id="Globo Nordeste HD" tvg-name="Globo Nordeste HD #3" tvg-logo="https://raw.githubusercontent.com/korisco/KoriscoNet/main/Images/globo-hd.png" group-title="Canais Abertos",Globo Nordeste HD #3
-http://cdn.teambr.live:80/wilsonmagrao/9010101/535
-#EXTINF:-1 tvg-id="Globo Nordeste HD" tvg-name="Globo Nordeste HD_1080p #1" tvg-logo="https://raw.githubusercontent.com/korisco/KoriscoNet/main/Images/globo-hd.png" group-title="Canais Abertos",Globo Nordeste HD_1080p #1
-http://cdn.teambr.live:80/wilsonmagrao/9010101/43680
-#EXTINF:-1 tvg-id="Globosp.br" tvg-name="Globo SP +HD" tvg-logo="https://raw.githubusercontent.com/korisco/KoriscoNet/main/Images/globo-hd.png" group-title="Canais Abertos",Globo SP +HD
-http://cdn.teambr.live:80/wilsonmagrao/9010101/89
-#EXTINF:-1 tvg-id="Globosp.br" tvg-name="Globo SP HD #3" tvg-logo="https://raw.githubusercontent.com/korisco/KoriscoNet/main/Images/globo-hd.png" group-title="Canais Abertos",Globo SP HD #3
-http://cdn.teambr.live:80/wilsonmagrao/9010101/38441
-#EXTINF:-1 tvg-id="Rederecord.br" tvg-name="Record SP +HD" tvg-logo="https://raw.githubusercontent.com/korisco/KoriscoNet/main/Images/RecordTV.png" group-title="Canais Abertos",Record SP +HD
-http://cdn.teambr.live:80/wilsonmagrao/9010101/128
-#EXTINF:-1 tvg-id="Rederecord.br" tvg-name="Record SP HD_1080p #3" tvg-logo="https://raw.githubusercontent.com/korisco/KoriscoNet/main/Images/RecordTV.png" group-title="Canais Abertos",Record SP HD_1080p #3
-http://cdn.teambr.live:80/wilsonmagrao/9010101/38571
-#EXTINF:-1 tvg-id="Redetv.br" tvg-name="RedeTV! +HD" tvg-logo="https://raw.githubusercontent.com/korisco/KoriscoNet/main/Images/RedeTV.png" group-title="Canais Abertos",RedeTV! +HD
-http://cdn.teambr.live:80/wilsonmagrao/9010101/131
-#EXTINF:-1 tvg-id="Redetv.br" tvg-name="RedeTV! HD_1080p #1" tvg-logo="https://raw.githubusercontent.com/korisco/KoriscoNet/main/Images/RedeTV.png" group-title="Canais Abertos",RedeTV! HD_1080p #1
-http://cdn.teambr.live:80/wilsonmagrao/9010101/43751
-#EXTINF:-1 tvg-id="SBT São Paulo" tvg-name="SBT SP +HD" tvg-logo="https://raw.githubusercontent.com/korisco/KoriscoNet/main/Images/SBT.png" group-title="Canais Abertos",SBT SP +HD
-http://cdn.teambr.live:80/wilsonmagrao/9010101/134
-#EXTINF:-1 tvg-id="SBT São Paulo" tvg-name="SBT SP HD_1080p #1" tvg-logo="https://raw.githubusercontent.com/korisco/KoriscoNet/main/Images/SBT.png" group-title="Canais Abertos",SBT SP HD_1080p #1
-http://cdn.teambr.live:80/wilsonmagrao/9010101/43760
-#EXTINF:-1 tvg-id="Tvbrasil.br" tvg-name="TV Brasil +HD" tvg-logo="https://raw.githubusercontent.com/korisco/KoriscoNet/main/Images/tvbrasil.png" group-title="Canais Abertos",TV Brasil +HD
-http://cdn.teambr.live:80/wilsonmagrao/9010101/5814
-#EXTINF:-1 tvg-id="Tvbrasil.br" tvg-name="TV Brasil HD_1080p #1" tvg-logo="https://raw.githubusercontent.com/korisco/KoriscoNet/main/Images/tvbrasil.png" group-title="Canais Abertos",TV Brasil HD_1080p #1
-http://cdn.teambr.live:80/wilsonmagrao/9010101/43788
-#EXTINF:-1 tvg-id="Tvcultura.br" tvg-name="TV Cultura HD #2" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/82/Cultura_logo_2013.svg/1200px-Cultura_logo_2013.svg.png" group-title="Canais Abertos",TV Cultura HD #2
+#EXTM3U
+#EXTINF:0 tvg-logo="https://timeline.dialetto.com.br/wp-content/uploads/2019/03/CBN-SP.png" group-title="NOTICIAS", CBN São Paulo
+#EXTVLCOPT:network-caching=1000
+https://medias.sgr.globo.com/hls/vCBNSP/vCBNSP.m3u8
+#EXTINF:30 tvg-id="Band HD" tvg-name="Band" tvg-logo="http://i.imgur.com/6xouXln.png" group-title="Canais | Abertos",Band
+#EXTVLCOPT:network-caching=1000
+http://evpp.mm.uol.com.br:1935/geob_band/app/playlist.m3u8
+#EXTINF:30 tvg-id="Band HD" tvg-name="Band HD" tvg-logo="http://i.imgur.com/6xouXln.png" group-title="Canais | Abertos",Band HD
+#EXTVLCOPT:network-caching=1000
+http://evpp.mm.uol.com.br:1935/geob_band/app/playlist.m3u8
+#EXTINF:60 tvg-id="Band HD" tvg-name="Band SP HD" tvg-logo="http://i.imgur.com/6xouXln.png" group-title="Canais | Abertos",Band SP HD
+#EXTVLCOPT:network-caching=1000
+http://168.205.87.198:8555/live/viniciusvieira/vieira123/19.m3u8
+#EXTINF:30 tvg-id="BandNews FHD" tvg-name="BandNews" tvg-logo="http://i.imgur.com/ibNTVbR.png" group-title="Canais | Noticias",BandNews
+#EXTVLCOPT:network-caching=1000
+http://evpp.mm.uol.com.br:1935/geob_band/bandnewstv/playlist.m3u8
+#EXTINF:60 tvg-id="Cartoon Network" tvg-name="Cartoon Network" tvg-logo="http://i.imgur.com/S5PsDDR.png" group-title="Canais | Infantil",Cartoon Network
+#EXTVLCOPT:network-caching=1000
+http://168.205.87.198:8555/live/viniciusvieira/vieira123/26.m3u8
+#EXTINF:0 tvg-id="Cartoon Network" tvg-name="Cartoon Network HD" tvg-logo="http://i.imgur.com/S5PsDDR.png" group-title="Canais | Infantil",Cartoon Network HD
+#EXTVLCOPT:network-caching=1000
+http://168.205.87.198:8555/live/elienecp/123456/26.ts
+#EXTINF:60 tvg-name="CINE BRASIL" group-title="CANAIS DE VARIEDADES" tvg-logo="https://cdn.mitvstatic.com/channels/br_cinebrasil-tv_m.png",Cine Brasil
+#EXTVLCOPT:network-caching=1000
+http://168.205.87.198:8555/live/viniciusvieira/vieira123/145.m3u8
+#EXTINF:0 tvg-name="CINE BRASIL" group-title="CANAIS DE VARIEDADES" tvg-logo="https://cdn.mitvstatic.com/channels/br_cinebrasil-tv_m.png",Cine Brasil
+#EXTVLCOPT:network-caching=1000
+http://168.205.87.198:8555/live/elienecp/123456/145.ts
+#EXTINF:60 tvg-name="CNN Brasil HD" group-title="NOTICIAS" tvg-logo="https://www.cnnbrasil.com.br/_next/static/images/logo-0457804d41d68a5c1c3de124ff229c35.png",CNN Brasil
+#EXTVLCOPT:network-caching=1000
+http://168.205.87.198:8555/live/viniciusvieira/vieira123/28.m3u8
+#EXTINF:62 tvg-id="Comedy Central" tvg-name="Comedy Central" tvg-logo="http://i.imgur.com/0956PZG.png" group-title="Canais | Variedades",Comedy Central
+#EXTVLCOPT:network-caching=1000
+http://168.205.87.198:8555/live/viniciusvieira/vieira123/29.m3u8
+#EXTINF:0 tvg-id="Cultura" tvg-name="Cultura" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bc/TV_Cultura.svg/200px-TV_Cultura.svg.png" group-title="Canais | Abertos",Cultura
+#EXTVLCOPT:network-caching=1000
 http://168.205.87.198:8555/live/elienecp/123456/32.ts
-#EXTINF:-1 tvg-id="CancaoNova.br" tvg-name="Cancao Nova +HD" tvg-logo="https://i.imgur.com/SzRozG4.png" group-title="Canais Abertos",Cancao Nova +HD
-http://cdn.teambr.live:80/wilsonmagrao/9010101/55
-#EXTINF:-1 tvg-id="Redevida.br" tvg-name="Rede Vida +SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/0c/Rede_Vida_logo.png" group-title="Canais Abertos",Rede Vida +SD
-http://cdn.teambr.live:80/wilsonmagrao/9010101/130
-#EXTINF:-1 tvg-id="Tvaparecida.br" tvg-name="TV Aparecida +HD" tvg-logo="https://raw.githubusercontent.com/korisco/KoriscoNet/main/Images/tvaparecida.png" group-title="Canais Abertos",TV Aparecida +HD
-http://cdn.teambr.live:80/wilsonmagrao/9010101/157
-#EXTINF:-1 tvg-id="Tvaparecida.br" tvg-name="TV Aparecida HD #1" tvg-logo="https://raw.githubusercontent.com/korisco/KoriscoNet/main/Images/tvaparecida.png" group-title="Canais Abertos",TV Aparecida HD #1
-http://cdn.teambr.live:80/wilsonmagrao/9010101/43787
-#EXTINF:-1 tvg-id="Animalplanet.br" tvg-name="Animal Planet +HD" tvg-logo="http://i.imgur.com/J1oK0xW.png" group-title="Documentarios",Animal Planet +HD
-http://cdn.teambr.live:80/wilsonmagrao/9010101/44
-#EXTINF:-1 tvg-id="Animalplanet.br" tvg-name="Animal Planet HD_1080p #1" tvg-logo="http://i.imgur.com/J1oK0xW.png" group-title="Documentarios",Animal Planet HD_1080p #1
-http://cdn.teambr.live:80/wilsonmagrao/9010101/43607
-#EXTINF:-1 tvg-id="Discovery.br" tvg-name="Discovery Channel +HD" tvg-logo="http://i.imgur.com/tUTV4Kl.png" group-title="Documentarios",Discovery Channel +HD
-http://cdn.teambr.live:80/wilsonmagrao/9010101/64
-#EXTINF:-1 tvg-id="Discovery.br" tvg-name="Discovery Channel HD_1080p #3" tvg-logo="http://i.imgur.com/tUTV4Kl.png" group-title="Documentarios",Discovery Channel HD_1080p #3
-http://cdn.teambr.live:80/wilsonmagrao/9010101/42142
-#EXTINF:-1 tvg-id="Homehealth.br" tvg-name="Discovery Home & Health +HD" tvg-logo="http://i.imgur.com/FJgwtT5.png" group-title="Documentarios",Discovery Home & Health +HD
-http://cdn.teambr.live:80/wilsonmagrao/9010101/65
-#EXTINF:-1 tvg-id="Homehealth.br" tvg-name="Discovery Home & Health HD_1080p #1" tvg-logo="http://i.imgur.com/FJgwtT5.png" group-title="Documentarios",Discovery Home & Health HD_1080p #1
-http://cdn.teambr.live:80/wilsonmagrao/9010101/43637
-#EXTINF:-1 tvg-id="DiscoveryScience.br" tvg-name="Discovery Science +HD" tvg-logo="https://raw.githubusercontent.com/korisco/KoriscoNet/main/Images/Discoveryscience.png" group-title="Documentarios",Discovery Science +HD
-http://cdn.teambr.live:80/wilsonmagrao/9010101/67
-#EXTINF:-1 tvg-id="DiscoveryScience.br" tvg-name="Discovery Science HD_1080p #1" tvg-logo="https://raw.githubusercontent.com/korisco/KoriscoNet/main/Images/Discoveryscience.png" group-title="Documentarios",Discovery Science HD_1080p #1
-http://cdn.teambr.live:80/wilsonmagrao/9010101/43639
-#EXTINF:-1 tvg-id="Hdtheater.br" tvg-name="Discovery Theater +HD" tvg-logo="https://www.tvmagazine.com.br/imagens/icones/150/discoverytheater.png" group-title="Documentarios",Discovery Theater +HD
-http://cdn.teambr.live:80/wilsonmagrao/9010101/68
-#EXTINF:-1 tvg-id="Hdtheater.br" tvg-name="Discovery Theater HD_1080p #1" tvg-logo="https://www.tvmagazine.com.br/imagens/icones/150/discoverytheater.png" group-title="Documentarios",Discovery Theater HD_1080p #1
-http://cdn.teambr.live:80/wilsonmagrao/9010101/43640
-#EXTINF:-1 tvg-id="Discturbohd.br" tvg-name="Discovery Turbo +HD" tvg-logo="https://raw.githubusercontent.com/korisco/KoriscoNet/main/Images/discoveryturbo.png" group-title="Documentarios",Discovery Turbo +HD
-http://cdn.teambr.live:80/wilsonmagrao/9010101/69
-#EXTINF:-1 tvg-id="Discturbohd.br" tvg-name="Discovery Turbo HD_1080p #1" tvg-logo="https://raw.githubusercontent.com/korisco/KoriscoNet/main/Images/discoveryturbo.png" group-title="Documentarios",Discovery Turbo HD_1080p #1
-http://cdn.teambr.live:80/wilsonmagrao/9010101/43641
-#EXTINF:-1 tvg-id="Discoveryworldhd.br" tvg-name="Discovery World +HD" tvg-logo="http://cdn.teambr.live:80/images/f914cff428cbd3e1c2db1f0320bb935b.png" group-title="Documentarios",Discovery World +HD
-http://cdn.teambr.live:80/wilsonmagrao/9010101/70
-#EXTINF:-1 tvg-id="Discoveryworldhd.br" tvg-name="Discovery World HD_1080p #3" tvg-logo="http://cdn.teambr.live:80/images/f914cff428cbd3e1c2db1f0320bb935b.png" group-title="Documentarios",Discovery World HD_1080p #3
-http://cdn.teambr.live:80/wilsonmagrao/9010101/42149
-#EXTINF:-1 tvg-id="H2.br" tvg-name="H2 +HD" tvg-logo="http://cdn.teambr.live:80/images/490b2834e65737c1fce95e468cc8b8bf.png" group-title="Documentarios",H2 +HD
-http://cdn.teambr.live:80/wilsonmagrao/9010101/93
-#EXTINF:-1 tvg-id="H2.br" tvg-name="H2 HD #3" tvg-logo="http://cdn.teambr.live:80/images/490b2834e65737c1fce95e468cc8b8bf.png" group-title="Documentarios",H2 HD #3
-http://cdn.teambr.live:80/wilsonmagrao/9010101/38475
-#EXTINF:-1 tvg-id="HGTV" tvg-name="HGTV +HD" tvg-logo="http://cdn.teambr.live:80/images/26e104754d63adb5a0f6ce026be7182b.png" group-title="Documentarios",HGTV +HD
-http://cdn.teambr.live:80/wilsonmagrao/9010101/102
-#EXTINF:-1 tvg-id="HGTV" tvg-name="HGTV HD #4" tvg-logo="http://cdn.teambr.live:80/images/26e104754d63adb5a0f6ce026be7182b.png" group-title="Documentarios",HGTV HD #4
-http://cdn.teambr.live:80/wilsonmagrao/9010101/40824
-#EXTINF:-1 tvg-id="Historychannel.br" tvg-name="History Channel +HD" tvg-logo="https://www.tvmagazine.com.br/imagens/icones/150/historyb.png" group-title="Documentarios",History Channel +HD
-http://cdn.teambr.live:80/wilsonmagrao/9010101/103
-#EXTINF:-1 tvg-id="Historychannel.br" tvg-name="History Channel HD_1080p #1" tvg-logo="https://www.tvmagazine.com.br/imagens/icones/150/historyb.png" group-title="Documentarios",History Channel HD_1080p #1
-http://cdn.teambr.live:80/wilsonmagrao/9010101/43708
-#EXTINF:-1 tvg-id="Investigacaodiscoveryid.br" tvg-name="ID Investigação Discovery +HD" tvg-logo="https://raw.githubusercontent.com/korisco/KoriscoNet/main/Images/id_discovery.png" group-title="Documentarios",ID Investigação Discovery +HD
-http://cdn.teambr.live:80/wilsonmagrao/9010101/104
-#EXTINF:-1 tvg-id="Investigacaodiscoveryid.br" tvg-name="ID Investigação Discovery HD_1080p #1" tvg-logo="https://raw.githubusercontent.com/korisco/KoriscoNet/main/Images/id_discovery.png" group-title="Documentarios",ID Investigação Discovery HD_1080p #1
-http://cdn.teambr.live:80/wilsonmagrao/9010101/43709
-#EXTINF:-1 tvg-id="Natgeowildhd.br" tvg-name="Nat Geo Wild +HD" tvg-logo="https://www.tvmagazine.com.br/imagens/icones/150/natgeowild.png" group-title="Documentarios",Nat Geo Wild +HD
-http://cdn.teambr.live:80/wilsonmagrao/9010101/113
-#EXTINF:-1 tvg-id="Natgeowildhd.br" tvg-name="Nat Geo Wild HD_1080p #1" tvg-logo="https://www.tvmagazine.com.br/imagens/icones/150/natgeowild.png" group-title="Documentarios",Nat Geo Wild HD_1080p #1
-http://cdn.teambr.live:80/wilsonmagrao/9010101/43715
-#EXTINF:-1 tvg-id="Nationalgeographic.br" tvg-name="National Geographic +HD" tvg-logo="https://www.tvmagazine.com.br/imagens/icones/150/natgeo.png" group-title="Documentarios",National Geographic +HD
-http://cdn.teambr.live:80/wilsonmagrao/9010101/111
-#EXTINF:-1 tvg-id="Nationalgeographic.br" tvg-name="National Geographic HD_1080p #1" tvg-logo="https://www.tvmagazine.com.br/imagens/icones/150/natgeo.png" group-title="Documentarios",National Geographic HD_1080p #1
-http://cdn.teambr.live:80/wilsonmagrao/9010101/43716
-#EXTINF:-1 tvg-id="Tlc.br" tvg-name="TLC +HD" tvg-logo="http://cdn.teambr.live:80/images/09bb420f718ce5feabbe5cd86f67ddfe.png" group-title="Documentarios",TLC +HD
-http://cdn.teambr.live:80/wilsonmagrao/9010101/153
-#EXTINF:-1 tvg-id="Bandsportshd.br" tvg-name="Band Sports +HD" tvg-logo="http://i.imgur.com/zR3osZs.png" group-title="Esportes 1 | Basico",Band Sports +HD
-http://cdn.teambr.live:80/wilsonmagrao/9010101/51
-#EXTINF:-1 tvg-id="Bandsportshd.br" tvg-name="Band Sports HD_1080p #3" tvg-logo="http://i.imgur.com/zR3osZs.png" group-title="Esportes 1 | Basico",Band Sports HD_1080p #3
-http://cdn.teambr.live:80/wilsonmagrao/9010101/473
-#EXTINF:-1 tvg-id="Combate.br" tvg-name="Combate +HD" tvg-logo="https://raw.githubusercontent.com/korisco/KoriscoNet/main/Images/combate.png" group-title="Esportes 1 | Basico",Combate +HD
-http://cdn.teambr.live:80/wilsonmagrao/9010101/59
-#EXTINF:-1 tvg-id="Combate.br" tvg-name="Combate HD_1080p #1" tvg-logo="https://raw.githubusercontent.com/korisco/KoriscoNet/main/Images/combate.png" group-title="Esportes 1 | Basico",Combate HD_1080p #1
-http://cdn.teambr.live:80/wilsonmagrao/9010101/43626
-#EXTINF:-1 tvg-id="Espn.br" tvg-name="ESPN 1 +HD" tvg-logo="https://www.tvmagazine.com.br/imagens/icones/150/espn.png" group-title="Esportes 1 | Basico",ESPN 1 +HD
-http://cdn.teambr.live:80/wilsonmagrao/9010101/79
-#EXTINF:-1 tvg-id="Espn.br" tvg-name="ESPN 1 HD_1080p #1" tvg-logo="https://www.tvmagazine.com.br/imagens/icones/150/espn.png" group-title="Esportes 1 | Basico",ESPN 1 HD_1080p #1
-http://cdn.teambr.live:80/wilsonmagrao/9010101/43648
-#EXTINF:-1 tvg-id="ESPN+.br" tvg-name="ESPN 2 +HD" tvg-logo="https://www.tvmagazine.com.br/imagens/icones/150/espn2.png" group-title="Esportes 1 | Basico",ESPN 2 +HD
-http://cdn.teambr.live:80/wilsonmagrao/9010101/76
-#EXTINF:-1 tvg-id="ESPN+.br" tvg-name="ESPN 2 HD #3" tvg-logo="https://www.tvmagazine.com.br/imagens/icones/150/espn2.png" group-title="Esportes 1 | Basico",ESPN 2 HD #3
-http://cdn.teambr.live:80/wilsonmagrao/9010101/38613
-#EXTINF:-1 tvg-id="Espnbrasil.br" tvg-name="ESPN Brasil +HD" tvg-logo="https://raw.githubusercontent.com/korisco/KoriscoNet/main/Images/espnbrasilb.png" group-title="Esportes 1 | Basico",ESPN Brasil +HD
-http://cdn.teambr.live:80/wilsonmagrao/9010101/77
-#EXTINF:-1 tvg-id="Espnbrasil.br" tvg-name="ESPN Brasil FHD H265" tvg-logo="https://raw.githubusercontent.com/korisco/KoriscoNet/main/Images/espnbrasilb.png" group-title="Esportes 1 | Basico",ESPN Brasil FHD H265
-http://cdn.teambr.live:80/wilsonmagrao/9010101/43529
-#EXTINF:-1 tvg-id="Espnextra.br" tvg-name="ESPN Extra +HD" tvg-logo="https://www.tvmagazine.com.br/imagens/icones/150/espnextra.png" group-title="Esportes 1 | Basico",ESPN Extra +HD
-http://cdn.teambr.live:80/wilsonmagrao/9010101/78
-#EXTINF:-1 tvg-id="Espnextra.br" tvg-name="ESPN Extra HD #3" tvg-logo="https://www.tvmagazine.com.br/imagens/icones/150/espnextra.png" group-title="Esportes 1 | Basico",ESPN Extra HD #3
-http://cdn.teambr.live:80/wilsonmagrao/9010101/514
-#EXTINF:-1 tvg-id="Foxsports.br" tvg-name="Fox Sports 1 +HD" tvg-logo="http://i.imgur.com/bYUGfOo.png" group-title="Esportes 1 | Basico",Fox Sports 1 +HD
-http://cdn.teambr.live:80/wilsonmagrao/9010101/87
-#EXTINF:-1 tvg-id="Foxsports.br" tvg-name="Fox Sports 1 HD_1080p #1" tvg-logo="http://i.imgur.com/bYUGfOo.png" group-title="Esportes 1 | Basico",Fox Sports 1 HD_1080p #1
-http://cdn.teambr.live:80/wilsonmagrao/9010101/43658
-#EXTINF:-1 tvg-id="Foxsports2.br" tvg-name="Fox Sports 2 +HD" tvg-logo="https://i.imgur.com/150raP9.png" group-title="Esportes 1 | Basico",Fox Sports 2 +HD
-http://cdn.teambr.live:80/wilsonmagrao/9010101/86
-#EXTINF:-1 tvg-id="Foxsports2.br" tvg-name="Fox Sports 2 FHD_1080p #3" tvg-logo="https://i.imgur.com/150raP9.png" group-title="Esportes 1 | Basico",Fox Sports 2 FHD_1080p #3
-http://cdn.teambr.live:80/wilsonmagrao/9010101/523
-#EXTINF:-1 tvg-id="Sportv.br" tvg-name="SporTV 1 +HD" tvg-logo="https://raw.githubusercontent.com/korisco/KoriscoNet/main/Images/sportv.png" group-title="Esportes 1 | Basico",SporTV 1 +HD
-http://cdn.teambr.live:80/wilsonmagrao/9010101/142
-#EXTINF:-1 tvg-id="Sportv.br" tvg-name="SporTV 1 HD_1080p #3" tvg-logo="https://raw.githubusercontent.com/korisco/KoriscoNet/main/Images/sportv.png" group-title="Esportes 1 | Basico",SporTV 1 HD_1080p #3
-http://cdn.teambr.live:80/wilsonmagrao/9010101/38572
-#EXTINF:-1 tvg-id="Sportv2.br" tvg-name="SporTV 2 +HD" tvg-logo="https://raw.githubusercontent.com/korisco/KoriscoNet/main/Images/sportv2.png" group-title="Esportes 1 | Basico",SporTV 2 +HD
-http://cdn.teambr.live:80/wilsonmagrao/9010101/140
-#EXTINF:-1 tvg-id="Sportv2.br" tvg-name="Sportv 2 HD_1080p #3" tvg-logo="https://raw.githubusercontent.com/korisco/KoriscoNet/main/Images/sportv2.png" group-title="Esportes 1 | Basico",Sportv 2 HD_1080p #3
-http://cdn.teambr.live:80/wilsonmagrao/9010101/1075
-#EXTINF:-1 tvg-id="Sportv3.br" tvg-name="SporTV 3 +HD" tvg-logo="https://raw.githubusercontent.com/korisco/KoriscoNet/main/Images/sportv3.png" group-title="Esportes 1 | Basico",SporTV 3 +HD
-http://cdn.teambr.live:80/wilsonmagrao/9010101/141
-#EXTINF:-1 tvg-id="Sportv3.br" tvg-name="SporTv 3 HD_1080p #1" tvg-logo="https://raw.githubusercontent.com/korisco/KoriscoNet/main/Images/sportv3.png" group-title="Esportes 1 | Basico",SporTv 3 HD_1080p #1
-http://cdn.teambr.live:80/wilsonmagrao/9010101/43766
-#EXTINF:-1 tvg-id="SPORTV 4" tvg-name="SporTV 4 H265 #1" tvg-logo="http://dnslist.ca:80/images/4c1fcdd5633b007e6165de0353b46673.png" group-title="Esportes 1 | Basico",SporTV 4 H265 #1
-http://dnslist.ca:80/wilsonmagrao/9010101/44356
-#EXTINF:-1 tvg-id="SPORTV 4" tvg-name="SporTV 4 HD #1" tvg-logo="http://dnslist.ca:80/images/4c1fcdd5633b007e6165de0353b46673.png" group-title="Esportes 1 | Basico",SporTV 4 HD #1
-http://dnslist.ca:80/wilsonmagrao/9010101/44357
-#EXTINF:-1 tvg-id="Woohoo.br" tvg-name="Woohoo +HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/cf/Logo_Woohoo.png" group-title="Esportes 1 | Basico",Woohoo +HD
-http://cdn.teambr.live:80/wilsonmagrao/9010101/164
-#EXTINF:-1 tvg-id="Woohoo.br" tvg-name="Woohoo HD_1080p #1" tvg-logo="http://cdn.teambr.live:80/images/11ebae91a48b8cc287f9f5f5836c03ed.png" group-title="Esportes 1 | Basico",Woohoo HD_1080p #1
-http://cdn.teambr.live:80/wilsonmagrao/9010101/43802
-#EXTINF:-1 tvg-id="Premiereclubes.br" tvg-name="Premiere 1 +HD" tvg-logo="https://raw.githubusercontent.com/korisco/KoriscoNet/main/Images/premiere.png" group-title="Esportes 2 | PREMIERE",Premiere 1 +HD
-http://cdn.teambr.live:80/wilsonmagrao/9010101/125
-#EXTINF:-1 tvg-id="Premiereclubes.br" tvg-name="Premiere 1 HD_1080p #3" tvg-logo="https://raw.githubusercontent.com/korisco/KoriscoNet/main/Images/premiere.png" group-title="Esportes 2 | PREMIERE",Premiere 1 HD_1080p #3
-http://cdn.teambr.live:80/wilsonmagrao/9010101/571
-#EXTINF:-1 tvg-id="Premiere2.br" tvg-name="Premiere 2 +HD" tvg-logo="https://raw.githubusercontent.com/korisco/KoriscoNet/main/Images/premiere.png" group-title="Esportes 2 | PREMIERE",Premiere 2 +HD
-http://cdn.teambr.live:80/wilsonmagrao/9010101/120
-#EXTINF:-1 tvg-id="Premiere2.br" tvg-name="Premiere 2 HD_1080p #1" tvg-logo="https://raw.githubusercontent.com/korisco/KoriscoNet/main/Images/premiere.png" group-title="Esportes 2 | PREMIERE",Premiere 2 HD_1080p #1
-http://cdn.teambr.live:80/wilsonmagrao/9010101/43723
-#EXTINF:-1 tvg-id="Premiere3.br" tvg-name="Premiere 3 +HD" tvg-logo="https://raw.githubusercontent.com/korisco/KoriscoNet/main/Images/premiere.png" group-title="Esportes 2 | PREMIERE",Premiere 3 +HD
-http://cdn.teambr.live:80/wilsonmagrao/9010101/121
-#EXTINF:-1 tvg-id="Premiere3.br" tvg-name="Premiere 3 HD_1080p #1" tvg-logo="https://raw.githubusercontent.com/korisco/KoriscoNet/main/Images/premiere.png" group-title="Esportes 2 | PREMIERE",Premiere 3 HD_1080p #1
-http://cdn.teambr.live:80/wilsonmagrao/9010101/43724
-#EXTINF:-1 tvg-id="Premiere4.br" tvg-name="Premiere 4 +HD" tvg-logo="https://raw.githubusercontent.com/korisco/KoriscoNet/main/Images/premiere.png" group-title="Esportes 2 | PREMIERE",Premiere 4 +HD
-http://cdn.teambr.live:80/wilsonmagrao/9010101/122
-#EXTINF:-1 tvg-id="Premiere4.br" tvg-name="Premiere 4 HD_1080p #1" tvg-logo="https://raw.githubusercontent.com/korisco/KoriscoNet/main/Images/premiere.png" group-title="Esportes 2 | PREMIERE",Premiere 4 HD_1080p #1
-http://cdn.teambr.live:80/wilsonmagrao/9010101/43725
-#EXTINF:-1 tvg-id="Premiere5.br" tvg-name="Premiere 5 +HD" tvg-logo="https://raw.githubusercontent.com/korisco/KoriscoNet/main/Images/premiere.png" group-title="Esportes 2 | PREMIERE",Premiere 5 +HD
-http://cdn.teambr.live:80/wilsonmagrao/9010101/123
-#EXTINF:-1 tvg-id="Premiere5.br" tvg-name="Premiere 5 HD #3" tvg-logo="https://raw.githubusercontent.com/korisco/KoriscoNet/main/Images/premiere.png" group-title="Esportes 2 | PREMIERE",Premiere 5 HD #3
-http://cdn.teambr.live:80/wilsonmagrao/9010101/38502
-#EXTINF:-1 tvg-id="Premiere6.br" tvg-name="Premiere 6 +HD" tvg-logo="https://raw.githubusercontent.com/korisco/KoriscoNet/main/Images/premiere.png" group-title="Esportes 2 | PREMIERE",Premiere 6 +HD
-http://cdn.teambr.live:80/wilsonmagrao/9010101/124
-#EXTINF:-1 tvg-id="Premiere6.br" tvg-name="Premiere 6 HD_1080p #1" tvg-logo="https://raw.githubusercontent.com/korisco/KoriscoNet/main/Images/premiere.png" group-title="Esportes 2 | PREMIERE",Premiere 6 HD_1080p #1
-http://cdn.teambr.live:80/wilsonmagrao/9010101/43727
-#EXTINF:-1 tvg-id="Premiere7.br" tvg-name="Premiere 7 HD #2" tvg-logo="https://raw.githubusercontent.com/korisco/KoriscoNet/main/Images/premiere.png" group-title="Esportes 2 | PREMIERE",Premiere 7 HD #2
-http://cdn.teambr.live:80/wilsonmagrao/9010101/40736
-#EXTINF:-1 tvg-id="Premiere7.br" tvg-name="Premiere 7 HD_1080p #1" tvg-logo="https://raw.githubusercontent.com/korisco/KoriscoNet/main/Images/premiere.png" group-title="Esportes 2 | PREMIERE",Premiere 7 HD_1080p #1
-http://cdn.teambr.live:80/wilsonmagrao/9010101/43728
-#EXTINF:-1 tvg-id="Premiere8.br" tvg-name="Premiere 8 HD #2" tvg-logo="https://raw.githubusercontent.com/korisco/KoriscoNet/main/Images/premiere.png" group-title="Esportes 2 | PREMIERE",Premiere 8 HD #2
-http://cdn.teambr.live:80/wilsonmagrao/9010101/40737
-#EXTINF:-1 tvg-id="Premiereclubes.br" tvg-name="PREMIERE CLUBES  4K" tvg-logo="https://raw.githubusercontent.com/korisco/KoriscoNet/main/Images/premiere.png" group-title="Esportes 2 | PREMIERE",PREMIERE CLUBES  4K
-http://cdn.teambr.live:80/wilsonmagrao/9010101/43021
-#EXTINF:-1 tvg-id="CONMEBOL TV 1" tvg-name="Conmebol 1 HD_1080p #1" tvg-logo="http://cdn.teambr.live:80/images/497f2ab6189a7f86a5c3d68648642390.png" group-title="Esportes 3 | Conmebol TV",Conmebol 1 HD_1080p #1
-http://cdn.teambr.live:80/wilsonmagrao/9010101/43628
-#EXTINF:-1 tvg-id="CONMEBOL TV 3" tvg-name="Conmebol 3 HD_1080p #1" tvg-logo="http://cdn.teambr.live:80/images/497f2ab6189a7f86a5c3d68648642390.png" group-title="Esportes 3 | Conmebol TV",Conmebol 3 HD_1080p #1
-http://cdn.teambr.live:80/wilsonmagrao/9010101/43630
-#EXTINF:-1 tvg-id="CONMEBOL TV 4" tvg-name="Conmebol 4 HD_1080p #1" tvg-logo="http://cdn.teambr.live:80/images/497f2ab6189a7f86a5c3d68648642390.png" group-title="Esportes 3 | Conmebol TV",Conmebol 4 HD_1080p #1
-http://cdn.teambr.live:80/wilsonmagrao/9010101/43631
-#EXTINF:-1 tvg-id="CONMEBOL TV 1" tvg-name="Conmebol 1 SD #4" tvg-logo="http://cdn.teambr.live:80/images/497f2ab6189a7f86a5c3d68648642390.png" group-title="Esportes 3 | Conmebol TV",Conmebol 1 SD #4
-http://cdn.teambr.live:80/wilsonmagrao/9010101/40800
-#EXTINF:-1 tvg-id="CONMEBOL TV 1" tvg-name="Conmebol 1 +HD" tvg-logo="https://logodownload.org/wp-content/uploads/2019/12/conmebol-logo-1.png" group-title="Esportes 3 | Conmebol TV",Conmebol 1 +HD
-http://cdn.teambr.live:80/wilsonmagrao/9010101/39489
-#EXTINF:-1 tvg-id="CONMEBOL TV 1" tvg-name="Conmebol 1 HD #3" tvg-logo="http://cdn.teambr.live:80/images/497f2ab6189a7f86a5c3d68648642390.png" group-title="Esportes 3 | Conmebol TV",Conmebol 1 HD #3
-http://cdn.teambr.live:80/wilsonmagrao/9010101/491
-#EXTINF:-1 tvg-id="CONMEBOL TV 2" tvg-name="Conmebol 2 +HD" tvg-logo="https://logodownload.org/wp-content/uploads/2019/12/conmebol-logo-1.png" group-title="Esportes 3 | Conmebol TV",Conmebol 2 +HD
-http://cdn.teambr.live:80/wilsonmagrao/9010101/39490
-#EXTINF:-1 tvg-id="CONMEBOL TV 2" tvg-name="Conmebol 2 HD #3" tvg-logo="https://logodownload.org/wp-content/uploads/2019/12/conmebol-logo-1.png" group-title="Esportes 3 | Conmebol TV",Conmebol 2 HD #3
-http://cdn.teambr.live:80/wilsonmagrao/9010101/493
-#EXTINF:-1 tvg-id="CONMEBOL TV 3" tvg-name="Conmebol 3 +HD" tvg-logo="https://logodownload.org/wp-content/uploads/2019/12/conmebol-logo-1.png" group-title="Esportes 3 | Conmebol TV",Conmebol 3 +HD
-http://cdn.teambr.live:80/wilsonmagrao/9010101/39491
-#EXTINF:-1 tvg-id="CONMEBOL TV 3" tvg-name="Conmebol 3 HD #3" tvg-logo="https://logodownload.org/wp-content/uploads/2019/12/conmebol-logo-1.png" group-title="Esportes 3 | Conmebol TV",Conmebol 3 HD #3
-http://cdn.teambr.live:80/wilsonmagrao/9010101/495
-#EXTINF:-1 tvg-id="CONMEBOL TV 3" tvg-name="Conmebol 3 SD #4" tvg-logo="http://cdn.teambr.live:80/images/497f2ab6189a7f86a5c3d68648642390.png" group-title="Esportes 3 | Conmebol TV",Conmebol 3 SD #4
-http://cdn.teambr.live:80/wilsonmagrao/9010101/40878
-#EXTINF:-1 tvg-id="CONMEBOL TV 4" tvg-name="Conmebol 4 +HD" tvg-logo="https://logodownload.org/wp-content/uploads/2019/12/conmebol-logo-1.png" group-title="Esportes 3 | Conmebol TV",Conmebol 4 +HD
-http://cdn.teambr.live:80/wilsonmagrao/9010101/39492
-#EXTINF:-1 tvg-id="CONMEBOL TV 4" tvg-name="Conmebol 4 HD #3" tvg-logo="https://logodownload.org/wp-content/uploads/2019/12/conmebol-logo-1.png" group-title="Esportes 3 | Conmebol TV",Conmebol 4 HD #3
-http://cdn.teambr.live:80/wilsonmagrao/9010101/494
-#EXTINF:-1 tvg-id="CONMEBOL TV 4" tvg-name="Conmebol 4 SD #4" tvg-logo="https://logodownload.org/wp-content/uploads/2019/12/conmebol-logo-1.png" group-title="Esportes 3 | Conmebol TV",Conmebol 4 SD #4
-http://cdn.teambr.live:80/wilsonmagrao/9010101/40879
-#EXTINF:-1 tvg-id="DAZN 1" tvg-name="DAZN 1 #1" tvg-logo="http://cdn.teambr.live:80/images/98bb2910883b8ad5ac110131fd466ce3.png" group-title="Esportes 4 | Dazn",DAZN 1 #1
-http://cdn.teambr.live:80/wilsonmagrao/9010101/43632
-#EXTINF:-1 tvg-id="DAZN 1" tvg-name="DAZN 1 +HD" tvg-logo="http://cdn.teambr.live:80/images/98bb2910883b8ad5ac110131fd466ce3.png" group-title="Esportes 4 | Dazn",DAZN 1 +HD
-http://cdn.teambr.live:80/wilsonmagrao/9010101/38578
-#EXTINF:-1 tvg-id="DAZN 1" tvg-name="DAZN 1 HD #3" tvg-logo="http://cdn.teambr.live:80/images/98bb2910883b8ad5ac110131fd466ce3.png" group-title="Esportes 4 | Dazn",DAZN 1 HD #3
-http://cdn.teambr.live:80/wilsonmagrao/9010101/497
-#EXTINF:-1 tvg-id="DAZN 1" tvg-name="DAZN 1 HD #5" tvg-logo="http://cdn.teambr.live:80/images/98bb2910883b8ad5ac110131fd466ce3.png" group-title="Esportes 4 | Dazn",DAZN 1 HD #5
-http://cdn.teambr.live:80/wilsonmagrao/9010101/43524
-#EXTINF:-1 tvg-id="DAZN 2" tvg-name="DAZN 2 #1" tvg-logo="http://cdn.teambr.live:80/images/98bb2910883b8ad5ac110131fd466ce3.png" group-title="Esportes 4 | Dazn",DAZN 2 #1
-http://cdn.teambr.live:80/wilsonmagrao/9010101/43633
-#EXTINF:-1 tvg-id="DAZN 2" tvg-name="DAZN 2 HD #3" tvg-logo="http://cdn.teambr.live:80/images/98bb2910883b8ad5ac110131fd466ce3.png" group-title="Esportes 4 | Dazn",DAZN 2 HD #3
-http://cdn.teambr.live:80/wilsonmagrao/9010101/38579
-#EXTINF:-1 tvg-id="DAZN 2" tvg-name="DAZN 2 HD #5" tvg-logo="http://cdn.teambr.live:80/images/98bb2910883b8ad5ac110131fd466ce3.png" group-title="Esportes 4 | Dazn",DAZN 2 HD #5
-http://cdn.teambr.live:80/wilsonmagrao/9010101/43525
-#EXTINF:-1 tvg-id="DAZN 3" tvg-name="DAZN 3 #1" tvg-logo="http://cdn.teambr.live:80/images/98bb2910883b8ad5ac110131fd466ce3.png" group-title="Esportes 4 | Dazn",DAZN 3 #1
-http://cdn.teambr.live:80/wilsonmagrao/9010101/43634
-#EXTINF:-1 tvg-id="DAZN 3" tvg-name="DAZN 3 HD #5" tvg-logo="http://cdn.teambr.live:80/images/98bb2910883b8ad5ac110131fd466ce3.png" group-title="Esportes 4 | Dazn",DAZN 3 HD #5
-http://cdn.teambr.live:80/wilsonmagrao/9010101/43526
-#EXTINF:-1 tvg-id="DAZN 4" tvg-name="DAZN 4 HD #5" tvg-logo="http://cdn.teambr.live:80/images/98bb2910883b8ad5ac110131fd466ce3.png" group-title="Esportes 4 | Dazn",DAZN 4 HD #5
-http://cdn.teambr.live:80/wilsonmagrao/9010101/43527
-#EXTINF:-1 tvg-id="DAZN 1" tvg-name="DAZN BR #1" tvg-logo="http://cdn.teambr.live:80/images/98bb2910883b8ad5ac110131fd466ce3.png" group-title="Esportes 4 | Dazn",DAZN BR #1
-http://cdn.teambr.live:80/wilsonmagrao/9010101/43635
-#EXTINF:-1 tvg-id="DAZN 3" tvg-name="DAZN HD 3 #3" tvg-logo="http://cdn.teambr.live:80/images/98bb2910883b8ad5ac110131fd466ce3.png" group-title="Esportes 4 | Dazn",DAZN HD 3 #3
-http://cdn.teambr.live:80/wilsonmagrao/9010101/499
-#EXTINF:-1 tvg-id="LiveEI" tvg-name="TNT Sports 1 #3" tvg-logo="https://raw.githubusercontent.com/korisco/KoriscoNet/main/Images/tntsports.png" group-title="Esportes 5 | TNT Sports",TNT Sports 1 #3
-http://cdn.teambr.live:80/wilsonmagrao/9010101/38455
-#EXTINF:-1 tvg-id="LiveEI" tvg-name="TNT Sports 2 #3" tvg-logo="https://raw.githubusercontent.com/korisco/KoriscoNet/main/Images/tntsports.png" group-title="Esportes 5 | TNT Sports",TNT Sports 2 #3
-http://cdn.teambr.live:80/wilsonmagrao/9010101/38456
-#EXTINF:-1 tvg-id="LiveEI" tvg-name="Tnt Sports 3 HD #3" tvg-logo="https://raw.githubusercontent.com/korisco/KoriscoNet/main/Images/tntsports.png" group-title="Esportes 5 | TNT Sports",TNT Sports 3 HD #3
-http://cdn.teambr.live:80/wilsonmagrao/9010101/39451
-#EXTINF:-1 tvg-id="Ae.br" tvg-name="A&E +HD" tvg-logo="http://i.imgur.com/7NKeRuh.png" group-title="Filmes 1 | Basico",A&E +HD
-http://cdn.teambr.live:80/wilsonmagrao/9010101/42
-#EXTINF:-1 tvg-id="Ae.br" tvg-name="A&E HD_1080p #3" tvg-logo="http://i.imgur.com/7NKeRuh.png" group-title="Filmes 1 | Basico",A&E HD_1080p #3
-http://cdn.teambr.live:80/wilsonmagrao/9010101/43479
-#EXTINF:-1 tvg-id="Amc.br" tvg-name="AMC +HD" tvg-logo="https://raw.githubusercontent.com/korisco/KoriscoNet/main/Images/mgm.gif" group-title="Filmes 1 | Basico",AMC +HD
-http://cdn.teambr.live:80/wilsonmagrao/9010101/43
-#EXTINF:-1 tvg-id="Amc.br" tvg-name="AMC HD_1080p #3" tvg-logo="https://raw.githubusercontent.com/korisco/KoriscoNet/main/Images/mgm.gif" group-title="Filmes 1 | Basico",AMC HD_1080p #3
-http://cdn.teambr.live:80/wilsonmagrao/9010101/42134
-#EXTINF:-1 tvg-id="Arte1.br" tvg-name="Arte 1 +HD" tvg-logo="http://i.imgur.com/uHwATw4.png" group-title="Filmes 1 | Basico",Arte 1 +HD
-http://cdn.teambr.live:80/wilsonmagrao/9010101/45
-#EXTINF:-1 tvg-id="Axn.br" tvg-name="AXN +HD" tvg-logo="http://i.imgur.com/cAGSnn7.png" group-title="Filmes 1 | Basico",AXN +HD
-http://cdn.teambr.live:80/wilsonmagrao/9010101/46
-#EXTINF:-1 tvg-id="Axn.br" tvg-name="Axn HD_1080p #3" tvg-logo="http://i.imgur.com/cAGSnn7.png" group-title="Filmes 1 | Basico",Axn HD_1080p #3
-http://cdn.teambr.live:80/wilsonmagrao/9010101/468
-#EXTINF:-1 tvg-id="Cinemax.br" tvg-name="Cinemax +HD" tvg-logo="http://cdn.teambr.live:80/images/9b483584a8f77ed3094a2b82b11d35e2.png" group-title="Filmes 1 | Basico",Cinemax +HD
-http://cdn.teambr.live:80/wilsonmagrao/9010101/57
-#EXTINF:-1 tvg-id="Cinemax.br" tvg-name="Cinemax HD_1080p #1" tvg-logo="http://cdn.teambr.live:80/images/9b483584a8f77ed3094a2b82b11d35e2.png" group-title="Filmes 1 | Basico",Cinemax HD_1080p #1
-http://cdn.teambr.live:80/wilsonmagrao/9010101/43624
-#EXTINF:-1 tvg-id="Comedycentral.br" tvg-name="Comedy Central +HD" tvg-logo="https://raw.githubusercontent.com/korisco/KoriscoNet/main/Images/comedy.png" group-title="Filmes 1 | Basico",Comedy Central +HD
-http://cdn.teambr.live:80/wilsonmagrao/9010101/60
-#EXTINF:-1 tvg-id="Comedycentral.br" tvg-name="Comedy Central HD #2" tvg-logo="https://raw.githubusercontent.com/korisco/KoriscoNet/main/Images/comedy.png" group-title="Filmes 1 | Basico",Comedy Central HD #2
-http://cdn.teambr.live:80/wilsonmagrao/9010101/40682
-#EXTINF:-1 tvg-id="film-arts" tvg-name="Film&Arts +HD" tvg-logo="http://cdn.teambr.live:80/images/90340bc79c7e2971db93d0405083f638.png" group-title="Filmes 1 | Basico",Film&Arts +HD
-http://cdn.teambr.live:80/wilsonmagrao/9010101/80
-#EXTINF:-1 tvg-id="Fox.br" tvg-name="Star Channel +HD" tvg-logo="https://raw.githubusercontent.com/korisco/KoriscoNet/main/Images/Star_Channel_2021.png" group-title="Filmes 1 | Basico",Star Channel +HD
-http://cdn.teambr.live:80/wilsonmagrao/9010101/82
-#EXTINF:-1 tvg-id="Fox.br" tvg-name="Star Channel HD #3" tvg-logo="https://raw.githubusercontent.com/korisco/KoriscoNet/main/Images/Star_Channel_2021.png" group-title="Filmes 1 | Basico",Star Channel HD #3
-http://cdn.teambr.live:80/wilsonmagrao/9010101/38616
-#EXTINF:-1 tvg-id="Foxpremium1.br" tvg-name="Star Hits 1 +HD" tvg-logo="https://raw.githubusercontent.com/korisco/KoriscoNet/main/Images/Star_Hits_2021.png" group-title="Filmes 1 | Basico",Star Hits 1 +HD
-http://cdn.teambr.live:80/wilsonmagrao/9010101/85
-#EXTINF:-1 tvg-id="Foxpremium1.br" tvg-name="Star Hits 1 HD #4" tvg-logo="https://raw.githubusercontent.com/korisco/KoriscoNet/main/Images/Star_Hits_2021.png" group-title="Filmes 1 | Basico",Star Hits 1 HD #4
-http://cdn.teambr.live:80/wilsonmagrao/9010101/40814
-#EXTINF:-1 tvg-id="Foxpremium2.br" tvg-name="Star Hits 2 +HD" tvg-logo="https://raw.githubusercontent.com/korisco/KoriscoNet/main/Images/Star_Hits_2_Brasil_2021.png" group-title="Filmes 1 | Basico",Star Hits 2 +HD
-http://cdn.teambr.live:80/wilsonmagrao/9010101/84
-#EXTINF:-1 tvg-id="Foxpremium2.br" tvg-name="Star Hits 2 HD #4" tvg-logo="https://raw.githubusercontent.com/korisco/KoriscoNet/main/Images/Star_Hits_2_Brasil_2021.png" group-title="Filmes 1 | Basico",Star Hits 2 HD #4
-http://cdn.teambr.live:80/wilsonmagrao/9010101/40815
-#EXTINF:-1 tvg-id="Fx.br" tvg-name="FX +HD" tvg-logo="http://i.imgur.com/GaQZSu6.png" group-title="Filmes 1 | Basico",FX +HD
-http://cdn.teambr.live:80/wilsonmagrao/9010101/88
-#EXTINF:-1 tvg-id="Fx.br" tvg-name="FX HD #3" tvg-logo="http://i.imgur.com/GaQZSu6.png" group-title="Filmes 1 | Basico",FX HD #3
-http://cdn.teambr.live:80/wilsonmagrao/9010101/38617
-#EXTINF:-1 tvg-id="Hbo.br" tvg-name="HBO 1 +HD" tvg-logo="http://cdn.teambr.live:80/images/109596478ddccc3d5899c79bb5aee8b9.png" group-title="Filmes 1 | Basico",HBO 1 +HD
-http://cdn.teambr.live:80/wilsonmagrao/9010101/96
-#EXTINF:-1 tvg-id="Hbo.br" tvg-name="HBO 1 HD #2" tvg-logo="http://cdn.teambr.live:80/images/109596478ddccc3d5899c79bb5aee8b9.png" group-title="Filmes 1 | Basico",HBO 1 HD #2
-http://cdn.teambr.live:80/wilsonmagrao/9010101/40700
-#EXTINF:-1 tvg-id="Hbo2.br" tvg-name="HBO 2 +HD" tvg-logo="https://raw.githubusercontent.com/korisco/KoriscoNet/main/Images/hbo2b.png" group-title="Filmes 1 | Basico",HBO 2 +HD
-http://cdn.teambr.live:80/wilsonmagrao/9010101/94
-#EXTINF:-1 tvg-id="Hbo2.br" tvg-name="HBO 2 HD_1080p #1" tvg-logo="https://raw.githubusercontent.com/korisco/KoriscoNet/main/Images/hbo2b.png" group-title="Filmes 1 | Basico",HBO 2 HD_1080p #1
-http://cdn.teambr.live:80/wilsonmagrao/9010101/43701
-#EXTINF:-1 tvg-id="Hbofamily.br" tvg-name="HBO Family +HD" tvg-logo="https://raw.githubusercontent.com/korisco/KoriscoNet/main/Images/HBO_Family_logo.png" group-title="Filmes 1 | Basico",HBO Family +HD
-http://cdn.teambr.live:80/wilsonmagrao/9010101/95
-#EXTINF:-1 tvg-id="Hbofamily.br" tvg-name="HBO Family HD_1080p #5" tvg-logo="https://raw.githubusercontent.com/korisco/KoriscoNet/main/Images/HBO_Family_logo.png" group-title="Filmes 1 | Basico",HBO Family HD_1080p #5
-http://cdn.teambr.live:80/wilsonmagrao/9010101/43536
-#EXTINF:-1 tvg-id="Max.br" tvg-name="HBO Mundi +HD" tvg-logo="https://raw.githubusercontent.com/korisco/KoriscoNet/main/Images/hbomundib.png" group-title="Filmes 1 | Basico",HBO Mundi +HD
-http://cdn.teambr.live:80/wilsonmagrao/9010101/97
-#EXTINF:-1 tvg-id="Max.br" tvg-name="HBO Mundi HD #3" tvg-logo="https://raw.githubusercontent.com/korisco/KoriscoNet/main/Images/hbomundib.png" group-title="Filmes 1 | Basico",HBO Mundi HD #3
-http://cdn.teambr.live:80/wilsonmagrao/9010101/38479
-#EXTINF:-1 tvg-id="Hboplus.br" tvg-name="HBO Plus +HD" tvg-logo="https://raw.githubusercontent.com/korisco/KoriscoNet/main/Images/hboplus.png" group-title="Filmes 1 | Basico",HBO Plus +HD
-http://cdn.teambr.live:80/wilsonmagrao/9010101/98
-#EXTINF:-1 tvg-id="Hboplus.br" tvg-name="HBO Plus HD_1080p #1" tvg-logo="https://raw.githubusercontent.com/korisco/KoriscoNet/main/Images/hboplus.png" group-title="Filmes 1 | Basico",HBO Plus HD_1080p #1
-http://cdn.teambr.live:80/wilsonmagrao/9010101/43704
-#EXTINF:-1 tvg-id="Maxuphd.br" tvg-name="HBO Pop +HD" tvg-logo="https://raw.githubusercontent.com/korisco/KoriscoNet/main/Images/hbopopb.png" group-title="Filmes 1 | Basico",HBO Pop +HD
-http://cdn.teambr.live:80/wilsonmagrao/9010101/99
-#EXTINF:-1 tvg-id="Maxuphd.br" tvg-name="HBO Pop HD #3" tvg-logo="https://raw.githubusercontent.com/korisco/KoriscoNet/main/Images/hbopopb.png" group-title="Filmes 1 | Basico",HBO Pop HD #3
-http://cdn.teambr.live:80/wilsonmagrao/9010101/38482
-#EXTINF:-1 tvg-id="Hbosignature.br" tvg-name="HBO Signature +HD" tvg-logo="https://raw.githubusercontent.com/korisco/KoriscoNet/main/Images/hbosignatureb.png" group-title="Filmes 1 | Basico",HBO Signature +HD
-http://cdn.teambr.live:80/wilsonmagrao/9010101/100
-#EXTINF:-1 tvg-id="Hbosignature.br" tvg-name="HBO Signature HD #3" tvg-logo="https://raw.githubusercontent.com/korisco/KoriscoNet/main/Images/hbosignatureb.png" group-title="Filmes 1 | Basico",HBO Signature HD #3
-http://cdn.teambr.live:80/wilsonmagrao/9010101/38483
-#EXTINF:-1 tvg-id="Maxprime.br" tvg-name="HBO Xtreme +HD" tvg-logo="https://raw.githubusercontent.com/korisco/KoriscoNet/main/Images/hboxtremeb.png" group-title="Filmes 1 | Basico",HBO Xtreme +HD
-http://cdn.teambr.live:80/wilsonmagrao/9010101/101
-#EXTINF:-1 tvg-id="Maxprime.br" tvg-name="HBO Xtreme HD_1080p #1" tvg-logo="https://raw.githubusercontent.com/korisco/KoriscoNet/main/Images/hboxtremeb.png" group-title="Filmes 1 | Basico",HBO Xtreme HD_1080p #1
-http://cdn.teambr.live:80/wilsonmagrao/9010101/43707
-#EXTINF:-1 tvg-id="Megapix.br" tvg-name="Megapix +HD" tvg-logo="http://cdn.teambr.live:80/images/5ee9b7a6d44d671f468b2e3b8b92e6b0.png" group-title="Filmes 1 | Basico",Megapix +HD
-http://cdn.teambr.live:80/wilsonmagrao/9010101/108
-#EXTINF:-1 tvg-id="Megapix.br" tvg-name="Megapix HD_1080p #3" tvg-logo="http://cdn.teambr.live:80/images/ccce959606456d844f8948409a13d0c5.png" group-title="Filmes 1 | Basico",Megapix HD_1080p #3
-http://cdn.teambr.live:80/wilsonmagrao/9010101/559
-#EXTINF:-1 tvg-id="Paramounthd.br" tvg-name="Paramount +HD" tvg-logo="https://raw.githubusercontent.com/korisco/KoriscoNet/main/Images/paramountchannel.png" group-title="Filmes 1 | Basico",Paramount +HD
-http://cdn.teambr.live:80/wilsonmagrao/9010101/118
-#EXTINF:-1 tvg-id="Paramounthd.br" tvg-name="Paramount HD_1080p #1" tvg-logo="https://raw.githubusercontent.com/korisco/KoriscoNet/main/Images/paramountchannel.png" group-title="Filmes 1 | Basico",Paramount HD_1080p #1
-http://cdn.teambr.live:80/wilsonmagrao/9010101/43720
-#EXTINF:-1 tvg-id="Prime Box Brazil" tvg-name="Prime Box HD #2" tvg-logo="https://www.tvmagazine.com.br/imagens/icones/150/primeboxbrazil.png" group-title="Filmes 1 | Basico",Prime Box HD #2
-http://cdn.teambr.live:80/wilsonmagrao/9010101/40674
-#EXTINF:-1 tvg-id="Sony.br" tvg-name="Sony +HD" tvg-logo="https://www.nowonline.com.br/img/channels/canal_sony.png" group-title="Filmes 1 | Basico",Sony +HD
-http://cdn.teambr.live:80/wilsonmagrao/9010101/138
-#EXTINF:-1 tvg-id="Sony.br" tvg-name="Sony HD #4" tvg-logo="https://www.nowonline.com.br/img/channels/canal_sony.png" group-title="Filmes 1 | Basico",Sony HD #4
-http://cdn.teambr.live:80/wilsonmagrao/9010101/40837
-#EXTINF:-1 tvg-id="Space.br" tvg-name="Space +HD" tvg-logo="https://www.tvmagazine.com.br/imagens/icones/150/space.png" group-title="Filmes 1 | Basico",Space +HD
-http://cdn.teambr.live:80/wilsonmagrao/9010101/139
-#EXTINF:-1 tvg-id="Space.br" tvg-name="Space HD #3" tvg-logo="https://www.tvmagazine.com.br/imagens/icones/150/space.png" group-title="Filmes 1 | Basico",Space HD #3
-http://cdn.teambr.live:80/wilsonmagrao/9010101/1079
-#EXTINF:-1 tvg-id="Studiouniversal.br" tvg-name="Studio Universal +HD" tvg-logo="https://www.tvmagazine.com.br/imagens/icones/150/universaltv.png" group-title="Filmes 1 | Basico",Studio Universal +HD
-http://cdn.teambr.live:80/wilsonmagrao/9010101/143
-#EXTINF:-1 tvg-id="Studiouniversal.br" tvg-name="Studio Universal HD_1080p #1" tvg-logo="https://www.tvmagazine.com.br/imagens/icones/150/universaltv.png" group-title="Filmes 1 | Basico",Studio Universal HD_1080p #1
-http://cdn.teambr.live:80/wilsonmagrao/9010101/43771
-#EXTINF:-1 tvg-id="Syfy.br" tvg-name="SyFy +HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/ab/Syfylogo.png" group-title="Filmes 1 | Basico",SyFy +HD
-http://cdn.teambr.live:80/wilsonmagrao/9010101/144
-#EXTINF:-1 tvg-id="Syfy.br" tvg-name="SyFy HD_1080p #1" tvg-logo="http://cdn.teambr.live:80/images/61d7e5ff7c5d6f56f35e606148c25412.png" group-title="Filmes 1 | Basico",SyFy HD_1080p #1
-http://cdn.teambr.live:80/wilsonmagrao/9010101/43772
-#EXTINF:-1 tvg-id="Tbs.br" tvg-name="TBS +HD" tvg-logo="http://cdn.teambr.live:80/images/332e093fbb9d82a0653aa96e85bbdac9.png" group-title="Filmes 1 | Basico",TBS +HD
-http://cdn.teambr.live:80/wilsonmagrao/9010101/145
-#EXTINF:-1 tvg-id="Tbs.br" tvg-name="TBS HD_1080p #1" tvg-logo="http://cdn.teambr.live:80/images/332e093fbb9d82a0653aa96e85bbdac9.png" group-title="Filmes 1 | Basico",TBS HD_1080p #1
-http://cdn.teambr.live:80/wilsonmagrao/9010101/43773
-#EXTINF:-1 tvg-id="Tcm.br" tvg-name="TCM +HD" tvg-logo="http://cdn.teambr.live:80/images/2e27da117edb402fbd3564c21e73275f.png" group-title="Filmes 1 | Basico",TCM +HD
-http://cdn.teambr.live:80/wilsonmagrao/9010101/146
-#EXTINF:-1 tvg-id="Tcm.br" tvg-name="TCM HD #3" tvg-logo="http://cdn.teambr.live:80/images/2e27da117edb402fbd3564c21e73275f.png" group-title="Filmes 1 | Basico",TCM HD #3
-http://cdn.teambr.live:80/wilsonmagrao/9010101/38529
-#EXTINF:-1 tvg-id="Tnt.br" tvg-name="TNT +HD" tvg-logo="http://cdn.teambr.live:80/images/4d383b70c0e1e560c5d80211f998be93.png" group-title="Filmes 1 | Basico",TNT +HD
-http://cdn.teambr.live:80/wilsonmagrao/9010101/154
-#EXTINF:-1 tvg-id="Tnt.br" tvg-name="TNT HD #3" tvg-logo="http://cdn.teambr.live:80/images/4d383b70c0e1e560c5d80211f998be93.png" group-title="Filmes 1 | Basico",TNT HD #3
-http://cdn.teambr.live:80/wilsonmagrao/9010101/581
-#EXTINF:-1 tvg-id="TNTSerie.br" tvg-name="TNT Series +HD" tvg-logo="https://raw.githubusercontent.com/korisco/KoriscoNet/main/Images/tntseries.png" group-title="Filmes 1 | Basico",TNT Series +HD
-http://cdn.teambr.live:80/wilsonmagrao/9010101/155
-#EXTINF:-1 tvg-id="TNTSerie.br" tvg-name="TNT Séries HD #2" tvg-logo="https://raw.githubusercontent.com/korisco/KoriscoNet/main/Images/tntseries.png" group-title="Filmes 1 | Basico",TNT Séries HD #2
-http://cdn.teambr.live:80/wilsonmagrao/9010101/40711
-#EXTINF:-1 tvg-id="Universalchannel.br" tvg-name="Universal HD #3" tvg-logo="http://cdn.teambr.live:80/images/0e2bcebdc68d2c85a8db50aaa1f981fe.png" group-title="Filmes 1 | Basico",Universal HD #3
-http://cdn.teambr.live:80/wilsonmagrao/9010101/38540
-#EXTINF:-1 tvg-id="Universalchannel.br" tvg-name="Universal TV +HD" tvg-logo="http://cdn.teambr.live:80/images/5c8d2af36dbec982c74da70a4378e8c4.png" group-title="Filmes 1 | Basico",Universal +HD
-http://cdn.teambr.live:80/wilsonmagrao/9010101/159
-#EXTINF:-1 tvg-id="Warnerchannel.br" tvg-name="Warner Channel +HD" tvg-logo="https://raw.githubusercontent.com/korisco/KoriscoNet/main/Images/warner.png" group-title="Filmes 1 | Basico",Warner Channel +HD
-http://cdn.teambr.live:80/wilsonmagrao/9010101/163
-#EXTINF:-1 tvg-id="Warnerchannel.br" tvg-name="Warner Channel FHD 265" tvg-logo="https://raw.githubusercontent.com/korisco/KoriscoNet/main/Images/warner.png" group-title="Filmes 1 | Basico",Warner Channel FHD 265
-http://cdn.teambr.live:80/wilsonmagrao/9010101/43537
-#EXTINF:-1 tvg-id="Foxlife.br" tvg-name="Star Life +HD" tvg-logo="https://raw.githubusercontent.com/korisco/KoriscoNet/main/Images/Star_Life_2021.svg.png" group-title="Filmes 1 | Basico",Star Life +HD
-http://cdn.teambr.live:80/wilsonmagrao/9010101/83
-#EXTINF:-1 tvg-id="Foxlife.br" tvg-name="Star Life HD #3" tvg-logo="https://raw.githubusercontent.com/korisco/KoriscoNet/main/Images/Star_Life_2021.svg.png" group-title="Filmes 1 | Basico",Star Life HD #3
-http://cdn.teambr.live:80/wilsonmagrao/9010101/38458
-#EXTINF:-1 tvg-id="Tcaction.br" tvg-name="Telecine Action +HD" tvg-logo="https://raw.githubusercontent.com/korisco/KoriscoNet/main/Images/tcaction.png" group-title="Filmes 2 | Telecine",Telecine Action +HD
-http://cdn.teambr.live:80/wilsonmagrao/9010101/147
-#EXTINF:-1 tvg-id="Tcaction.br" tvg-name="Telecine Action HD #3" tvg-logo="https://raw.githubusercontent.com/korisco/KoriscoNet/main/Images/tcaction.png" group-title="Filmes 2 | Telecine",Telecine Action HD #3
-http://cdn.teambr.live:80/wilsonmagrao/9010101/38530
-#EXTINF:-1 tvg-id="Tccult.br" tvg-name="Telecine Cult +HD" tvg-logo="https://raw.githubusercontent.com/korisco/KoriscoNet/main/Images/tccult.png" group-title="Filmes 2 | Telecine",Telecine Cult +HD
-http://cdn.teambr.live:80/wilsonmagrao/9010101/148
-#EXTINF:-1 tvg-id="Tccult.br" tvg-name="Telecine Cult HD #3" tvg-logo="https://raw.githubusercontent.com/korisco/KoriscoNet/main/Images/tccult.png" group-title="Filmes 2 | Telecine",Telecine Cult HD #3
-http://cdn.teambr.live:80/wilsonmagrao/9010101/38531
-#EXTINF:-1 tvg-id="Tcfun.br" tvg-name="Telecine Fun +HD" tvg-logo="https://raw.githubusercontent.com/korisco/KoriscoNet/main/Images/tcfun.png" group-title="Filmes 2 | Telecine",Telecine Fun +HD
-http://cdn.teambr.live:80/wilsonmagrao/9010101/149
-#EXTINF:-1 tvg-id="Tcfun.br" tvg-name="Telecine Fun HD #4" tvg-logo="https://raw.githubusercontent.com/korisco/KoriscoNet/main/Images/tcfun.png" group-title="Filmes 2 | Telecine",Telecine Fun HD #4
-http://cdn.teambr.live:80/wilsonmagrao/9010101/40842
-#EXTINF:-1 tvg-id="Tcpipoca.br" tvg-name="Telecine Pipoca +HD" tvg-logo="https://raw.githubusercontent.com/korisco/KoriscoNet/main/Images/tcpipoca.png" group-title="Filmes 2 | Telecine",Telecine Pipoca +HD
-http://cdn.teambr.live:80/wilsonmagrao/9010101/150
-#EXTINF:-1 tvg-id="Tcpipoca.br" tvg-name="Telecine Pipoca HD #3" tvg-logo="https://raw.githubusercontent.com/korisco/KoriscoNet/main/Images/tcpipoca.png" group-title="Filmes 2 | Telecine",Telecine Pipoca HD #3
-http://cdn.teambr.live:80/wilsonmagrao/9010101/38533
-#EXTINF:-1 tvg-id="Tcpremium.br" tvg-name="Telecine Premium +HD" tvg-logo="https://raw.githubusercontent.com/korisco/KoriscoNet/main/Images/tcpremium.png" group-title="Filmes 2 | Telecine",Telecine Premium +HD
-http://cdn.teambr.live:80/wilsonmagrao/9010101/151
-#EXTINF:-1 tvg-id="Tcpremium.br" tvg-name="Telecine Premium HD #3" tvg-logo="https://raw.githubusercontent.com/korisco/KoriscoNet/main/Images/tcpremium.png" group-title="Filmes 2 | Telecine",Telecine Premium HD #3
-http://cdn.teambr.live:80/wilsonmagrao/9010101/38534
-#EXTINF:-1 tvg-id="Tctouch.br" tvg-name="Telecine Touch +HD" tvg-logo="https://raw.githubusercontent.com/korisco/KoriscoNet/main/Images/tctouch.png" group-title="Filmes 2 | Telecine",Telecine Touch +HD
-http://cdn.teambr.live:80/wilsonmagrao/9010101/152
-#EXTINF:-1 tvg-id="Tctouch.br" tvg-name="Telecine Touch HD #3" tvg-logo="https://raw.githubusercontent.com/korisco/KoriscoNet/main/Images/tctouch.png" group-title="Filmes 2 | Telecine",Telecine Touch HD #3
-http://cdn.teambr.live:80/wilsonmagrao/9010101/38438
-#EXTINF:-1 tvg-id="Cine SKY" tvg-name="SKY PLAY 01 #1" tvg-logo="https://assineskyagora.com.br/wp-content/uploads/2020/05/sky-play-logo.png" group-title="Filmes 3 | Cine Sky",SKY PLAY 01 #1
-http://cdn.teambr.live:80/wilsonmagrao/9010101/43601
-#EXTINF:-1 tvg-id="Cine SKY" tvg-name="SKY PLAY 02 #1" tvg-logo="https://assineskyagora.com.br/wp-content/uploads/2020/05/sky-play-logo.png" group-title="Filmes 3 | Cine Sky",SKY PLAY 02 #1
-http://cdn.teambr.live:80/wilsonmagrao/9010101/43602
-#EXTINF:-1 tvg-id="Cine SKY" tvg-name="SKY PLAY 03 #1" tvg-logo="https://assineskyagora.com.br/wp-content/uploads/2020/05/sky-play-logo.png" group-title="Filmes 3 | Cine Sky",SKY PLAY 03 #1
-http://cdn.teambr.live:80/wilsonmagrao/9010101/43603
-#EXTINF:-1 tvg-id="Cine SKY" tvg-name="SKY PLAY 04 #1" tvg-logo="https://assineskyagora.com.br/wp-content/uploads/2020/05/sky-play-logo.png" group-title="Filmes 3 | Cine Sky",SKY PLAY 04 #1
-http://cdn.teambr.live:80/wilsonmagrao/9010101/43604
-#EXTINF:-1 tvg-id="Cine SKY" tvg-name="SKY PLAY 05 #1" tvg-logo="https://assineskyagora.com.br/wp-content/uploads/2020/05/sky-play-logo.png" group-title="Filmes 3 | Cine Sky",SKY PLAY 05 #1
-http://cdn.teambr.live:80/wilsonmagrao/9010101/43605
-#EXTINF:-1 tvg-id="BabyTV.br" tvg-name="Baby +HD" tvg-logo="https://upload.wikimedia.org/wikipedia/en/4/45/BabyTV.png" group-title="Infantil",Baby +HD
-http://cdn.teambr.live:80/wilsonmagrao/9010101/47
-#EXTINF:-1 tvg-id="BabyTV.br" tvg-name="Baby HD #3" tvg-logo="https://upload.wikimedia.org/wikipedia/en/4/45/BabyTV.png" group-title="Infantil",Baby HD #3
-http://cdn.teambr.live:80/wilsonmagrao/9010101/470
-#EXTINF:-1 tvg-id="Boomerang.br" tvg-name="Boomerang +HD" tvg-logo="http://cdn.teambr.live:80/images/498d21282da8800d6998b230050ffaf8.png" group-title="Infantil",Boomerang +HD
-http://cdn.teambr.live:80/wilsonmagrao/9010101/53
-#EXTINF:-1 tvg-id="Boomerang.br" tvg-name="Boomerang HD #3" tvg-logo="http://cdn.teambr.live:80/images/498d21282da8800d6998b230050ffaf8.png" group-title="Infantil",Boomerang HD #3
-http://cdn.teambr.live:80/wilsonmagrao/9010101/475
-#EXTINF:-1 tvg-id="Cartoonnetwork.br" tvg-name="Cartoon Network +HD" tvg-logo="http://i.imgur.com/S5PsDDR.png" group-title="Infantil",Cartoon Network +HD
-http://cdn.teambr.live:80/wilsonmagrao/9010101/56
-#EXTINF:-1 tvg-id="Cartoonnetwork.br" tvg-name="Cartoon Network HD #2" tvg-logo="http://i.imgur.com/S5PsDDR.png" group-title="Infantil",Cartoon Network HD #2
-http://cdn.teambr.live:80/wilsonmagrao/9010101/40681
-#EXTINF:-1 tvg-id="Discoverykids.br" tvg-name="Discovery Kids +HD" tvg-logo="http://i.imgur.com/32njYPj.png" group-title="Infantil",Discovery Kids +HD
-http://cdn.teambr.live:80/wilsonmagrao/9010101/66
-#EXTINF:-1 tvg-id="Discoverykids.br" tvg-name="Discovery Kids HD #3" tvg-logo="http://i.imgur.com/32njYPj.png" group-title="Infantil",Discovery Kids HD #3
-http://cdn.teambr.live:80/wilsonmagrao/9010101/38452
-#EXTINF:-1 tvg-id="Disneychannel.br" tvg-name="Disney Channel  +HD" tvg-logo="https://i.imgur.com/4KeieN7.png" group-title="Infantil",Disney Channel  +HD
-http://cdn.teambr.live:80/wilsonmagrao/9010101/71
-#EXTINF:-1 tvg-id="Disneychannel.br" tvg-name="Disney Channel HD_1080p #1" tvg-logo="https://i.imgur.com/4KeieN7.png" group-title="Infantil",Disney Channel HD_1080p #1
-http://cdn.teambr.live:80/wilsonmagrao/9010101/43642
-#EXTINF:-1 tvg-id="Disneyjrhd.br" tvg-name="Disney Junior +HD" tvg-logo="https://raw.githubusercontent.com/korisco/KoriscoNet/main/Images/disneyJR.png" group-title="Infantil",Disney Junior +HD
-http://cdn.teambr.live:80/wilsonmagrao/9010101/72
-#EXTINF:-1 tvg-id="Disneyjrhd.br" tvg-name="Disney Junior HD_1080p #3" tvg-logo="https://raw.githubusercontent.com/korisco/KoriscoNet/main/Images/disneyJR.png" group-title="Infantil",Disney Junior HD_1080p #3
-http://cdn.teambr.live:80/wilsonmagrao/9010101/38561
-#EXTINF:-1 tvg-id="Disneyxd.br" tvg-name="Disney XD HD #3" tvg-logo="https://www.tvmagazine.com.br/imagens/icones/150/disneyxd.png" group-title="Infantil",Disney XD HD #3
-http://cdn.teambr.live:80/wilsonmagrao/9010101/38610
-#EXTINF:-1 tvg-id="Disneyxd.br" tvg-name="Disney XD HD_1080p #3" tvg-logo="https://www.tvmagazine.com.br/imagens/icones/150/disneyxd.png" group-title="Infantil",Disney XD HD_1080p #3
-http://cdn.teambr.live:80/wilsonmagrao/9010101/42152
-#EXTINF:-1 tvg-id="Gloob.br" tvg-name="Gloob +HD" tvg-logo="http://i.imgur.com/mFDFUjt.png" group-title="Infantil",Gloob +HD
-http://cdn.teambr.live:80/wilsonmagrao/9010101/91
-#EXTINF:-1 tvg-id="Gloobinho.br" tvg-name="Gloob HD_1080p #1" tvg-logo="http://i.imgur.com/mFDFUjt.png" group-title="Infantil",Gloob HD_1080p #1
-http://cdn.teambr.live:80/wilsonmagrao/9010101/43697
-#EXTINF:-1 tvg-id="Gloobinho.br" tvg-name="Gloobinho HD #3" tvg-logo="https://www.tvmagazine.com.br/imagens/icones/150/gloobinho.png" group-title="Infantil",Gloobinho HD #3
-http://cdn.teambr.live:80/wilsonmagrao/9010101/543
-#EXTINF:-1 tvg-id="Gloob.br" tvg-name="Gloobinho HD #4" tvg-logo="https://www.tvmagazine.com.br/imagens/icones/150/gloobinho.png" group-title="Infantil",Gloobinho HD #4
-http://cdn.teambr.live:80/wilsonmagrao/9010101/542
-#EXTINF:-1 tvg-id="Natgeokids.br" tvg-name="Nat Geo Kids +HD" tvg-logo="https://www.tvmagazine.com.br/imagens/icones/150/natgeokids.png" group-title="Infantil",Nat Geo Kids +HD
-http://cdn.teambr.live:80/wilsonmagrao/9010101/112
-#EXTINF:-1 tvg-id="Natgeokids.br" tvg-name="Nat Geo Kids HD #3" tvg-logo="https://www.tvmagazine.com.br/imagens/icones/150/natgeokids.png" group-title="Infantil",Nat Geo Kids HD #3
-http://cdn.teambr.live:80/wilsonmagrao/9010101/38493
-#EXTINF:-1 tvg-id="NickJr.br" tvg-name="Nick Junior +HD" tvg-logo="https://www.tvmagazine.com.br/imagens/icones/150/nickjr.png" group-title="Infantil",Nick Junior +HD
-http://cdn.teambr.live:80/wilsonmagrao/9010101/115
-#EXTINF:-1 tvg-id="NickJr.br" tvg-name="Nick Junior HD #2" tvg-logo="https://www.tvmagazine.com.br/imagens/icones/150/nickjr.png" group-title="Infantil",Nick Junior HD #2
-http://cdn.teambr.live:80/wilsonmagrao/9010101/40708
-#EXTINF:-1 tvg-id="Nickelodeon.br" tvg-name="Nickelodeon +HD" tvg-logo="https://raw.githubusercontent.com/korisco/KoriscoNet/main/Images/nick.png" group-title="Infantil",Nickelodeon +HD
-http://cdn.teambr.live:80/wilsonmagrao/9010101/116
-#EXTINF:-1 tvg-id="Nickelodeon.br" tvg-name="Nickelodeon HD #3" tvg-logo="https://raw.githubusercontent.com/korisco/KoriscoNet/main/Images/nick.png" group-title="Infantil",Nickelodeon HD #3
-http://cdn.teambr.live:80/wilsonmagrao/9010101/38497
-#EXTINF:-1 tvg-id="Tooncast.br" tvg-name="Tooncast +HD" tvg-logo="http://cdn.teambr.live:80/images/842bb72b9cc9ef8c86459a5101fb8673.png" group-title="Infantil",Tooncast +HD
-http://cdn.teambr.live:80/wilsonmagrao/9010101/156
-#EXTINF:-1 tvg-id="Tooncast.br" tvg-name="Tooncast HD #3" tvg-logo="http://cdn.teambr.live:80/images/842bb72b9cc9ef8c86459a5101fb8673.png" group-title="Infantil",Tooncast HD #3
-http://cdn.teambr.live:80/wilsonmagrao/9010101/38537
-#EXTINF:-1 tvg-id="Tvratimbum.br" tvg-name="Ratimbum +HD" tvg-logo="https://www.tvmagazine.com.br/imagens/icones/150/tvratimbum.png" group-title="Infantil",RA TIM BUM HD +HD
-http://cdn.teambr.live:80/wilsonmagrao/9010101/126
-#EXTINF:-1 tvg-id="Tvratimbum.br" tvg-name="TV RA TIM BUM HD #1" tvg-logo="https://www.tvmagazine.com.br/imagens/icones/150/tvratimbum.png" group-title="Infantil",RA TIM BUM HD #1
-http://cdn.teambr.live:80/wilsonmagrao/9010101/43790
-#EXTINF:-1 tvg-id="Bis.br" tvg-name="BIS +HD" tvg-logo="http://i.imgur.com/JNP327k.png" group-title="Musicas",BIS +HD
-http://cdn.teambr.live:80/wilsonmagrao/9010101/52
-#EXTINF:-1 tvg-id="Bis.br" tvg-name="Bis HD #3" tvg-logo="http://i.imgur.com/JNP327k.png" group-title="Musicas",Bis HD #3
-http://cdn.teambr.live:80/wilsonmagrao/9010101/38602
-#EXTINF:-1 tvg-id="Mtv.br" tvg-name="MTV +HD" tvg-logo="https://raw.githubusercontent.com/korisco/KoriscoNet/main/Images/mtv.png" group-title="Musicas",MTV +HD
-http://cdn.teambr.live:80/wilsonmagrao/9010101/109
-#EXTINF:-1 tvg-id="Mtv.br" tvg-name="MTV HD #2" tvg-logo="https://raw.githubusercontent.com/korisco/KoriscoNet/main/Images/mtv.png" group-title="Musicas",MTV HD #2
-http://cdn.teambr.live:80/wilsonmagrao/9010101/40704
-#EXTINF:-1 tvg-id="Mtvlive.br" tvg-name="MTV Live HD #2" tvg-logo="https://raw.githubusercontent.com/korisco/KoriscoNet/main/Images/mtvlive.png" group-title="Musicas",MTV Live HD #2
-http://cdn.teambr.live:80/wilsonmagrao/9010101/40927
-#EXTINF:-1 tvg-id="Multishow.br" tvg-name="Multishow +HD" tvg-logo="https://raw.githubusercontent.com/korisco/KoriscoNet/main/Images/multishow.png" group-title="Musicas",Multishow +HD
-http://cdn.teambr.live:80/wilsonmagrao/9010101/110
-#EXTINF:-1 tvg-id="Multishow.br" tvg-name="Multishow HD #4" tvg-logo="https://raw.githubusercontent.com/korisco/KoriscoNet/main/Images/multishow.png" group-title="Musicas",Multishow HD #4
-http://cdn.teambr.live:80/wilsonmagrao/9010101/40872
-#EXTINF:-1 tvg-id="Music Box Brasil HD" tvg-name="Music Box Brazil HD #2" tvg-logo="https://www.tvmagazine.com.br/imagens/icones/150/musicboxbrazil.png" group-title="Musicas",Music Box Brazil HD #2
-http://cdn.teambr.live:80/wilsonmagrao/9010101/40675
-#EXTINF:-1 tvg-id="Music Box Brasil HD" tvg-name="Music Box Brazil HD #3" tvg-logo="https://www.tvmagazine.com.br/imagens/icones/150/musicboxbrazil.png" group-title="Musicas",Music Box Brazil HD #3
-http://cdn.teambr.live:80/wilsonmagrao/9010101/38492
-#EXTINF:-1 tvg-id="VH1HD.br" tvg-name="VH1 +HD" tvg-logo="https://raw.githubusercontent.com/korisco/KoriscoNet/main/Images/vh1.png" group-title="Musicas",VH1 +HD
-http://cdn.teambr.live:80/wilsonmagrao/9010101/161
-#EXTINF:-1 tvg-id="VH1HD.br" tvg-name="VH1 HD_1080p #1" tvg-logo="https://raw.githubusercontent.com/korisco/KoriscoNet/main/Images/vh1.png" group-title="Musicas",VH1 HD_1080p #1
-http://cdn.teambr.live:80/wilsonmagrao/9010101/43799
-#EXTINF:-1 tvg-id="Bandnews.br" tvg-name="Band News +HD" tvg-logo="http://i.imgur.com/ibNTVbR.png" group-title="Noticias",Band News +HD
-http://cdn.teambr.live:80/wilsonmagrao/9010101/48
-#EXTINF:-1 tvg-id="Bandnews.br" tvg-name="Band News HD_1080p #3" tvg-logo="http://i.imgur.com/ibNTVbR.png" group-title="Noticias",Band News HD_1080p #3
-http://cdn.teambr.live:80/wilsonmagrao/9010101/42136
-#EXTINF:-1 tvg-name="BBC World HD #1" tvg-logo="http://cdn.teambr.live:80/images/1c4e4c42c81c263acd3ccaa9101d0deb.png" group-title="Noticias",BBC World HD #1
-http://cdn.teambr.live:80/wilsonmagrao/9010101/43616
-#EXTINF:-1 tvg-id="CNNBrasil" tvg-name="CNN Brasil +HD" tvg-logo="http://cdn.teambr.live:80/images/ea2c92ca5bfbef90b6a6a2e8bb68b1f7.png" group-title="Noticias",CNN Brasil +HD
-http://cdn.teambr.live:80/wilsonmagrao/9010101/58
-#EXTINF:-1 tvg-id="CNNBrasil" tvg-name="CNN Brasil HD #3" tvg-logo="http://cdn.teambr.live:80/images/ea2c92ca5bfbef90b6a6a2e8bb68b1f7.png" group-title="Noticias",CNN Brasil HD #3
-http://cdn.teambr.live:80/wilsonmagrao/9010101/38607
-#EXTINF:-1 tvg-id="Globonews.br" tvg-name="Globo News +HD" tvg-logo="https://www.tvmagazine.com.br/imagens/icones/150/globonews.png" group-title="Noticias",Globo News +HD
-http://cdn.teambr.live:80/wilsonmagrao/9010101/90
-#EXTINF:-1 tvg-id="Globonews.br" tvg-name="Globo News HD #2" tvg-logo="https://www.tvmagazine.com.br/imagens/icones/150/globonews.png" group-title="Noticias",Globo News HD #2
-http://cdn.teambr.live:80/wilsonmagrao/9010101/40925
-#EXTINF:-1 tvg-id="Recordnews.br" tvg-name="Record News +HD" tvg-logo="http://cdn.teambr.live:80/images/663ba2aad0af1622e12f27d9ddfa8285.png" group-title="Noticias",Record News +HD
-http://cdn.teambr.live:80/wilsonmagrao/9010101/127
-#EXTINF:-1 tvg-id="Recordnews.br" tvg-name="Record News HD #2" tvg-logo="http://cdn.teambr.live:80/images/663ba2aad0af1622e12f27d9ddfa8285.png" group-title="Noticias",Record News HD #2
-http://cdn.teambr.live:80/wilsonmagrao/9010101/40671
-#EXTINF:-1 tvg-id="Arte1.br" tvg-name="Arte 1 HD #2" tvg-logo="http://i.imgur.com/uHwATw4.png" group-title="Variedades",Arte 1 HD #2
-http://cdn.teambr.live:80/wilsonmagrao/9010101/40917
-#EXTINF:-1 tvg-id="Arte1.br" tvg-name="Arte 1 HD_1080p #3" tvg-logo="http://i.imgur.com/uHwATw4.png" group-title="Variedades",Arte 1 HD_1080p #3
-http://cdn.teambr.live:80/wilsonmagrao/9010101/42135
-#EXTINF:-1 tvg-id="Curta!" tvg-name="Curta! +HD" tvg-logo="https://i.imgur.com/IlzIxvv.png" group-title="Variedades",Curta! +HD
-http://cdn.teambr.live:80/wilsonmagrao/9010101/54
-#EXTINF:-1 tvg-id="Curta!" tvg-name="Curta! HD #2" tvg-logo="https://i.imgur.com/IlzIxvv.png" group-title="Variedades",Curta! HD #2
-http://cdn.teambr.live:80/wilsonmagrao/9010101/40920
-#EXTINF:-1 tvg-id="E.br" tvg-name="E! +HD" tvg-logo="https://raw.githubusercontent.com/korisco/KoriscoNet/main/Images/etv.png" group-title="Variedades",E! +HD
-http://cdn.teambr.live:80/wilsonmagrao/9010101/74
-#EXTINF:-1 tvg-id="E.br" tvg-name="E! HD #2" tvg-logo="https://raw.githubusercontent.com/korisco/KoriscoNet/main/Images/etv.png" group-title="Variedades",E! HD #2
-http://cdn.teambr.live:80/wilsonmagrao/9010101/40921
-#EXTINF:-1 tvg-id="Fishtv.br" tvg-name="Fish TV HD_1080p #1" tvg-logo="http://i.imgur.com/IroXP7H.png" group-title="Variedades",Fish TV HD_1080p #1
-http://cdn.teambr.live:80/wilsonmagrao/9010101/43656
-#EXTINF:-1 tvg-id="Fishtv.br" tvg-name="FishTV +HD" tvg-logo="http://i.imgur.com/IroXP7H.png" group-title="Variedades",FishTV +HD
-http://cdn.teambr.live:80/wilsonmagrao/9010101/81
-#EXTINF:-1 tvg-id="Foodnetworkhd.br" tvg-name="Food Network HD #2" tvg-logo="https://i.imgur.com/bcdE7nj.png" group-title="Variedades",Food Network HD #2
-http://cdn.teambr.live:80/wilsonmagrao/9010101/40923
-#EXTINF:-1 tvg-id="Foodnetworkhd.br" tvg-name="Food Network HD #3" tvg-logo="https://i.imgur.com/bcdE7nj.png" group-title="Variedades",Food Network HD #3
-http://cdn.teambr.live:80/wilsonmagrao/9010101/38615
-#EXTINF:-1 tvg-id="Gnt.br" tvg-name="GNT +HD" tvg-logo="http://i.imgur.com/a4pnqAH.png" group-title="Variedades",GNT +HD
-http://cdn.teambr.live:80/wilsonmagrao/9010101/92
-#EXTINF:-1 tvg-id="Gnt.br" tvg-name="GNT HD_1080p #1" tvg-logo="http://i.imgur.com/a4pnqAH.png" group-title="Variedades",GNT HD_1080p #1
-http://cdn.teambr.live:80/wilsonmagrao/9010101/43699
-#EXTINF:-1 tvg-id="Lifetime.br" tvg-name="Lifetime +HD" tvg-logo="https://raw.githubusercontent.com/korisco/KoriscoNet/main/Images/lifetime.png" group-title="Variedades",Lifetime +HD
-http://cdn.teambr.live:80/wilsonmagrao/9010101/105
-#EXTINF:-1 tvg-id="Lifetime.br" tvg-name="Lifetime HD #2" tvg-logo="https://raw.githubusercontent.com/korisco/KoriscoNet/main/Images/lifetime.png" group-title="Variedades",Lifetime HD #2
-http://cdn.teambr.live:80/wilsonmagrao/9010101/40926
-#EXTINF:-1 tvg-id="Off.br" tvg-name="OFF +HD" tvg-logo="https://raw.githubusercontent.com/korisco/KoriscoNet/main/Images/off.png" group-title="Variedades",OFF +HD
-http://cdn.teambr.live:80/wilsonmagrao/9010101/117
-#EXTINF:-1 tvg-id="Off.br" tvg-name="OFF HD_1080p #1" tvg-logo="https://raw.githubusercontent.com/korisco/KoriscoNet/main/Images/off.png" group-title="Variedades",OFF HD_1080p #1
-http://cdn.teambr.live:80/wilsonmagrao/9010101/43719
-#EXTINF:-1 tvg-id="Trutv.br" tvg-name="TruTV HD #2" tvg-logo="https://www.tvmagazine.com.br/imagens/icones/150/trutvb.png" group-title="Variedades",TruTV HD #2
-http://cdn.teambr.live:80/wilsonmagrao/9010101/40928
-#EXTINF:-1 tvg-id="Trutv.br" tvg-name="TruTV HD_1080p #1" tvg-logo="https://www.tvmagazine.com.br/imagens/icones/150/trutvb.png" group-title="Variedades",TruTV HD_1080p #1
-http://cdn.teambr.live:80/wilsonmagrao/9010101/43784
-#EXTINF:-1 tvg-id="Viva.br" tvg-name="Viva +HD" tvg-logo="http://cdn.teambr.live:80/images/5a3f61473d7a74dd439b3c132ec666fe.png" group-title="Variedades",Viva +HD
-http://cdn.teambr.live:80/wilsonmagrao/9010101/162
-#EXTINF:-1 tvg-id="Viva.br" tvg-name="Viva +SD" tvg-logo="http://cdn.teambr.live:80/images/5a3f61473d7a74dd439b3c132ec666fe.png" group-title="Variedades",Viva +SD
-http://cdn.teambr.live:80/wilsonmagrao/9010101/33
-#EXTINF:-1 tvg-id="Sportv4.br" tvg-name="SporTV 4 HD_1080p #1" tvg-logo="http://dnslist.ca:80/images/4c1fcdd5633b007e6165de0353b46673.png" group-title="xExtras",SporTV 4 HD_1080p #1
-http://dnslist.ca:80/wilsonmagrao/9010101/44355
-#EXTINF:-1 tvg-id="Sportv4.br" tvg-name="SporTV 4 HD_1080p #3" tvg-logo="http://dnslist.ca:80/images/4c1fcdd5633b007e6165de0353b46673.png" group-title="xExtras",SporTV 4 HD_1080p #3
-http://dnslist.ca:80/wilsonmagrao/9010101/44359
-#EXTINF:-1 tvg-id="Sportv4.br" tvg-name="SporTV 4 SD #1" tvg-logo="http://dnslist.ca:80/images/4c1fcdd5633b007e6165de0353b46673.png" group-title="xExtras",SporTV 4 SD #1
-http://dnslist.ca:80/wilsonmagrao/9010101/44358
-#EXTINF:-1 tvg-id="Curta.br" tvg-name="Curta! HD #3" tvg-logo="https://i.imgur.com/IlzIxvv.png" group-title="xExtras",Curta! HD #3
-http://cdn.teambr.live:80/wilsonmagrao/9010101/38603
-#EXTINF:-1 tvg-id="E.br" tvg-name="E! HD_1080p #3" tvg-logo="https://raw.githubusercontent.com/korisco/KoriscoNet/main/Images/etv.png" group-title="xExtras",E! HD_1080p #3
-http://cdn.teambr.live:80/wilsonmagrao/9010101/38611
-#EXTINF:-1 tvg-id="Fishtv.br" tvg-name="Fish TV HD #3" tvg-logo="http://i.imgur.com/IroXP7H.png" group-title="xExtras",Fish TV HD #3
-http://cdn.teambr.live:80/wilsonmagrao/9010101/38614
-#EXTINF:-1 tvg-id="Foodnetworkhd.br" tvg-name="Food Network HD_1080p #1" tvg-logo="https://i.imgur.com/bcdE7nj.png" group-title="xExtras",Food Network HD_1080p #1
-http://cdn.teambr.live:80/wilsonmagrao/9010101/43657
-#EXTINF:-1 tvg-id="Gnt.br" tvg-name="GNT +SD" tvg-logo="http://i.imgur.com/a4pnqAH.png" group-title="xExtras",GNT +SD
-http://cdn.teambr.live:80/wilsonmagrao/9010101/39
-#EXTINF:-1 tvg-id="Gnt.br" tvg-name="GNT HD #3" tvg-logo="http://i.imgur.com/a4pnqAH.png" group-title="xExtras",GNT HD #3
-http://cdn.teambr.live:80/wilsonmagrao/9010101/38618
-#EXTINF:-1 tvg-id="Gnt.br" tvg-name="GNT HD #4" tvg-logo="http://i.imgur.com/a4pnqAH.png" group-title="xExtras",GNT HD #4
-http://cdn.teambr.live:80/wilsonmagrao/9010101/40816
-#EXTINF:-1 tvg-id="Off.br" tvg-name="Off HD #3" tvg-logo="https://raw.githubusercontent.com/korisco/KoriscoNet/main/Images/off.png" group-title="xExtras",Off HD #3
-http://cdn.teambr.live:80/wilsonmagrao/9010101/38619
-#EXTINF:-1 tvg-id="Viva" tvg-name="VIVA HD_1080p #1" tvg-logo="http://cdn.teambr.live:80/images/5a3f61473d7a74dd439b3c132ec666fe.png" group-title="xExtras",VIVA HD_1080p #1
-http://cdn.teambr.live:80/wilsonmagrao/9010101/43800
-#EXTINF:-1 tvg-id="Natgeokids.br" tvg-name="Nat Geo Kids HD #2" tvg-logo="https://www.tvmagazine.com.br/imagens/icones/150/natgeokids.png" group-title="xExtras",Nat Geo Kids HD #2
-http://cdn.teambr.live:80/wilsonmagrao/9010101/40705
-#EXTINF:-1 tvg-id="NickJr.br" tvg-name="Nick Junior HD #3" tvg-logo="https://www.tvmagazine.com.br/imagens/icones/150/nickjr.png" group-title="xExtras",Nick Junior HD #3
-http://cdn.teambr.live:80/wilsonmagrao/9010101/38496
-#EXTINF:-1 tvg-id="NickJr.br" tvg-name="Nick Junior HD_1080p #1" tvg-logo="https://www.tvmagazine.com.br/imagens/icones/150/nickjr.png" group-title="xExtras",Nick Junior HD_1080p #1
-http://cdn.teambr.live:80/wilsonmagrao/9010101/43717
-#EXTINF:-1 tvg-id="Nickelodeon.br" tvg-name="Nickelodeon HD #2" tvg-logo="https://raw.githubusercontent.com/korisco/KoriscoNet/main/Images/nick.png" group-title="xExtras",Nickelodeon HD #2
-http://cdn.teambr.live:80/wilsonmagrao/9010101/40707
-#EXTINF:-1 tvg-id="Nickelodeon.br" tvg-name="Nickelodeon HD_1080p #1" tvg-logo="https://raw.githubusercontent.com/korisco/KoriscoNet/main/Images/nick.png" group-title="xExtras",Nickelodeon HD_1080p #1
-http://cdn.teambr.live:80/wilsonmagrao/9010101/43718
-#EXTINF:-1 tvg-id="Tooncast.br" tvg-name="Tooncast HD_1080p #1" tvg-logo="http://cdn.teambr.live:80/images/842bb72b9cc9ef8c86459a5101fb8673.png" group-title="xExtras",Tooncast HD_1080p #1
-http://cdn.teambr.live:80/wilsonmagrao/9010101/43783
-#EXTINF:-1 tvg-id="Mtv.br" tvg-name="MTV +SD" tvg-logo="https://raw.githubusercontent.com/korisco/KoriscoNet/main/Images/mtv.png" group-title="xExtras",MTV +SD
-http://cdn.teambr.live:80/wilsonmagrao/9010101/34
-#EXTINF:-1 tvg-id="Mtv.br" tvg-name="MTV HD #3" tvg-logo="https://raw.githubusercontent.com/korisco/KoriscoNet/main/Images/mtv.png" group-title="xExtras",MTV HD #3
-http://cdn.teambr.live:80/wilsonmagrao/9010101/38490
-#EXTINF:-1 tvg-id="Mtv.br" tvg-name="MTV HD_1080p #1" tvg-logo="https://raw.githubusercontent.com/korisco/KoriscoNet/main/Images/mtv.png" group-title="xExtras",MTV HD_1080p #1
-http://cdn.teambr.live:80/wilsonmagrao/9010101/43712
-#EXTINF:-1 tvg-id="Multishow.br" tvg-name="Multishow +SD" tvg-logo="https://raw.githubusercontent.com/korisco/KoriscoNet/main/Images/multishow.png" group-title="xExtras",Multishow +SD
-http://cdn.teambr.live:80/wilsonmagrao/9010101/38
-#EXTINF:-1 tvg-id="Multishow.br" tvg-name="Multishow HD #3" tvg-logo="https://raw.githubusercontent.com/korisco/KoriscoNet/main/Images/multishow.png" group-title="xExtras",Multishow HD #3
-http://cdn.teambr.live:80/wilsonmagrao/9010101/38491
-#EXTINF:-1 tvg-id="Multishow.br" tvg-name="Multishow HD_1080p #1" tvg-logo="https://raw.githubusercontent.com/korisco/KoriscoNet/main/Images/multishow.png" group-title="xExtras",Multishow HD_1080p #1
-http://cdn.teambr.live:80/wilsonmagrao/9010101/43713
-#EXTINF:-1 tvg-id="VH1.br" tvg-name="VH1 +SD" tvg-logo="https://raw.githubusercontent.com/korisco/KoriscoNet/main/Images/vh1.png" group-title="xExtras",VH1 +SD
-http://cdn.teambr.live:80/wilsonmagrao/9010101/35
-#EXTINF:-1 tvg-id="VH1.br" tvg-name="VH1 HD #3" tvg-logo="https://raw.githubusercontent.com/korisco/KoriscoNet/main/Images/vh1.png" group-title="xExtras",VH1 HD #3
-http://cdn.teambr.live:80/wilsonmagrao/9010101/38440
-#EXTINF:-1 tvg-id="Bandnews.br" tvg-name="Band News HD #2" tvg-logo="http://i.imgur.com/ibNTVbR.png" group-title="xExtras",Band News HD #2
-http://cdn.teambr.live:80/wilsonmagrao/9010101/40918
-#EXTINF:-1 tvg-id="Bandnews.br" tvg-name="Band News HD_1080p #1" tvg-logo="http://i.imgur.com/ibNTVbR.png" group-title="xExtras",Band News HD_1080p #1
-http://cdn.teambr.live:80/wilsonmagrao/9010101/43613
-#EXTINF:-1 tvg-id="Cnninternacional.br" tvg-name="CNN +SD" tvg-logo="https://raw.githubusercontent.com/korisco/KoriscoNet/main/Images/cnn-international-logo-png-transparent.png" group-title="xExtras",CNN +SD
-http://cdn.teambr.live:80/wilsonmagrao/9010101/4
-#EXTINF:-1 tvg-id="Cnnbrasil.br" tvg-name="CNN Brasil HD #2" tvg-logo="http://cdn.teambr.live:80/images/ea2c92ca5bfbef90b6a6a2e8bb68b1f7.png" group-title="xExtras",CNN Brasil HD #2
-http://cdn.teambr.live:80/wilsonmagrao/9010101/40672
-#EXTINF:-1 tvg-id="Cnnbrasil.br" tvg-name="CNN Brasil HD_1080p #1" tvg-logo="http://cdn.teambr.live:80/images/ea2c92ca5bfbef90b6a6a2e8bb68b1f7.png" group-title="xExtras",CNN Brasil HD_1080p #1
-http://cdn.teambr.live:80/wilsonmagrao/9010101/43625
-#EXTINF:-1 tvg-id="Globonews.br" tvg-name="Globo News HD_1080p #1" tvg-logo="https://www.tvmagazine.com.br/imagens/icones/150/globonews.png" group-title="xExtras",Globo News HD_1080p #1
-http://cdn.teambr.live:80/wilsonmagrao/9010101/43679
-#EXTINF:-1 tvg-id="Globonews.br" tvg-name="Globo News HD_1080p #3" tvg-logo="https://www.tvmagazine.com.br/imagens/icones/150/globonews.png" group-title="xExtras",Globo News HD_1080p #3
-http://cdn.teambr.live:80/wilsonmagrao/9010101/534
-#EXTINF:-1 tvg-id="Recordnews.br" tvg-name="Record News HD_1080p #1" tvg-logo="http://cdn.teambr.live:80/images/663ba2aad0af1622e12f27d9ddfa8285.png" group-title="xExtras",Record News HD_1080p #1
-http://cdn.teambr.live:80/wilsonmagrao/9010101/43738
-#EXTINF:-1 tvg-id="CancaoNova.br" tvg-name="Canção Nova ES HD_1080p" tvg-logo="https://i.imgur.com/SzRozG4.png" group-title="xExtras",Canção Nova ES HD_1080p
-http://cdn.teambr.live:80/wilsonmagrao/9010101/43621
-#EXTINF:-1 tvg-id="CancaoNova.br" tvg-name="Canção Nova HD #3" tvg-logo="https://i.imgur.com/SzRozG4.png" group-title="xExtras",Canção Nova HD #3
-http://cdn.teambr.live:80/wilsonmagrao/9010101/38604
-#EXTINF:-1 tvg-id="Redevida.br" tvg-name="Rede Vida #3" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/0c/Rede_Vida_logo.png" group-title="xExtras",Rede Vida #3
-http://cdn.teambr.live:80/wilsonmagrao/9010101/43336
-#EXTINF:-1 tvg-id="Tnt.br" tvg-name="TNT HD_1080p #1" tvg-logo="http://cdn.teambr.live:80/images/4d383b70c0e1e560c5d80211f998be93.png" group-title="xExtras",TNT HD_1080p #1
-http://cdn.teambr.live:80/wilsonmagrao/9010101/43781
-#EXTINF:-1 tvg-id="Ae.br" tvg-name="A&E +SD" tvg-logo="http://i.imgur.com/7NKeRuh.png" group-title="xExtras",A&E +SD
-http://cdn.teambr.live:80/wilsonmagrao/9010101/1
-#EXTINF:-1 tvg-id="Ae.br" tvg-name="A&E HD #2" tvg-logo="http://i.imgur.com/7NKeRuh.png" group-title="xExtras",A&E HD #2
-http://cdn.teambr.live:80/wilsonmagrao/9010101/40676
-#EXTINF:-1 tvg-id="Ae.br" tvg-name="A&E HD_1080p #1" tvg-logo="http://i.imgur.com/7NKeRuh.png" group-title="xExtras",A&E HD_1080p #1
-http://cdn.teambr.live:80/wilsonmagrao/9010101/43606
-#EXTINF:-1 tvg-id="Axn.br" tvg-name="AXN +SD" tvg-logo="http://i.imgur.com/cAGSnn7.png" group-title="xExtras",AXN +SD
-http://cdn.teambr.live:80/wilsonmagrao/9010101/2
-#EXTINF:-1 tvg-id="Axn.br" tvg-name="AXN HD #2" tvg-logo="http://i.imgur.com/cAGSnn7.png" group-title="xExtras",AXN HD #2
-http://cdn.teambr.live:80/wilsonmagrao/9010101/40678
-#EXTINF:-1 tvg-id="Axn.br" tvg-name="AXN HD_1080p #1" tvg-logo="http://i.imgur.com/cAGSnn7.png" group-title="xExtras",AXN HD_1080p #1
-http://cdn.teambr.live:80/wilsonmagrao/9010101/43608
-#EXTINF:-1 tvg-id="Cinemax.br" tvg-name="Cinemax HD #2" tvg-logo="http://cdn.teambr.live:80/images/9b483584a8f77ed3094a2b82b11d35e2.png" group-title="xExtras",Cinemax HD #2
-http://cdn.teambr.live:80/wilsonmagrao/9010101/40919
-#EXTINF:-1 tvg-id="Cinemax.br" tvg-name="Cinemax HD #3" tvg-logo="http://cdn.teambr.live:80/images/9b483584a8f77ed3094a2b82b11d35e2.png" group-title="xExtras",Cinemax HD #3
-http://cdn.teambr.live:80/wilsonmagrao/9010101/488
-#EXTINF:-1 tvg-id="Comedycentral.br" tvg-name="Comedy Central HD #3" tvg-logo="https://raw.githubusercontent.com/korisco/KoriscoNet/main/Images/comedy.png" group-title="xExtras",Comedy Central HD #3
-http://cdn.teambr.live:80/wilsonmagrao/9010101/38606
-#EXTINF:-1 tvg-id="Comedycentral.br" tvg-name="Comedy Central HD_1080p #1" tvg-logo="https://raw.githubusercontent.com/korisco/KoriscoNet/main/Images/comedy.png" group-title="xExtras",Comedy Central HD_1080p #1
-http://cdn.teambr.live:80/wilsonmagrao/9010101/43627
-#EXTINF:-1 tvg-id="Fx.br" tvg-name="FX HD #2" tvg-logo="http://i.imgur.com/GaQZSu6.png" group-title="xExtras",FX HD #2
-http://cdn.teambr.live:80/wilsonmagrao/9010101/40924
-#EXTINF:-1 tvg-id="Fx.br" tvg-name="FX HD_1080p #1" tvg-logo="http://i.imgur.com/GaQZSu6.png" group-title="xExtras",FX HD_1080p #1
-http://cdn.teambr.live:80/wilsonmagrao/9010101/43661
-#EXTINF:-1 tvg-id="Hbo.br" tvg-name="HBO 1 +SD" tvg-logo="http://cdn.teambr.live:80/images/109596478ddccc3d5899c79bb5aee8b9.png" group-title="xExtras",HBO 1 +SD
-http://cdn.teambr.live:80/wilsonmagrao/9010101/17
-#EXTINF:-1 tvg-id="Hbo.br" tvg-name="HBO 1 HD #3" tvg-logo="http://cdn.teambr.live:80/images/109596478ddccc3d5899c79bb5aee8b9.png" group-title="xExtras",HBO 1 HD #3
-http://cdn.teambr.live:80/wilsonmagrao/9010101/38478
-#EXTINF:-1 tvg-id="Hbo.br" tvg-name="HBO 1 HD #4" tvg-logo="http://cdn.teambr.live:80/images/109596478ddccc3d5899c79bb5aee8b9.png" group-title="xExtras",HBO 1 HD #4
-http://cdn.teambr.live:80/wilsonmagrao/9010101/40818
-#EXTINF:-1 tvg-id="Hbo.br" tvg-name="HBO 1 HD_1080p #1" tvg-logo="http://cdn.teambr.live:80/images/109596478ddccc3d5899c79bb5aee8b9.png" group-title="xExtras",HBO 1 HD_1080p #1
-http://cdn.teambr.live:80/wilsonmagrao/9010101/43700
-#EXTINF:-1 tvg-id="Hbo2.br" tvg-name="HBO 2 HD #3" tvg-logo="https://raw.githubusercontent.com/korisco/KoriscoNet/main/Images/hbo2b.png" group-title="xExtras",HBO 2 HD #3
-http://cdn.teambr.live:80/wilsonmagrao/9010101/38476
-#EXTINF:-1 tvg-id="Hbofamily.br" tvg-name="HBO Family +SD" tvg-logo="https://raw.githubusercontent.com/korisco/KoriscoNet/main/Images/HBO_Family_logo.png" group-title="xExtras",HBO Family +SD
-http://cdn.teambr.live:80/wilsonmagrao/9010101/16
-#EXTINF:-1 tvg-id="Hbofamily.br" tvg-name="HBO Family HD #3" tvg-logo="https://raw.githubusercontent.com/korisco/KoriscoNet/main/Images/HBO_Family_logo.png" group-title="xExtras",HBO Family HD #3
-http://cdn.teambr.live:80/wilsonmagrao/9010101/38477
-#EXTINF:-1 tvg-id="Hbofamily.br" tvg-name="HBO Family HD #4" tvg-logo="https://raw.githubusercontent.com/korisco/KoriscoNet/main/Images/HBO_Family_logo.png" group-title="xExtras",HBO Family HD #4
-http://cdn.teambr.live:80/wilsonmagrao/9010101/40817
-#EXTINF:-1 tvg-id="Hbofamily.br" tvg-name="HBO Family HD_1080p #1" tvg-logo="https://raw.githubusercontent.com/korisco/KoriscoNet/main/Images/HBO_Family_logo.png" group-title="xExtras",HBO Family HD_1080p #1
-http://cdn.teambr.live:80/wilsonmagrao/9010101/43702
-#EXTINF:-1 tvg-id="Max.br" tvg-name="HBO Mundi HD #2" tvg-logo="https://raw.githubusercontent.com/korisco/KoriscoNet/main/Images/hbomundib.png" group-title="xExtras",HBO Mundi HD #2
-http://cdn.teambr.live:80/wilsonmagrao/9010101/40819
-#EXTINF:-1 tvg-id="Max.br" tvg-name="HBO Mundi HD_1080p #1" tvg-logo="https://raw.githubusercontent.com/korisco/KoriscoNet/main/Images/hbomundib.png" group-title="xExtras",HBO Mundi HD_1080p #1
-http://cdn.teambr.live:80/wilsonmagrao/9010101/43703
-#EXTINF:-1 tvg-id="Hboplus.br" tvg-name="HBO Plus HD #3" tvg-logo="https://raw.githubusercontent.com/korisco/KoriscoNet/main/Images/hboplus.png" group-title="xExtras",HBO Plus HD #3
-http://cdn.teambr.live:80/wilsonmagrao/9010101/38480
-#EXTINF:-1 tvg-id="Hboplus.br" tvg-name="HBO Plus HD_1080p #4" tvg-logo="https://raw.githubusercontent.com/korisco/KoriscoNet/main/Images/hboplus.png" group-title="xExtras",HBO Plus HD_1080p #4
-http://cdn.teambr.live:80/wilsonmagrao/9010101/40820
-#EXTINF:-1 tvg-id="Hboplus.br" tvg-name="HBO Plus*e HD #3" tvg-logo="https://raw.githubusercontent.com/korisco/KoriscoNet/main/Images/hboplus.png" group-title="xExtras",HBO Plus*e HD #3
-http://cdn.teambr.live:80/wilsonmagrao/9010101/38481
-#EXTINF:-1 tvg-id="Maxup.br" tvg-name="HBO Pop HD #4" tvg-logo="https://raw.githubusercontent.com/korisco/KoriscoNet/main/Images/hbopopb.png" group-title="xExtras",HBO Pop HD #4
-http://cdn.teambr.live:80/wilsonmagrao/9010101/40821
-#EXTINF:-1 tvg-id="Maxup.br" tvg-name="HBO Pop HD_1080p #1" tvg-logo="https://raw.githubusercontent.com/korisco/KoriscoNet/main/Images/hbopopb.png" group-title="xExtras",HBO Pop HD_1080p #1
-http://cdn.teambr.live:80/wilsonmagrao/9010101/43705
-#EXTINF:-1 tvg-id="Hbosignature.br" tvg-name="Telecine Cult HD #4" tvg-logo="https://raw.githubusercontent.com/korisco/KoriscoNet/main/Images/hbosignatureb.png" group-title="xExtras",Telecine Cult HD #4
-http://cdn.teambr.live:80/wilsonmagrao/9010101/40822
-#EXTINF:-1 tvg-id="Hbo2.br" tvg-name="HBO 2 HD_1080p" tvg-logo="https://raw.githubusercontent.com/korisco/KoriscoNet/main/Images/hbosignatureb.png" group-title="xExtras",HBO 2 HD_1080p #1
-http://cdn.teambr.live:80/wilsonmagrao/9010101/43706
-#EXTINF:-1 tvg-id="Maxprime.br" tvg-name="HBO Xtreme HD #3" tvg-logo="https://raw.githubusercontent.com/korisco/KoriscoNet/main/Images/hboxtremeb.png" group-title="xExtras",HBO Xtreme HD #3
-http://cdn.teambr.live:80/wilsonmagrao/9010101/38484
-#EXTINF:-1 tvg-id="Maxprime.br" tvg-name="HBO Xtreme HD_1080p #4" tvg-logo="https://raw.githubusercontent.com/korisco/KoriscoNet/main/Images/hboxtremeb.png" group-title="xExtras",HBO Xtreme HD_1080p #4
-http://cdn.teambr.live:80/wilsonmagrao/9010101/40823
-#EXTINF:-1 tvg-id="Megapix.br" tvg-name="Megapix HD_1080p #1" tvg-logo="http://cdn.teambr.live:80/images/ccce959606456d844f8948409a13d0c5.png" group-title="xExtras",Megapix HD_1080p #1
-http://cdn.teambr.live:80/wilsonmagrao/9010101/43711
-#EXTINF:-1 tvg-id="Megapix.br" tvg-name="Megapix HD_1080p #3" tvg-logo="http://cdn.teambr.live:80/images/ccce959606456d844f8948409a13d0c5.png" group-title="xExtras",Megapix HD_1080p #3
-http://cdn.teambr.live:80/wilsonmagrao/9010101/42154
-#EXTINF:-1 tvg-id="Paramounthd.br" tvg-name="Paramount HD #2" tvg-logo="https://raw.githubusercontent.com/korisco/KoriscoNet/main/Images/paramountchannel.png" group-title="xExtras",Paramount HD #2
-http://cdn.teambr.live:80/wilsonmagrao/9010101/40709
-#EXTINF:-1 tvg-id="Paramounthd.br" tvg-name="Paramount HD #3" tvg-logo="https://raw.githubusercontent.com/korisco/KoriscoNet/main/Images/paramountchannel.png" group-title="xExtras",Paramount HD #3
-http://cdn.teambr.live:80/wilsonmagrao/9010101/38498
-#EXTINF:-1 tvg-id="Sony.br" tvg-name="Sony HD #2" tvg-logo="https://www.nowonline.com.br/img/channels/canal_sony.png" group-title="xExtras",Sony HD #2
-http://cdn.teambr.live:80/wilsonmagrao/9010101/40710
-#EXTINF:-1 tvg-id="Sony.br" tvg-name="Sony HD_1080p #1" tvg-logo="https://www.nowonline.com.br/img/channels/canal_sony.png" group-title="xExtras",Sony HD_1080p #1
-http://cdn.teambr.live:80/wilsonmagrao/9010101/43620
-#EXTINF:-1 tvg-id="Space.br" tvg-name="Space HD_1080p #1" tvg-logo="https://www.tvmagazine.com.br/imagens/icones/150/space.png" group-title="xExtras",Space HD_1080p #1
-http://cdn.teambr.live:80/wilsonmagrao/9010101/43763
-#EXTINF:-1 tvg-id="Studiouniversal.br" tvg-name="Studio Universal HD #3" tvg-logo="https://www.tvmagazine.com.br/imagens/icones/150/universaltv.png" group-title="xExtras",Studio Universal HD #3
-http://cdn.teambr.live:80/wilsonmagrao/9010101/38526
-#EXTINF:-1 tvg-id="Syfy.br" tvg-name="SyFy HD #3" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/ab/Syfylogo.png" group-title="xExtras",SyFy HD #3
-http://cdn.teambr.live:80/wilsonmagrao/9010101/38437
-#EXTINF:-1 tvg-id="Tbs.br" tvg-name="TBS HD #3" tvg-logo="http://cdn.teambr.live:80/images/332e093fbb9d82a0653aa96e85bbdac9.png" group-title="xExtras",TBS HD #3
-http://cdn.teambr.live:80/wilsonmagrao/9010101/38528
-#EXTINF:-1 tvg-id="Tnt.br" tvg-name="TNT +SD" tvg-logo="http://cdn.teambr.live:80/images/4d383b70c0e1e560c5d80211f998be93.png" group-title="xExtras",TNT +SD
-http://cdn.teambr.live:80/wilsonmagrao/9010101/30
-#EXTINF:-1 tvg-id="Tnt.br" tvg-name="TNT FHD H265" tvg-logo="http://cdn.teambr.live:80/images/4d383b70c0e1e560c5d80211f998be93.png" group-title="xExtras",TNT FHD H265
-http://cdn.teambr.live:80/wilsonmagrao/9010101/43531
-#EXTINF:-1 tvg-id="Tnt.br" tvg-name="TNT HD_1080p #3" tvg-logo="http://cdn.teambr.live:80/images/4d383b70c0e1e560c5d80211f998be93.png" group-title="xExtras",TNT HD_1080p #3
-http://cdn.teambr.live:80/wilsonmagrao/9010101/580
-#EXTINF:-1 tvg-id="TNTSerie.br" tvg-name="TNT Series +SD" tvg-logo="https://raw.githubusercontent.com/korisco/KoriscoNet/main/Images/tntseries.png" group-title="xExtras",TNT Series +SD
-http://cdn.teambr.live:80/wilsonmagrao/9010101/31
-#EXTINF:-1 tvg-id="TNTSerie.br" tvg-name="TNT Series HD #3" tvg-logo="https://raw.githubusercontent.com/korisco/KoriscoNet/main/Images/tntseries.png" group-title="xExtras",TNT Series HD #3
-http://cdn.teambr.live:80/wilsonmagrao/9010101/38439
-#EXTINF:-1 tvg-id="TNTSerie.br" tvg-name="TNT Series HD_1080p #1" tvg-logo="https://raw.githubusercontent.com/korisco/KoriscoNet/main/Images/tntseries.png" group-title="xExtras",TNT Series HD_1080p #1
-http://cdn.teambr.live:80/wilsonmagrao/9010101/43782
-#EXTINF:-1 tvg-id="Universalchannel.br" tvg-name="Universal Tv HD_1080p #1" tvg-logo="http://cdn.teambr.live:80/images/5c8d2af36dbec982c74da70a4378e8c4.png" group-title="xExtras",Universal HD_1080p #1
-http://cdn.teambr.live:80/wilsonmagrao/9010101/43797
-#EXTINF:-1 tvg-id="Warnerchannel.br" tvg-name="Warner Channel HD #3" tvg-logo="https://raw.githubusercontent.com/korisco/KoriscoNet/main/Images/warner.png" group-title="xExtras",Warner Channel HD #3
-http://cdn.teambr.live:80/wilsonmagrao/9010101/38542
-#EXTINF:-1 tvg-id="Warnerchannel.br" tvg-name="Warner HD #2" tvg-logo="https://raw.githubusercontent.com/korisco/KoriscoNet/main/Images/warner.png" group-title="xExtras",Warner HD #2
-http://cdn.teambr.live:80/wilsonmagrao/9010101/40712
-#EXTINF:-1 tvg-id="Warnerchannel.br" tvg-name="Warner HD_1080p #1" tvg-logo="https://raw.githubusercontent.com/korisco/KoriscoNet/main/Images/warner.png" group-title="xExtras",Warner HD_1080p #1
-http://cdn.teambr.live:80/wilsonmagrao/9010101/43801
-#EXTINF:-1 tvg-id="Tcaction.br" tvg-name="TELECINE ACTION FHD H265" tvg-logo="https://raw.githubusercontent.com/korisco/KoriscoNet/main/Images/tcaction.png" group-title="xExtras",TELECINE ACTION FHD H265
-http://cdn.teambr.live:80/wilsonmagrao/9010101/43535
-#EXTINF:-1 tvg-id="Tcaction.br" tvg-name="Telecine Action HD #3" tvg-logo="https://raw.githubusercontent.com/korisco/KoriscoNet/main/Images/tcaction.png" group-title="xExtras",Telecine Action HD #3
-http://cdn.teambr.live:80/wilsonmagrao/9010101/574
-#EXTINF:-1 tvg-id="Tcaction.br" tvg-name="Telecine Action HD #4" tvg-logo="https://raw.githubusercontent.com/korisco/KoriscoNet/main/Images/tcaction.png" group-title="xExtras",Telecine Action HD #4
-http://cdn.teambr.live:80/wilsonmagrao/9010101/40840
-#EXTINF:-1 tvg-id="Tcaction.br" tvg-name="Telecine Action HD_1080p #1" tvg-logo="https://raw.githubusercontent.com/korisco/KoriscoNet/main/Images/tcaction.png" group-title="xExtras",Telecine Action HD_1080p #1
-http://cdn.teambr.live:80/wilsonmagrao/9010101/43774
-#EXTINF:-1 tvg-id="Tccult.br" tvg-name="Telecine Cult HD #4" tvg-logo="https://raw.githubusercontent.com/korisco/KoriscoNet/main/Images/tccult.png" group-title="xExtras",Telecine Cult HD #4
-http://cdn.teambr.live:80/wilsonmagrao/9010101/40841
-#EXTINF:-1 tvg-id="Tccult.br" tvg-name="Telecine Cult HD_1080p #1" tvg-logo="https://raw.githubusercontent.com/korisco/KoriscoNet/main/Images/tccult.png" group-title="xExtras",Telecine Cult HD_1080p #1
-http://cdn.teambr.live:80/wilsonmagrao/9010101/43775
-#EXTINF:-1 tvg-id="Tcfun.br" tvg-name="Telecine Fun HD #3" tvg-logo="https://raw.githubusercontent.com/korisco/KoriscoNet/main/Images/tcfun.png" group-title="xExtras",Telecine Fun HD #3
-http://cdn.teambr.live:80/wilsonmagrao/9010101/38532
-#EXTINF:-1 tvg-id="Tcfun.br" tvg-name="Telecine Fun HD_1080p #1" tvg-logo="https://raw.githubusercontent.com/korisco/KoriscoNet/main/Images/tcfun.png" group-title="xExtras",Telecine Fun HD_1080p #1
-http://cdn.teambr.live:80/wilsonmagrao/9010101/43776
-#EXTINF:-1 tvg-id="Tcpipoca.br" tvg-name="Telecine Pipoca +SD" tvg-logo="https://raw.githubusercontent.com/korisco/KoriscoNet/main/Images/tcpipoca.png" group-title="xExtras",Telecine Pipoca +SD
-http://cdn.teambr.live:80/wilsonmagrao/9010101/28
-#EXTINF:-1 tvg-id="Tcpipoca.br" tvg-name="Telecine Pipoca FHD H265" tvg-logo="https://raw.githubusercontent.com/korisco/KoriscoNet/main/Images/tcpipoca.png" group-title="xExtras",Telecine Pipoca FHD H265
-http://cdn.teambr.live:80/wilsonmagrao/9010101/43538
-#EXTINF:-1 tvg-id="Tcpipoca.br" tvg-name="Telecine Pipoca HD #4" tvg-logo="https://raw.githubusercontent.com/korisco/KoriscoNet/main/Images/tcpipoca.png" group-title="xExtras",Telecine Pipoca HD #4
-http://cdn.teambr.live:80/wilsonmagrao/9010101/40843
-#EXTINF:-1 tvg-id="Tcpipoca.br" tvg-name="Telecine Pipoca HD_1080p #1" tvg-logo="https://raw.githubusercontent.com/korisco/KoriscoNet/main/Images/tcpipoca.png" group-title="xExtras",Telecine Pipoca HD_1080p #1
-http://cdn.teambr.live:80/wilsonmagrao/9010101/43777
-#EXTINF:-1 tvg-id="Tcpremium.br" tvg-name="Telecine Premium +SD" tvg-logo="https://raw.githubusercontent.com/korisco/KoriscoNet/main/Images/tcpremium.png" group-title="xExtras",Telecine Premium +SD
-http://cdn.teambr.live:80/wilsonmagrao/9010101/29
-#EXTINF:-1 tvg-id="Tcpremium.br" tvg-name="Telecine Premium HD #4" tvg-logo="https://raw.githubusercontent.com/korisco/KoriscoNet/main/Images/tcpremium.png" group-title="xExtras",Telecine Premium HD #4
-http://cdn.teambr.live:80/wilsonmagrao/9010101/40801
-#EXTINF:-1 tvg-id="Tcpremium.br" tvg-name="Telecine Premium HD_1080p #1" tvg-logo="https://raw.githubusercontent.com/korisco/KoriscoNet/main/Images/tcpremium.png" group-title="xExtras",Telecine Premium HD_1080p #1
-http://cdn.teambr.live:80/wilsonmagrao/9010101/43778
-#EXTINF:-1 tvg-id="Tctouch.br" tvg-name="Telecine Touch HD #4" tvg-logo="https://raw.githubusercontent.com/korisco/KoriscoNet/main/Images/tctouch.png" group-title="xExtras",Telecine Touch HD #4
-http://cdn.teambr.live:80/wilsonmagrao/9010101/40845
-#EXTINF:-1 tvg-id="Tctouch.br" tvg-name="Telecine Touch HD_1080p #1" tvg-logo="https://raw.githubusercontent.com/korisco/KoriscoNet/main/Images/tctouch.png" group-title="xExtras",Telecine Touch HD_1080p #1
-http://cdn.teambr.live:80/wilsonmagrao/9010101/43779
-#EXTINF:-1 tvg-id="Boomerang.br" tvg-name="Boomerang HD #2" tvg-logo="http://cdn.teambr.live:80/images/498d21282da8800d6998b230050ffaf8.png" group-title="xExtras",Boomerang HD #2
-http://cdn.teambr.live:80/wilsonmagrao/9010101/40680
-#EXTINF:-1 tvg-id="Boomerang.br" tvg-name="Boomerang HD_1080p #1" tvg-logo="http://cdn.teambr.live:80/images/498d21282da8800d6998b230050ffaf8.png" group-title="xExtras",Boomerang HD_1080p #1
-http://cdn.teambr.live:80/wilsonmagrao/9010101/43618
-#EXTINF:-1 tvg-id="Cartoonnetwork.br" tvg-name="Cartoon Network HD #4" tvg-logo="http://i.imgur.com/S5PsDDR.png.png" group-title="xExtras",Cartoon Network HD #4
-http://cdn.teambr.live:80/wilsonmagrao/9010101/40810
-#EXTINF:-1 tvg-id="Cartoonnetwork.br" tvg-name="Cartoon Network HD_1080p" tvg-logo="http://i.imgur.com/S5PsDDR.png" group-title="xExtras",Cartoon Network HD_1080p
-http://cdn.teambr.live:80/wilsonmagrao/9010101/43622
-#EXTINF:-1 tvg-id="Cartoonnetwork.br" tvg-name="Cartoon Network HD_1080p #3" tvg-logo="http://i.imgur.com/S5PsDDR.png" group-title="xExtras",Cartoon Network HD_1080p #3
-http://cdn.teambr.live:80/wilsonmagrao/9010101/477
-#EXTINF:-1 tvg-id="Discoverykids.br" tvg-name="Discovery Kids HD #2" tvg-logo="http://i.imgur.com/32njYPj.png" group-title="xExtras",Discovery Kids HD #2
-http://cdn.teambr.live:80/wilsonmagrao/9010101/40686
-#EXTINF:-1 tvg-id="Discoverykids.br" tvg-name="Discovery Kids HD #4" tvg-logo="http://i.imgur.com/32njYPj.png" group-title="xExtras",Discovery Kids HD #4
-http://cdn.teambr.live:80/wilsonmagrao/9010101/40812
-#EXTINF:-1 tvg-id="Discoverykids.br" tvg-name="Discovery Kids HD_1080p #1" tvg-logo="http://i.imgur.com/32njYPj.png" group-title="xExtras",Discovery Kids HD_1080p #1
-http://cdn.teambr.live:80/wilsonmagrao/9010101/43638
-#EXTINF:-1 tvg-id="Discoverykids.br" tvg-name="Discovery Kids HD_1080p #3" tvg-logo="http://i.imgur.com/32njYPj.png" group-title="xExtras",Discovery Kids HD_1080p #3
-http://cdn.teambr.live:80/wilsonmagrao/9010101/42145
-#EXTINF:-1 tvg-id="Disneychannel.br" tvg-name="Disney Channel +SD" tvg-logo="https://i.imgur.com/4KeieN7.png" group-title="xExtras",Disney Channel +SD
-http://cdn.teambr.live:80/wilsonmagrao/9010101/9
-#EXTINF:-1 tvg-id="Disneychannel.br" tvg-name="Disney Channel HD #2" tvg-logo="https://i.imgur.com/4KeieN7.png" group-title="xExtras",Disney Channel HD #2
-http://cdn.teambr.live:80/wilsonmagrao/9010101/40690
-#EXTINF:-1 tvg-id="Disneychannel.br" tvg-name="Disney Channel HD #3" tvg-logo="https://i.imgur.com/4KeieN7.png" group-title="xExtras",Disney Channel HD #3
-http://cdn.teambr.live:80/wilsonmagrao/9010101/38454
-#EXTINF:-1 tvg-id="Disneychannel.br" tvg-name="Disney Channel HD_1080p #3" tvg-logo="https://i.imgur.com/4KeieN7.png" group-title="xExtras",Disney Channel HD_1080p #3
-http://cdn.teambr.live:80/wilsonmagrao/9010101/42150
-#EXTINF:-1 tvg-id="Disneyjrhd.br" tvg-name="Disney Junior HD #2" tvg-logo="https://raw.githubusercontent.com/korisco/KoriscoNet/main/Images/disneyJR.png" group-title="xExtras",Disney Junior HD #2
-http://cdn.teambr.live:80/wilsonmagrao/9010101/40691
-#EXTINF:-1 tvg-id="DisneyJunior" tvg-name="Disney Junior HD_1080p #1" tvg-logo="https://raw.githubusercontent.com/korisco/KoriscoNet/main/Images/disneyJR.png" group-title="xExtras",Disney Junior HD_1080p #1
-http://cdn.teambr.live:80/wilsonmagrao/9010101/43643
-#EXTINF:-1 tvg-id="Disneyjrhd.br" tvg-name="Disney Junior HD_1080p #3" tvg-logo="https://raw.githubusercontent.com/korisco/KoriscoNet/main/Images/disneyJR.png" group-title="xExtras",Disney Junior HD_1080p #3
-http://cdn.teambr.live:80/wilsonmagrao/9010101/42151
-#EXTINF:-1 tvg-id="Disneyxd.br" tvg-name="Disney XD +HD" tvg-logo="https://www.tvmagazine.com.br/imagens/icones/150/disneyxd.png" group-title="xExtras",Disney XD +HD
-http://cdn.teambr.live:80/wilsonmagrao/9010101/73
-#EXTINF:-1 tvg-id="Gloobinho.br" tvg-name="Gloobinho HD_1080p #1" tvg-logo="https://www.tvmagazine.com.br/imagens/icones/150/gloobinho.png" group-title="xExtras",Gloobinho HD_1080p #1
-http://cdn.teambr.live:80/wilsonmagrao/9010101/43698
-#EXTINF:-1 tvg-id="BandRede.br" tvg-name="Band SP HD_1080p #1" tvg-logo="http://i.imgur.com/6xouXln.png" group-title="xExtras",Band SP HD_1080p #1
-http://cdn.teambr.live:80/wilsonmagrao/9010101/43614
-#EXTINF:-1 tvg-id="BandRede.br" tvg-name="Band SP HD_1080p #3" tvg-logo="http://i.imgur.com/6xouXln.png" group-title="xExtras",Band SP HD_1080p #3
-http://cdn.teambr.live:80/wilsonmagrao/9010101/43329
-#EXTINF:-1 tvg-id="Bishd.br" tvg-name="BIS HD_1080p #1" tvg-logo="http://i.imgur.com/JNP327k.png" group-title="xExtras",BIS HD_1080p #1
-http://cdn.teambr.live:80/wilsonmagrao/9010101/43617
-#EXTINF:-1 tvg-id="Canalbrasil.br" tvg-name="Canal Brasil HD_1080p #1" tvg-logo="https://raw.githubusercontent.com/korisco/KoriscoNet/main/Images/CanalBrasil.png" group-title="xExtras",Canal Brasil HD_1080p #1
-http://cdn.teambr.live:80/wilsonmagrao/9010101/43619
-#EXTINF:-1 tvg-id="Globosp.br" tvg-name="Globo SP +SD" tvg-logo="https://raw.githubusercontent.com/korisco/KoriscoNet/main/Images/globo-hd.png" group-title="xExtras",Globo SP +SD
-http://cdn.teambr.live:80/wilsonmagrao/9010101/14
-#EXTINF:-1 tvg-id="Globosp.br" tvg-name="Globo SP HD #3" tvg-logo="https://raw.githubusercontent.com/korisco/KoriscoNet/main/Images/globo-hd.png" group-title="xExtras",Globo SP HD #3
-http://cdn.teambr.live:80/wilsonmagrao/9010101/539
-#EXTINF:-1 tvg-id="Globosp.br" tvg-name="Globo SP HD_1080p  #3" tvg-logo="https://raw.githubusercontent.com/korisco/KoriscoNet/main/Images/globo-hd.png" group-title="xExtras",Globo SP HD_1080p  #3
-http://cdn.teambr.live:80/wilsonmagrao/9010101/540
-#EXTINF:-1 tvg-id="Globosp.br" tvg-name="Globo SP HD_1080p #1" tvg-logo="https://raw.githubusercontent.com/korisco/KoriscoNet/main/Images/globo-hd.png" group-title="xExtras",Globo SP HD_1080p #1
-http://cdn.teambr.live:80/wilsonmagrao/9010101/43694
-#EXTINF:-1 tvg-id="Rederecord.br" tvg-name="Record SP +SD" tvg-logo="https://raw.githubusercontent.com/korisco/KoriscoNet/main/Images/RecordTV.png" group-title="xExtras",Record SP +SD
-http://cdn.teambr.live:80/wilsonmagrao/9010101/21
-#EXTINF:-1 tvg-id="Rederecord.br" tvg-name="Record SP HD #3" tvg-logo="https://raw.githubusercontent.com/korisco/KoriscoNet/main/Images/RecordTV.png" group-title="xExtras",Record SP HD #3
-http://cdn.teambr.live:80/wilsonmagrao/9010101/38515
-#EXTINF:-1 tvg-id="Rederecord.br" tvg-name="Record SP HD_1080p #1" tvg-logo="http://cdn.teambr.live:80/images/a28b54769104da426edfb3fd196b15d7.png" group-title="xExtras",Record SP HD_1080p #1
-http://cdn.teambr.live:80/wilsonmagrao/9010101/43748
-#EXTINF:-1 tvg-id="Rederecord.br" tvg-name="Record SP SD #3" tvg-logo="https://raw.githubusercontent.com/korisco/KoriscoNet/main/Images/RecordTV.png" group-title="xExtras",Record SP SD #3
-http://cdn.teambr.live:80/wilsonmagrao/9010101/38516
-#EXTINF:-1 tvg-id="Rederecord.br" tvg-name="Record TV #1" tvg-logo="https://raw.githubusercontent.com/korisco/KoriscoNet/main/Images/RecordTV.png" group-title="xExtras",Record TV #1
-http://cdn.teambr.live:80/wilsonmagrao/9010101/43745
-#EXTINF:-1 tvg-id="Redetv.br" tvg-name="Redetv! +SD" tvg-logo="https://raw.githubusercontent.com/korisco/KoriscoNet/main/Images/RedeTV.png" group-title="xExtras",Redetv! +SD
-http://cdn.teambr.live:80/wilsonmagrao/9010101/22
-#EXTINF:-1 tvg-name="RedeTV! ES HD_1080p #1" tvg-logo="https://raw.githubusercontent.com/korisco/KoriscoNet/main/Images/RedeTV.png" group-title="xExtras",RedeTV! ES HD_1080p #1
-http://cdn.teambr.live:80/wilsonmagrao/9010101/43750
-#EXTINF:-1 tvg-id="Redetv.br" tvg-name="RedeTV! HD #2" tvg-logo="https://raw.githubusercontent.com/korisco/KoriscoNet/main/Images/RedeTV.png" group-title="xExtras",RedeTV! HD #2
-http://cdn.teambr.live:80/wilsonmagrao/9010101/40714
-#EXTINF:-1 tvg-id="Redetv.br" tvg-name="RedeTV! HD #3" tvg-logo="https://raw.githubusercontent.com/korisco/KoriscoNet/main/Images/RedeTV.png" group-title="xExtras",RedeTV! HD #3
-http://cdn.teambr.live:80/wilsonmagrao/9010101/38518
-#EXTINF:-1 tvg-id="Sbt.br" tvg-name="SBT SP #3" tvg-logo="https://raw.githubusercontent.com/korisco/KoriscoNet/main/Images/SBT.png" group-title="xExtras",SBT SP #3
-http://cdn.teambr.live:80/wilsonmagrao/9010101/38577
-#EXTINF:-1 tvg-id="Sbt.br" tvg-name="SBT SP HD #3" tvg-logo="https://raw.githubusercontent.com/korisco/KoriscoNet/main/Images/SBT.png" group-title="xExtras",SBT SP HD #3
-http://cdn.teambr.live:80/wilsonmagrao/9010101/38523
-#EXTINF:-1 tvg-id="Sbt.br" tvg-name="SBT SP SD #3" tvg-logo="https://raw.githubusercontent.com/korisco/KoriscoNet/main/Images/SBT.png" group-title="xExtras",SBT SP SD #3
-http://cdn.teambr.live:80/wilsonmagrao/9010101/38524
-#EXTINF:-1 tvg-id="Tvbrasil.br" tvg-name="TV Brasil DF #4" tvg-logo="https://raw.githubusercontent.com/korisco/KoriscoNet/main/Images/tvbrasil.png" group-title="xExtras",TV Brasil DF #4
-http://cdn.teambr.live:80/wilsonmagrao/9010101/40847
-#EXTINF:-1 tvg-id="Animalplanet.br" tvg-name="Animal Planet HD #2" tvg-logo="http://i.imgur.com/J1oK0xW.png" group-title="xExtras",Animal Planet HD #2
-http://cdn.teambr.live:80/wilsonmagrao/9010101/40677
-#EXTINF:-1 tvg-id="Animalplanet.br" tvg-name="Animal Planet HD #3" tvg-logo="http://i.imgur.com/J1oK0xW.png" group-title="xExtras",Animal Planet HD #3
-http://cdn.teambr.live:80/wilsonmagrao/9010101/38447
-#EXTINF:-1 tvg-id="Animalplanet.br" tvg-name="Animal Planet HD_1080p #3" tvg-logo="http://i.imgur.com/J1oK0xW.png" group-title="xExtras",Animal Planet HD_1080p #3
-http://cdn.teambr.live:80/wilsonmagrao/9010101/466
-#EXTINF:-1 tvg-id="Discovery.br" tvg-name="Discovery Channel +SD" tvg-logo="http://i.imgur.com/tUTV4Kl.png" group-title="xExtras",Discovery Channel +SD
-http://cdn.teambr.live:80/wilsonmagrao/9010101/6
-#EXTINF:-1 tvg-id="Discovery.br" tvg-name="Discovery Channel HD #2" tvg-logo="http://i.imgur.com/tUTV4Kl.png" group-title="xExtras",Discovery Channel HD #2
-http://cdn.teambr.live:80/wilsonmagrao/9010101/40683
-#EXTINF:-1 tvg-id="Discovery.br" tvg-name="Discovery Channel HD #3" tvg-logo="http://i.imgur.com/tUTV4Kl.png" group-title="xExtras",Discovery Channel HD #3
-http://cdn.teambr.live:80/wilsonmagrao/9010101/38849
-#EXTINF:-1 tvg-id="Discovery.br" tvg-name="Discovery Channel HD #4" tvg-logo="http://i.imgur.com/tUTV4Kl.png" group-title="xExtras",Discovery Channel HD #4
-http://cdn.teambr.live:80/wilsonmagrao/9010101/40799
-#EXTINF:-1 tvg-id="Discovery.br" tvg-name="Discovery Channel HD_1080p #1" tvg-logo="http://i.imgur.com/tUTV4Kl.png" group-title="xExtras",Discovery Channel HD_1080p #1
-http://cdn.teambr.live:80/wilsonmagrao/9010101/43636
-#EXTINF:-1 tvg-id="Discovery.br" tvg-name="Discovery Channel HD_1080p #5" tvg-logo="http://i.imgur.com/tUTV4Kl.png" group-title="xExtras",Discovery Channel HD_1080p #5
-http://cdn.teambr.live:80/wilsonmagrao/9010101/43594
-#EXTINF:-1 tvg-id="Homehealth.br" tvg-name="Discovery Home & Health +SD" tvg-logo="http://i.imgur.com/FJgwtT5.png" group-title="xExtras",Discovery Home & Health +SD
-http://cdn.teambr.live:80/wilsonmagrao/9010101/7
-#EXTINF:-1 tvg-id="Homehealth.br" tvg-name="Discovery Home & Health HD #2" tvg-logo="http://i.imgur.com/FJgwtT5.png" group-title="xExtras",Discovery Home & Health HD #2
-http://cdn.teambr.live:80/wilsonmagrao/9010101/40684
-#EXTINF:-1 tvg-id="Homehealth.br" tvg-name="Discovery Home & Health HD #3" tvg-logo="http://i.imgur.com/FJgwtT5.png" group-title="xExtras",Discovery Home & Health HD #3
-http://cdn.teambr.live:80/wilsonmagrao/9010101/38450
-#EXTINF:-1 tvg-id="Homehealth.br" tvg-name="Discovery Home & Health HD_1080p #3" tvg-logo="http://i.imgur.com/FJgwtT5.png" group-title="xExtras",Discovery Home & Health HD_1080p #3
-http://cdn.teambr.live:80/wilsonmagrao/9010101/42143
-#EXTINF:-1 tvg-id="DiscoveryScience.br" tvg-name="Discovery Science HD #2" tvg-logo="https://raw.githubusercontent.com/korisco/KoriscoNet/main/Images/Discoveryscience.png" group-title="xExtras",Discovery Science HD #2
-http://cdn.teambr.live:80/wilsonmagrao/9010101/40687
-#EXTINF:-1 tvg-id="DiscoveryScience.br" tvg-name="Discovery Science HD #3" tvg-logo="https://raw.githubusercontent.com/korisco/KoriscoNet/main/Images/Discoveryscience.png" group-title="xExtras",Discovery Science HD #3
-http://cdn.teambr.live:80/wilsonmagrao/9010101/38451
-#EXTINF:-1 tvg-id="DiscoveryScience.br" tvg-name="Discovery Science HD_1080p #3" tvg-logo="https://raw.githubusercontent.com/korisco/KoriscoNet/main/Images/Discoveryscience.png" group-title="xExtras",Discovery Science HD_1080p #3
-http://cdn.teambr.live:80/wilsonmagrao/9010101/42146
-#EXTINF:-1 tvg-id="Hdtheater.br" tvg-name="Discovery Theater HD #2" tvg-logo="https://www.tvmagazine.com.br/imagens/icones/150/discoverytheater.png" group-title="xExtras",Discovery Theater HD #2
-http://cdn.teambr.live:80/wilsonmagrao/9010101/40688
-#EXTINF:-1 tvg-id="Hdtheater.br" tvg-name="Discovery Theater HD #3" tvg-logo="https://www.tvmagazine.com.br/imagens/icones/150/discoverytheater.png" group-title="xExtras",Discovery Theater HD #3
-http://cdn.teambr.live:80/wilsonmagrao/9010101/38608
-#EXTINF:-1 tvg-id="Hdtheater.br" tvg-name="Discovery Theater HD_1080p #3" tvg-logo="https://www.tvmagazine.com.br/imagens/icones/150/discoverytheater.png" group-title="xExtras",Discovery Theater HD_1080p #3
-http://cdn.teambr.live:80/wilsonmagrao/9010101/42147
-#EXTINF:-1 tvg-id="Discturbohd.br" tvg-name="Discovery Turbo +SD" tvg-logo="https://raw.githubusercontent.com/korisco/KoriscoNet/main/Images/discoveryturbo.png" group-title="xExtras",Discovery Turbo +SD
-http://cdn.teambr.live:80/wilsonmagrao/9010101/8
-#EXTINF:-1 tvg-id="Discturbohd.br" tvg-name="Discovery Turbo HD #2" tvg-logo="https://raw.githubusercontent.com/korisco/KoriscoNet/main/Images/discoveryturbo.png" group-title="xExtras",Discovery Turbo HD #2
-http://cdn.teambr.live:80/wilsonmagrao/9010101/40689
-#EXTINF:-1 tvg-id="Discturbohd.br" tvg-name="Discovery Turbo HD #3" tvg-logo="https://raw.githubusercontent.com/korisco/KoriscoNet/main/Images/discoveryturbo.png" group-title="xExtras",Discovery Turbo HD #3
-http://cdn.teambr.live:80/wilsonmagrao/9010101/38453
-#EXTINF:-1 tvg-id="Discturbohd.br" tvg-name="Discovery Turbo HD_1080p #3" tvg-logo="https://raw.githubusercontent.com/korisco/KoriscoNet/main/Images/discoveryturbo.png" group-title="xExtras",Discovery Turbo HD_1080p #3
-http://cdn.teambr.live:80/wilsonmagrao/9010101/42148
-#EXTINF:-1 tvg-id="Discoveryworldhd.br" tvg-name="Discovery World HD #3" tvg-logo="http://cdn.teambr.live:80/images/f914cff428cbd3e1c2db1f0320bb935b.png" group-title="xExtras",Discovery World HD #3
-http://cdn.teambr.live:80/wilsonmagrao/9010101/38609
-#EXTINF:-1 tvg-id="H2.br" tvg-name="H2 +SD" tvg-logo="http://cdn.teambr.live:80/images/490b2834e65737c1fce95e468cc8b8bf.png" group-title="xExtras",H2 +SD
-http://cdn.teambr.live:80/wilsonmagrao/9010101/15
-#EXTINF:-1 tvg-id="H2.br" tvg-name="H2 HD #2" tvg-logo="http://cdn.teambr.live:80/images/490b2834e65737c1fce95e468cc8b8bf.png" group-title="xExtras",H2 HD #2
-http://cdn.teambr.live:80/wilsonmagrao/9010101/40703
-#EXTINF:-1 tvg-id="DiscoveryCivilization.br" tvg-name="HGTV HD #2" tvg-logo="http://cdn.teambr.live:80/images/26e104754d63adb5a0f6ce026be7182b.png" group-title="xExtras",HGTV HD #2
-http://cdn.teambr.live:80/wilsonmagrao/9010101/40701
-#EXTINF:-1 tvg-id="DiscoveryCivilization.br" tvg-name="HGTV HD #3" tvg-logo="http://cdn.teambr.live:80/images/9911e368965f7cb783a78c463372118d.png" group-title="xExtras",HGTV HD #3
-http://cdn.teambr.live:80/wilsonmagrao/9010101/38485
-#EXTINF:-1 tvg-id="Historychannel.br" tvg-name="History Channel +SD" tvg-logo="https://www.tvmagazine.com.br/imagens/icones/150/historyb.png" group-title="xExtras",History Channel +SD
-http://cdn.teambr.live:80/wilsonmagrao/9010101/18
-#EXTINF:-1 tvg-id="Historychannel.br" tvg-name="History Channel HD #2" tvg-logo="https://www.tvmagazine.com.br/imagens/icones/150/historyb.png" group-title="xExtras",History Channel HD #2
-http://cdn.teambr.live:80/wilsonmagrao/9010101/40702
-#EXTINF:-1 tvg-id="Historychannel.br" tvg-name="History Channel HD #3" tvg-logo="https://www.tvmagazine.com.br/imagens/icones/150/historyb.png" group-title="xExtras",History Channel HD #3
-http://cdn.teambr.live:80/wilsonmagrao/9010101/38486
-#EXTINF:-1 tvg-id="Historychannel.br" tvg-name="History Channel HD #4" tvg-logo="https://www.tvmagazine.com.br/imagens/icones/150/historyb.png" group-title="xExtras",History Channel HD #4
-http://cdn.teambr.live:80/wilsonmagrao/9010101/40825
-#EXTINF:-1 tvg-id="Investigacaodiscoveryid.br" tvg-name="ID Investigação Discovery HD #2" tvg-logo="https://raw.githubusercontent.com/korisco/KoriscoNet/main/Images/id_discovery.png" group-title="xExtras",ID Investigação Discovery HD #2
-http://cdn.teambr.live:80/wilsonmagrao/9010101/40685
-#EXTINF:-1 tvg-id="Investigacaodiscoveryid.br" tvg-name="ID Investigação Discovery HD #3" tvg-logo="https://raw.githubusercontent.com/korisco/KoriscoNet/main/Images/id_discovery.png" group-title="xExtras",ID Investigação Discovery HD #3
-http://cdn.teambr.live:80/wilsonmagrao/9010101/38487
-#EXTINF:-1 tvg-id="Investigacaodiscoveryid.br" tvg-name="ID Investigação Discovery HD #4" tvg-logo="https://raw.githubusercontent.com/korisco/KoriscoNet/main/Images/id_discovery.png" group-title="xExtras",ID Investigação Discovery HD #4
-http://cdn.teambr.live:80/wilsonmagrao/9010101/40826
-#EXTINF:-1 tvg-id="Investigacaodiscoveryid.br" tvg-name="ID Investigação Discovery HD_1080p #3" tvg-logo="https://raw.githubusercontent.com/korisco/KoriscoNet/main/Images/id_discovery.png" group-title="xExtras",ID Investigação Discovery HD_1080p #3
-http://cdn.teambr.live:80/wilsonmagrao/9010101/42144
-#EXTINF:-1 tvg-id="Natgeowildhd.br" tvg-name="Nat Geo Wild HD #3" tvg-logo="https://www.tvmagazine.com.br/imagens/icones/150/natgeowild.png" group-title="xExtras",Nat Geo Wild HD #3
-http://cdn.teambr.live:80/wilsonmagrao/9010101/38494
-#EXTINF:-1 tvg-id="Nationalgeographic.br" tvg-name="National Geographic +SD" tvg-logo="https://www.tvmagazine.com.br/imagens/icones/150/natgeo.png" group-title="xExtras",National Geographic +SD
-http://cdn.teambr.live:80/wilsonmagrao/9010101/19
-#EXTINF:-1 tvg-id="Nationalgeographic.br" tvg-name="National Geographic HD #2" tvg-logo="https://www.tvmagazine.com.br/imagens/icones/150/natgeo.png" group-title="xExtras",National Geographic HD #2
-http://cdn.teambr.live:80/wilsonmagrao/9010101/40706
-#EXTINF:-1 tvg-id="Nationalgeographic.br" tvg-name="National Geographic HD #3" tvg-logo="https://www.tvmagazine.com.br/imagens/icones/150/natgeo.png" group-title="xExtras",National Geographic HD #3
-http://cdn.teambr.live:80/wilsonmagrao/9010101/38495
-#EXTINF:-1 tvg-id="Bandsportshd.br" tvg-name="Band Sports HD #4" tvg-logo="http://i.imgur.com/zR3osZs.png" group-title="xExtras",Band Sports HD #4
-http://cdn.teambr.live:80/wilsonmagrao/9010101/40869
-#EXTINF:-1 tvg-id="Bandsportshd.br" tvg-name="Band Sports HD_1080p #1" tvg-logo="http://i.imgur.com/zR3osZs.png" group-title="xExtras",Band Sports HD_1080p #1
-http://cdn.teambr.live:80/wilsonmagrao/9010101/43615
-#EXTINF:-1 tvg-id="Bandsportshd.br" tvg-name="BandSports HD #2" tvg-logo="http://i.imgur.com/zR3osZs.png" group-title="xExtras",BandSports HD #2
-http://cdn.teambr.live:80/wilsonmagrao/9010101/40679
-#EXTINF:-1 tvg-id="Combatehd.br" tvg-name="Combate +SD" tvg-logo="https://raw.githubusercontent.com/korisco/KoriscoNet/main/Images/combate.png" group-title="xExtras",Combate +SD
-http://cdn.teambr.live:80/wilsonmagrao/9010101/5
-#EXTINF:-1 tvg-id="Combatehd.br" tvg-name="COMBATE FHD" tvg-logo="https://raw.githubusercontent.com/korisco/KoriscoNet/main/Images/combate.png" group-title="xExtras",COMBATE FHD
-http://cdn.teambr.live:80/wilsonmagrao/9010101/43530
-#EXTINF:-1 tvg-id="Combatehd.br" tvg-name="Combate HD #4" tvg-logo="https://raw.githubusercontent.com/korisco/KoriscoNet/main/Images/combate.png" group-title="xExtras",Combate HD #4
-http://cdn.teambr.live:80/wilsonmagrao/9010101/40811
-#EXTINF:-1 tvg-id="Combatehd.br" tvg-name="Combate HD_1080p #3" tvg-logo="https://raw.githubusercontent.com/korisco/KoriscoNet/main/Images/combate.png" group-title="xExtras",Combate HD_1080p #3
-http://cdn.teambr.live:80/wilsonmagrao/9010101/489
-#EXTINF:-1 tvg-id="ESPNInternational.br" tvg-name="ESPN 1 +SD" tvg-logo="https://www.tvmagazine.com.br/imagens/icones/150/espn.png" group-title="xExtras",ESPN 1 +SD
-http://cdn.teambr.live:80/wilsonmagrao/9010101/11
-#EXTINF:-1 tvg-id="ESPNInternational.br" tvg-name="ESPN 1 HD #2" tvg-logo="https://www.tvmagazine.com.br/imagens/icones/150/espn.png" group-title="xExtras",ESPN 1 HD #2
-http://cdn.teambr.live:80/wilsonmagrao/9010101/40692
-#EXTINF:-1 tvg-id="ESPNInternational.br" tvg-name="ESPN 1 HD #3" tvg-logo="https://www.tvmagazine.com.br/imagens/icones/150/espn.png" group-title="xExtras",ESPN 1 HD #3
-http://cdn.teambr.live:80/wilsonmagrao/9010101/38612
-#EXTINF:-1 tvg-id="ESPNInternational.br" tvg-name="ESPN 1 HD #4" tvg-logo="https://www.tvmagazine.com.br/imagens/icones/150/espn.png" group-title="xExtras",ESPN 1 HD #4
-http://cdn.teambr.live:80/wilsonmagrao/9010101/40813
-#EXTINF:-1 tvg-id="ESPN+.br" tvg-name="ESPN 2 HD #2" tvg-logo="https://www.tvmagazine.com.br/imagens/icones/150/espn2.png" group-title="xExtras",ESPN 2 HD #2
-http://cdn.teambr.live:80/wilsonmagrao/9010101/40693
-#EXTINF:-1 tvg-id="ESPN+.br" tvg-name="ESPN 2 HD_1080p #1" tvg-logo="https://www.tvmagazine.com.br/imagens/icones/150/espn2.png" group-title="xExtras",ESPN 2 HD_1080p #1
-http://cdn.teambr.live:80/wilsonmagrao/9010101/43649
-#EXTINF:-1 tvg-id="Espnbrasil.br" tvg-name="ESPN Brasil +SD" tvg-logo="https://raw.githubusercontent.com/korisco/KoriscoNet/main/Images/espnbrasilb.png" group-title="xExtras",ESPN Brasil +SD
-http://cdn.teambr.live:80/wilsonmagrao/9010101/10
-#EXTINF:-1 tvg-id="Espnbrasil.br" tvg-name="ESPN Brasil HD #2" tvg-logo="https://raw.githubusercontent.com/korisco/KoriscoNet/main/Images/espnbrasilb.png" group-title="xExtras",ESPN Brasil HD #2
-http://cdn.teambr.live:80/wilsonmagrao/9010101/40694
-#EXTINF:-1 tvg-id="Espnbrasil.br" tvg-name="ESPN Brasil HD #3" tvg-logo="https://raw.githubusercontent.com/korisco/KoriscoNet/main/Images/espnbrasilb.png" group-title="xExtras",ESPN Brasil HD #3
-http://cdn.teambr.live:80/wilsonmagrao/9010101/38457
-#EXTINF:-1 tvg-id="Espnbrasil.br" tvg-name="ESPN Brasil HD #4" tvg-logo="https://raw.githubusercontent.com/korisco/KoriscoNet/main/Images/espnbrasilb.png" group-title="xExtras",ESPN Brasil HD #4
-http://cdn.teambr.live:80/wilsonmagrao/9010101/40807
-#EXTINF:-1 tvg-id="ESPNBrasil" tvg-name="ESPN Brasil HD_1080p #1" tvg-logo="https://raw.githubusercontent.com/korisco/KoriscoNet/main/Images/espnbrasilb.png" group-title="xExtras",ESPN Brasil HD_1080p #1
-http://cdn.teambr.live:80/wilsonmagrao/9010101/43650
-#EXTINF:-1 tvg-id="Espnextra.br" tvg-name="ESPN Extra HD_1080p #1" tvg-logo="https://www.tvmagazine.com.br/imagens/icones/150/espnextra.png" group-title="xExtras",ESPN Extra HD_1080p #1
-http://cdn.teambr.live:80/wilsonmagrao/9010101/43651
-#EXTINF:-1 tvg-id="Foxsports.br" tvg-name="Fox Sports 1 +SD" tvg-logo="http://i.imgur.com/bYUGfOo.png" group-title="xExtras",Fox Sports 1 +SD
-http://cdn.teambr.live:80/wilsonmagrao/9010101/13
-#EXTINF:-1 tvg-id="FoxSports.br" tvg-name="Fox Sports 1 HD #2" tvg-logo="http://i.imgur.com/bYUGfOo.png" group-title="xExtras",Fox Sports 1 HD #2
-http://cdn.teambr.live:80/wilsonmagrao/9010101/40698
-#EXTINF:-1 tvg-id="FoxSports.br" tvg-name="Fox Sports 1 HD #3" tvg-logo="http://i.imgur.com/bYUGfOo.png" group-title="xExtras",Fox Sports 1 HD #3
-http://cdn.teambr.live:80/wilsonmagrao/9010101/38460
-#EXTINF:-1 tvg-id="FoxSports.br" tvg-name="Fox Sports 1 HD #4" tvg-logo="http://i.imgur.com/bYUGfOo.png" group-title="xExtras",Fox Sports 1 HD #4
-http://cdn.teambr.live:80/wilsonmagrao/9010101/40871
-#EXTINF:-1 tvg-id="Foxsports2.br" tvg-name="Fox Sports 2 +SD" tvg-logo="https://i.imgur.com/150raP9.png" group-title="xExtras",Fox Sports 2 +SD
-http://cdn.teambr.live:80/wilsonmagrao/9010101/12
-#EXTINF:-1 tvg-id="Foxsports2.br" tvg-name="Fox Sports 2 HD #2" tvg-logo="https://i.imgur.com/150raP9.png" group-title="xExtras",Fox Sports 2 HD #2
-http://cdn.teambr.live:80/wilsonmagrao/9010101/40699
-#EXTINF:-1 tvg-id="Foxsports2.br" tvg-name="Fox Sports 2 HD_1080p #1" tvg-logo="https://i.imgur.com/150raP9.png" group-title="xExtras",Fox Sports 2 HD_1080p #1
-http://cdn.teambr.live:80/wilsonmagrao/9010101/43659
-#EXTINF:-1 tvg-id="FoxSports.br" tvg-name="Fox Sports 1 FHD_1080p #3" tvg-logo="http://i.imgur.com/bYUGfOo.png" group-title="xExtras",Fox Sports 1 FHD_1080p #3
-http://cdn.teambr.live:80/wilsonmagrao/9010101/42153
-#EXTINF:-1 tvg-id="Sportv.br" tvg-name="SporTV 1 +SD" tvg-logo="https://raw.githubusercontent.com/korisco/KoriscoNet/main/Images/sportv.png" group-title="xExtras",SporTV 1 +SD
-http://cdn.teambr.live:80/wilsonmagrao/9010101/27
-#EXTINF:-1 tvg-id="Sportv.br" tvg-name="SporTV 1 HD #3" tvg-logo="https://raw.githubusercontent.com/korisco/KoriscoNet/main/Images/sportv.png" group-title="xExtras",SporTV 1 HD #2
-http://cdn.teambr.live:80/wilsonmagrao/9010101/40789
-#EXTINF:-1 tvg-id="Sportv.br" tvg-name="Sportv 1 HD #3" tvg-logo="https://raw.githubusercontent.com/korisco/KoriscoNet/main/Images/sportv.png" group-title="xExtras",Sportv 1 HD #3
-http://cdn.teambr.live:80/wilsonmagrao/9010101/1076
-#EXTINF:-1 tvg-id="Sportv.br" tvg-name="SporTV 1 HD #4" tvg-logo="https://raw.githubusercontent.com/korisco/KoriscoNet/main/Images/sportv.png" group-title="xExtras",SporTV 1 HD #4
-http://cdn.teambr.live:80/wilsonmagrao/9010101/40802
-#EXTINF:-1 tvg-id="Sportv.br" tvg-name="SporTV 1 HD_1080p #1" tvg-logo="https://raw.githubusercontent.com/korisco/KoriscoNet/main/Images/sportv.png" group-title="xExtras",SporTV 1 HD_1080p #1
-http://cdn.teambr.live:80/wilsonmagrao/9010101/43764
-#EXTINF:-1 tvg-id="Sportv2.br" tvg-name="Sportv 2 +SD" tvg-logo="https://raw.githubusercontent.com/korisco/KoriscoNet/main/Images/sportv2.png" group-title="xExtras",Sportv 2 +SD
-http://cdn.teambr.live:80/wilsonmagrao/9010101/25
-#EXTINF:-1 tvg-id="Sportv2.br" tvg-name="Sportv 2 HD #4" tvg-logo="https://raw.githubusercontent.com/korisco/KoriscoNet/main/Images/sportv2.png" group-title="xExtras",Sportv 2 HD #4
-http://cdn.teambr.live:80/wilsonmagrao/9010101/40838
-#EXTINF:-1 tvg-id="Sportv2.br" tvg-name="SporTV 2 HD_1080p #1" tvg-logo="https://raw.githubusercontent.com/korisco/KoriscoNet/main/Images/sportv2.png" group-title="xExtras",SporTV 2 HD_1080p #1
-http://cdn.teambr.live:80/wilsonmagrao/9010101/43765
-#EXTINF:-1 tvg-id="Sportv3.br" tvg-name="Sportv 3 +SD" tvg-logo="https://raw.githubusercontent.com/korisco/KoriscoNet/main/Images/sportv3.png" group-title="xExtras",Sportv 3 +SD
-http://cdn.teambr.live:80/wilsonmagrao/9010101/26
-#EXTINF:-1 tvg-id="Sportv3.br" tvg-name="Sportv 3 HD_1080p #3" tvg-logo="https://raw.githubusercontent.com/korisco/KoriscoNet/main/Images/sportv3.png" group-title="xExtras",Sportv 3 HD_1080p #3
-http://cdn.teambr.live:80/wilsonmagrao/9010101/1074
-#EXTINF:-1 tvg-id="Premierefchd.br" tvg-name="Premiere 1 +SD" tvg-logo="https://raw.githubusercontent.com/korisco/KoriscoNet/main/Images/premiere.png" group-title="xExtras",Premiere 1 +SD
-http://cdn.teambr.live:80/wilsonmagrao/9010101/20
-#EXTINF:-1 tvg-id="Premierefchd.br" tvg-name="PREMIERE 1 FHD H265" tvg-logo="https://raw.githubusercontent.com/korisco/KoriscoNet/main/Images/premiere.png" group-title="xExtras",PREMIERE 1 FHD H265
-http://cdn.teambr.live:80/wilsonmagrao/9010101/43533
-#EXTINF:-1 tvg-id="PremiereClubes" tvg-name="Premiere 1 FHD_1080p #3" tvg-logo="https://raw.githubusercontent.com/korisco/KoriscoNet/main/Images/premiere.png" group-title="xExtras",Premiere 1 FHD_1080p #3
-http://cdn.teambr.live:80/wilsonmagrao/9010101/42137
-#EXTINF:-1 tvg-id="Premierefchd.br" tvg-name="Premiere 1 HD #2" tvg-logo="https://raw.githubusercontent.com/korisco/KoriscoNet/main/Images/premiere.png" group-title="xExtras",Premiere 1 HD #2
-http://cdn.teambr.live:80/wilsonmagrao/9010101/40730
-#EXTINF:-1 tvg-id="Premierefchd.br" tvg-name="Premiere 1 HD #3" tvg-logo="https://raw.githubusercontent.com/korisco/KoriscoNet/main/Images/premiere.png" group-title="xExtras",Premiere 1 HD #3
-http://cdn.teambr.live:80/wilsonmagrao/9010101/38506
-#EXTINF:-1 tvg-id="Premierefchd.br" tvg-name="Premiere 1 HD #4" tvg-logo="https://raw.githubusercontent.com/korisco/KoriscoNet/main/Images/premiere.png" group-title="xExtras",Premiere 1 HD #4
-http://cdn.teambr.live:80/wilsonmagrao/9010101/40804
-#EXTINF:-1 tvg-id="Premierefchd.br" tvg-name="Premiere 1 HD_1080p #1" tvg-logo="https://raw.githubusercontent.com/korisco/KoriscoNet/main/Images/premiere.png" group-title="xExtras",Premiere 1 HD_1080p #1
-http://cdn.teambr.live:80/wilsonmagrao/9010101/43722
-#EXTINF:-1 tvg-id="Premiere2.br" tvg-name="Premiere 2 FHD_1080p #3" tvg-logo="https://raw.githubusercontent.com/korisco/KoriscoNet/main/Images/premiere.png" group-title="xExtras",Premiere 2 FHD_1080p #3
-http://cdn.teambr.live:80/wilsonmagrao/9010101/42138
-#EXTINF:-1 tvg-id="Premiere2.br" tvg-name="Premiere 2 HD #2" tvg-logo="https://raw.githubusercontent.com/korisco/KoriscoNet/main/Images/premiere.png" group-title="xExtras",Premiere 2 HD #2
-http://cdn.teambr.live:80/wilsonmagrao/9010101/40731
-#EXTINF:-1 tvg-id="Premiere2.br" tvg-name="Premiere 2 HD #3" tvg-logo="https://raw.githubusercontent.com/korisco/KoriscoNet/main/Images/premiere.png" group-title="xExtras",Premiere 2 HD #3
-http://cdn.teambr.live:80/wilsonmagrao/9010101/38499
-#EXTINF:-1 tvg-id="Premiere2.br" tvg-name="Premiere 2 HD #4" tvg-logo="https://raw.githubusercontent.com/korisco/KoriscoNet/main/Images/premiere.png" group-title="xExtras",Premiere 2 HD #4
-http://cdn.teambr.live:80/wilsonmagrao/9010101/40827
-#EXTINF:-1 tvg-id="Premiere3.br" tvg-name="Premiere 3 FHD_1080p #3" tvg-logo="https://raw.githubusercontent.com/korisco/KoriscoNet/main/Images/premiere.png" group-title="xExtras",Premiere 3 FHD_1080p #3
-http://cdn.teambr.live:80/wilsonmagrao/9010101/42139
-#EXTINF:-1 tvg-id="Premiere3.br" tvg-name="Premiere 3 HD #2" tvg-logo="https://raw.githubusercontent.com/korisco/KoriscoNet/main/Images/premiere.png" group-title="xExtras",Premiere 3 HD #2
-http://cdn.teambr.live:80/wilsonmagrao/9010101/40732
-#EXTINF:-1 tvg-id="Premiere3.br" tvg-name="Premiere 3 HD #3" tvg-logo="https://raw.githubusercontent.com/korisco/KoriscoNet/main/Images/premiere.png" group-title="xExtras",Premiere 3 HD #3
-http://cdn.teambr.live:80/wilsonmagrao/9010101/38500
-#EXTINF:-1 tvg-id="Premiere3.br" tvg-name="Premiere 3 HD #4" tvg-logo="https://raw.githubusercontent.com/korisco/KoriscoNet/main/Images/premiere.png" group-title="xExtras",Premiere 3 HD #4
-http://cdn.teambr.live:80/wilsonmagrao/9010101/40828
-#EXTINF:-1 tvg-id="Premiere4.br" tvg-name="Premiere 4 FHD_1080p #3" tvg-logo="https://raw.githubusercontent.com/korisco/KoriscoNet/main/Images/premiere.png" group-title="xExtras",Premiere 4 FHD_1080p #3
-http://cdn.teambr.live:80/wilsonmagrao/9010101/42140
-#EXTINF:-1 tvg-id="Premiere4.br" tvg-name="Premiere 4 HD #2" tvg-logo="https://raw.githubusercontent.com/korisco/KoriscoNet/main/Images/premiere.png" group-title="xExtras",Premiere 4 HD #2
-http://cdn.teambr.live:80/wilsonmagrao/9010101/40733
-#EXTINF:-1 tvg-id="Premiere4.br" tvg-name="Premiere 4 HD #3" tvg-logo="https://raw.githubusercontent.com/korisco/KoriscoNet/main/Images/premiere.png" group-title="xExtras",Premiere 4 HD #3
-http://cdn.teambr.live:80/wilsonmagrao/9010101/573
-#EXTINF:-1 tvg-id="Premiere4.br" tvg-name="Premiere 4 HD #3" tvg-logo="https://raw.githubusercontent.com/korisco/KoriscoNet/main/Images/premiere.png" group-title="xExtras",Premiere 4 HD #3
-http://cdn.teambr.live:80/wilsonmagrao/9010101/38501
-#EXTINF:-1 tvg-id="Premiere4.br" tvg-name="Premiere 4 HD #4" tvg-logo="https://raw.githubusercontent.com/korisco/KoriscoNet/main/Images/premiere.png" group-title="xExtras",Premiere 4 HD #4
-http://cdn.teambr.live:80/wilsonmagrao/9010101/40829
-#EXTINF:-1 tvg-id="Premiere5.br" tvg-name="Premiere 5 FHD_1080p #3" tvg-logo="https://raw.githubusercontent.com/korisco/KoriscoNet/main/Images/premiere.png" group-title="xExtras",Premiere 5 FHD_1080p #3
-http://cdn.teambr.live:80/wilsonmagrao/9010101/40790
-#EXTINF:-1 tvg-id="Premiere5.br" tvg-name="Premiere 5 HD #2" tvg-logo="https://raw.githubusercontent.com/korisco/KoriscoNet/main/Images/premiere.png" group-title="xExtras",Premiere 5 HD #2
-http://cdn.teambr.live:80/wilsonmagrao/9010101/40734
-#EXTINF:-1 tvg-id="Premiere5.br" tvg-name="Premiere 5 HD #4" tvg-logo="https://raw.githubusercontent.com/korisco/KoriscoNet/main/Images/premiere.png" group-title="xExtras",Premiere 5 HD #4
-http://cdn.teambr.live:80/wilsonmagrao/9010101/40830
-#EXTINF:-1 tvg-id="Premiere5.br" tvg-name="Premiere 5 HD_1080p #1" tvg-logo="https://raw.githubusercontent.com/korisco/KoriscoNet/main/Images/premiere.png" group-title="xExtras",Premiere 5 HD_1080p #1
-http://cdn.teambr.live:80/wilsonmagrao/9010101/43726
-#EXTINF:-1 tvg-id="Premiere6.br" tvg-name="Premiere 6 HD #2" tvg-logo="https://raw.githubusercontent.com/korisco/KoriscoNet/main/Images/premiere.png" group-title="xExtras",Premiere 6 HD #2
-http://cdn.teambr.live:80/wilsonmagrao/9010101/40735
-#EXTINF:-1 tvg-id="Premiere6.br" tvg-name="Premiere 6 HD #3" tvg-logo="https://raw.githubusercontent.com/korisco/KoriscoNet/main/Images/premiere.png" group-title="xExtras",Premiere 6 HD #3
-http://cdn.teambr.live:80/wilsonmagrao/9010101/38503
-#EXTINF:-1 tvg-id="Premiere6.br" tvg-name="Premiere 6 HD #4" tvg-logo="https://raw.githubusercontent.com/korisco/KoriscoNet/main/Images/premiere.png" group-title="xExtras",Premiere 6 HD #4
-http://cdn.teambr.live:80/wilsonmagrao/9010101/40831
-#EXTINF:-1 tvg-id="Premiere7.br" tvg-name="Premiere 7 HD #4" tvg-logo="https://raw.githubusercontent.com/korisco/KoriscoNet/main/Images/premiere.png" group-title="xExtras",Premiere 7 HD #4
-http://cdn.teambr.live:80/wilsonmagrao/9010101/40832
-#EXTINF:-1 tvg-id="Premiere7.br" tvg-name="Premiere 7 SD #3" tvg-logo="https://raw.githubusercontent.com/korisco/KoriscoNet/main/Images/premiere.png" group-title="xExtras",Premiere 7 SD #3
-http://cdn.teambr.live:80/wilsonmagrao/9010101/38504
-#EXTINF:-1 tvg-id="Animalplanet.br" tvg-name="Animal Planet 4K #5" tvg-logo="http://i.imgur.com/J1oK0xW.png" group-title="xExtras",Animal Planet 4K #5
-http://cdn.teambr.live:80/wilsonmagrao/9010101/43008
-#EXTINF:-1 tvg-id="BandRede.br" tvg-name="BAND 4K" tvg-logo="http://i.imgur.com/6xouXln.png" group-title="xExtras",BAND 4K
-http://cdn.teambr.live:80/wilsonmagrao/9010101/43009
-#EXTINF:-1 tvg-id="Cartoonnetwork.br" tvg-name="Cartoon Network 4K #5" tvg-logo="http://i.imgur.com/S5PsDDR.png" group-title="xExtras",Cartoon Network 4K #5
-http://cdn.teambr.live:80/wilsonmagrao/9010101/43010
-#EXTINF:-1 tvg-id="Combatehd.br" tvg-name="COMBATE 4K" tvg-logo="https://raw.githubusercontent.com/korisco/KoriscoNet/main/Images/combate.png" group-title="xExtras",COMBATE 4K
-http://cdn.teambr.live:80/wilsonmagrao/9010101/43011
-#EXTINF:-1 tvg-id="ESPNInternational.br" tvg-name="ESPN 4K" tvg-logo="https://www.tvmagazine.com.br/imagens/icones/150/espn.png" group-title="xExtras",ESPN 1 4K
-http://cdn.teambr.live:80/wilsonmagrao/9010101/43013
-#EXTINF:-1 tvg-id="Foxsports2.br" tvg-name="FOX SPORTS 2 4K" tvg-logo="https://i.imgur.com/150raP9.png" group-title="xExtras",FOX SPORTS 2 4K
-http://cdn.teambr.live:80/wilsonmagrao/9010101/43014
-#EXTINF:-1 tvg-id="FoxSports.br" tvg-name="FOX SPORTS 4K" tvg-logo="http://i.imgur.com/bYUGfOo.png" group-title="xExtras",FOX SPORTS 4K
-http://cdn.teambr.live:80/wilsonmagrao/9010101/43015
-#EXTINF:-1 tvg-id="TVGazeta.br" tvg-name="GAZETA 4K" tvg-logo="https://www.tvmagazine.com.br/imagens/icones/150/tvgazeta.png" group-title="xExtras",GAZETA 4K
-http://cdn.teambr.live:80/wilsonmagrao/9010101/43016
-#EXTINF:-1 tvg-id="Globonews.br" tvg-name="GLOBO 4K" tvg-logo="http://i.imgur.com/ozxkJhG.png" group-title="xExtras",GLOBO 4K
-http://cdn.teambr.live:80/wilsonmagrao/9010101/43017
-#EXTINF:-1 tvg-id="Hbo.br" tvg-name="HBO 4K" tvg-logo="http://cdn.teambr.live:80/images/109596478ddccc3d5899c79bb5aee8b9.png" group-title="xExtras",HBO 4K
-http://cdn.teambr.live:80/wilsonmagrao/9010101/43018
-#EXTINF:-1 tvg-id="Multishow.br" tvg-name="MULTISHOW 4K" tvg-logo="https://raw.githubusercontent.com/korisco/KoriscoNet/main/Images/multishow.png" group-title="xExtras",MULTISHOW 4K
-http://cdn.teambr.live:80/wilsonmagrao/9010101/43020
-#EXTINF:-1 tvg-id="Rederecord.br" tvg-name="RECORD 4K" tvg-logo="https://raw.githubusercontent.com/korisco/KoriscoNet/main/Images/RecordTV.png" group-title="xExtras",RECORD 4K
-http://cdn.teambr.live:80/wilsonmagrao/9010101/43022
-#EXTINF:-1 tvg-id="Space.br" tvg-name="SPACE 4K" tvg-logo="https://www.tvmagazine.com.br/imagens/icones/150/space.png" group-title="xExtras",SPACE 4K
-http://cdn.teambr.live:80/wilsonmagrao/9010101/43019
-#EXTINF:-1 tvg-id="Sportv.br" tvg-name="SPORTV 4K" tvg-logo="https://raw.githubusercontent.com/korisco/KoriscoNet/main/Images/sportv.png" group-title="xExtras",SPORTV 4K
-http://cdn.teambr.live:80/wilsonmagrao/9010101/43012
+#EXTINF:58 tvg-id="Cultura" tvg-name="Cultura" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bc/TV_Cultura.svg/200px-TV_Cultura.svg.png" group-title="Canais | Abertos",Cultura
+#EXTVLCOPT:network-caching=1000
+http://168.205.87.198:8555/live/viniciusvieira/vieira123/32.m3u8
+#EXTINF:0 tvg-id="Discovery Channel" tvg-name="Discovery Channel" tvg-logo="http://i.imgur.com/tUTV4Kl.png" group-title="Canais | Documentarios",Discovery Channel
+#EXTVLCOPT:network-caching=1000
+http://168.205.87.198:8555/live/viniciusvieira/vieira123/33.m3u8
+#EXTINF:0 tvg-id="Discovery Home & Health" tvg-name="Discovery Home & Health" tvg-logo="http://i.imgur.com/FJgwtT5.png" group-title="Canais | Documentarios",Discovery Home & Health
+#EXTVLCOPT:network-caching=1000
+http://168.205.87.198:8555/live/elienecp/123456/35.ts
+#EXTINF:59 tvg-id="Discovery Home & Health HD" tvg-name="Discovery Home & Health HD" tvg-logo="http://i.imgur.com/tUTV4Kl.png" group-title="Canais | Documentarios",Discovery Home & Health HD
+#EXTVLCOPT:network-caching=1000
+http://168.205.87.198:8555/live/viniciusvieira/vieira123/35.m3u8
+#EXTINF:60,DISCOVERY ID
+#EXTVLCOPT:network-caching=1000
+http://168.205.87.198:8555/live/viniciusvieira/vieira123/36.m3u8
+#EXTINF:60 tvg-id="Discovery Kids HD" tvg-name="Discovery Kids" tvg-logo="http://i.imgur.com/32njYPj.png" group-title="Canais | Infantil",Discovery Kids
+#EXTVLCOPT:network-caching=1000
+http://168.205.87.198:8555/live/viniciusvieira/vieira123/37.m3u8
+#EXTINF:62,DISCOVERY SCI
+#EXTVLCOPT:network-caching=1000
+http://168.205.87.198:8555/live/viniciusvieira/vieira123/38.m3u8
+#EXTINF:59,DISCOVERY THEATER
+#EXTVLCOPT:network-caching=1000
+http://168.205.87.198:8555/live/viniciusvieira/vieira123/39.m3u8
+#EXTINF:60,DISCOVERY TLC
+#EXTVLCOPT:network-caching=1000
+http://168.205.87.198:8555/live/viniciusvieira/vieira123/40.m3u8
+#EXTINF:60 tvg-id="Disney Channel" tvg-name="Disney Channel" tvg-logo="http://i.imgur.com/4KeieN7.png" group-title="Canais | Infantil",Disney Channel
+#EXTVLCOPT:network-caching=1000
+http://168.205.87.198:8555/live/viniciusvieira/vieira123/45.m3u8
+#EXTINF:0 tvg-id="Disney Junior" tvg-name="Disney Junior" tvg-logo="https://i.imgur.com/HNCqSdX.png" group-title="Canais | Infantil",Disney Junior
+#EXTVLCOPT:network-caching=1000
+http://168.205.87.198:8555/live/elienecp/123456/46.ts
+#EXTINF:60 tvg-id="Disney Junior HD" tvg-name="Disney Junior HD" tvg-logo="https://skyassineonline.com.br/img/channels/lg-295-canal-disney-junior-hd.png" group-title="Canais | Infantil",Disney Junior HD
+#EXTVLCOPT:network-caching=1000
+http://168.205.87.198:8555/live/viniciusvieira/vieira123/46.m3u8
+#EXTINF:59 tvg-id="ESPN 2 HD" tvg-name="ESPN 2 HD" tvg-logo="https://skyassineonline.com.br/img/channels/lg-231-canal-espn-.png" group-title="Canais | Esportes",ESPN 2 HD
+#EXTVLCOPT:network-caching=1000
+http://168.205.87.198:8555/live/viniciusvieira/vieira123/49.m3u8
+#EXTINF:60 tvg-id="ESPN Brasil" tvg-name="ESPN Brasil" tvg-logo="https://bit.ly/2ICVj9U" group-title="Canais | Esportes",ESPN Brasil
+#EXTVLCOPT:network-caching=1000
+http://168.205.87.198:8555/live/viniciusvieira/vieira123/50.m3u8
+#EXTINF:59,ESPN EXTRA
+#EXTVLCOPT:network-caching=1000
+http://168.205.87.198:8555/live/viniciusvieira/vieira123/51.m3u8
+#EXTINF:0 tvg-id="ESPN Extra" tvg-name="ESPN Extra" tvg-logo="https://skyassineonline.com.br/img/channels/lg-231-canal-espn-.png" group-title="Canais | Esportes",ESPN Extra
+#EXTVLCOPT:network-caching=1000
+http://playplusespn-lh.akamaihd.net/i/pp_espnext@374460/index_720_av-p.m3u8
+#EXTINF:0 tvg-id="FoxSports" tvg-name="FoxSports" tvg-logo="http://i.imgur.com/bYUGfOo.png" group-title="Canais | Esportes",FoxSports
+#EXTVLCOPT:network-caching=1000
+http://168.205.87.198:8555/live/elienecp/123456/65.ts
+#EXTINF:60 tvg-id="FoxSports" tvg-name="FoxSports" tvg-logo="http://i.imgur.com/bYUGfOo.png" group-title="Canais | Esportes",FoxSports HD
+#EXTVLCOPT:network-caching=1000
+http://168.205.87.198:8555/live/viniciusvieira/vieira123/65.m3u8
+#EXTINF:59 tvg-id="FoxSports 2" tvg-name="FoxSports 2" tvg-logo="https://i.imgur.com/150raP9.png" group-title="Canais | Esportes",FoxSports 2
+#EXTVLCOPT:network-caching=1000
+http://168.205.87.198:8555/live/viniciusvieira/vieira123/66.m3u8
+#EXTINF:59 tvg-id="Futura" tvg-name="Futura" tvg-logo="https://macmagazine.com.br/wp-content/uploads/2014/10/29-futura.png" group-title="Canais | Abertos",Futura
+#EXTVLCOPT:network-caching=1000
+http://168.205.87.198:8555/live/viniciusvieira/vieira123/67.m3u8
+#EXTINF:0 tvg-id="Futura" tvg-name="Futura" tvg-logo="https://macmagazine.com.br/wp-content/uploads/2014/10/29-futura.png" group-title="Canais | Abertos",Futura HD
+#EXTVLCOPT:network-caching=1000
+http://168.205.87.198:8555/live/elienecp/123456/67.ts
+#EXTINF:60 tvg-id="FX" tvg-name="FX" tvg-logo="http://i.imgur.com/GaQZSu6.png" group-title="Canais | Filmes e Series",FX
+#EXTVLCOPT:network-caching=1000
+http://168.205.87.198:8555/live/viniciusvieira/vieira123/68.m3u8
+#EXTINF:60 tvg-id="Gazeta HD" tvg-name="Gazeta HD" tvg-logo="https://4.bp.blogspot.com/-njl0j_tJ_j8/T9pJrd6srTI/AAAAAAAAMWo/69-3gYzq9uY/s1600/Logo+TV+Gazeta.png" group-title="Canais | Variedades",Gazeta HD
+#EXTVLCOPT:network-caching=1000
+http://168.205.87.198:8555/live/viniciusvieira/vieira123/69.m3u8
+#EXTINF:59 tvg-id="100% Vida" tvg-name="Globo Minas HD" tvg-logo="http://i.imgur.com/ozxkJhG.png" group-title="Globos | Regionais ",Globo Minas HD
+#EXTVLCOPT:network-caching=1000
+http://168.205.87.198:8555/live/viniciusvieira/vieira123/70.m3u8
+#EXTINF:5400 tvg-id="Globo Rio" tvg-name="Globo Rio" tvg-logo="https://i.imgur.com/rRftyEP.png" group-title="Canais | Abertos",Globo Rio
+#EXTVLCOPT:network-caching=1000
+http://live.video.globo.com/h/1402196682759012345678915746027599876543210hM4EA1neMoQoIiUyVn1TNg/k/app/a/A/u/anyone/d/s/hls-globo-rj/hls-globo-rj_2359/playlist.m3u8
+#EXTINF:5400 tvg-id="Globo Rio" tvg-name="Globo Rio" tvg-logo="https://i.imgur.com/rRftyEP.png" group-title="Canais | Abertos",Globo Rio
+#EXTVLCOPT:network-caching=1000
+http://live.video.globo.com/h/1402196682759012345678915746027599876543210hM4EA1neMoQoIiUyVn1TNg/k/app/a/A/u/anyone/d/s/hls-globo-rj/hls-globo-rj_2359/playlist.m3u8
+#EXTINF:5400 tvg-id="Globo Rio HD" tvg-name="Globo Rio HD" tvg-logo="https://i.imgur.com/rRftyEP.png" group-title="Canais | Abertos",Globo Rio HD
+#EXTVLCOPT:network-caching=1000
+http://live.video.globo.com/h/1402196682759012345678915746027599876543210hM4EA1neMoQoIiUyVn1TNg/k/app/a/A/u/anyone/d/s/hls-globo-rj/hls-globo-rj_2359/playlist.m3u8
+#EXTINF:58 tvg-id="" tvg-name="NICKELODEON" tvg-logo="http://i.imgur.com/ZjLSLiY.png" group-title="Canais | Alternativos",NICKELODEON
+#EXTVLCOPT:network-caching=1000
+http://168.205.87.198:8555/live/viniciusvieira/vieira123/80.m3u8
+#EXTINF:0 tvg-id="" tvg-name="PARAMOUNT CHANNEL" tvg-logo="http://i.imgur.com/yScrn6s.png" group-title="Canais | Alternativos",PARAMOUNT CHANNEL
+#EXTVLCOPT:network-caching=1000
+http://168.205.87.198:8555/live/elienecp/123456/81.ts
+#EXTINF:58 tvg-id="" tvg-name="PARAMOUNT CHANNEL HD" tvg-logo="http://i.imgur.com/yScrn6s.png" group-title="Canais | Alternativos",PARAMOUNT CHANNEL HD
+#EXTVLCOPT:network-caching=1000
+http://168.205.87.198:8555/live/viniciusvieira/vieira123/81.m3u8
+#EXTINF:60 tvg-id="" tvg-name="RECORD MINAS" tvg-logo="http://i.imgur.com/1Zb1lr8.png" group-title="Canais | Alternativos",RECORD MINAS
+#EXTVLCOPT:network-caching=1000
+http://168.205.87.198:8555/live/viniciusvieira/vieira123/96.m3u8
+#EXTINF:0 tvg-id="" tvg-name="RECORD MINAS" tvg-logo="http://i.imgur.com/1Zb1lr8.png" group-title="Canais | Alternativos",RECORD MINAS
+#EXTVLCOPT:network-caching=1000
+http://168.205.87.198:8555/live/elienecp/123456/96.ts
+#EXTINF:60 tvg-id="" tvg-name="RECORD NEWS" tvg-logo="http://i.imgur.com/I99RZ9n.png" group-title="Canais | Alternativos",RECORD NEWS
+#EXTVLCOPT:network-caching=1000
+http://168.205.87.198:8555/live/viniciusvieira/vieira123/97.m3u8
+#EXTINF:0 tvg-id="" tvg-name="RECORD NEWS HD" tvg-logo="http://i.imgur.com/I99RZ9n.png" group-title="Canais | Alternativos",RECORD NEWS HD
+#EXTVLCOPT:network-caching=1000
+http://168.205.87.198:8555/live/elienecp/123456/97.ts
+#EXTINF:30 tvg-id="" tvg-name="RECORD RJ" tvg-logo="http://i.imgur.com/1Zb1lr8.png" group-title="Canais | Alternativos",RECORD RJ
+#EXTVLCOPT:network-caching=1000
+http://playplusrjo-lh.akamaihd.net/i/pp_rj@377859/index_360_av-p.m3u8
+#EXTINF:30 tvg-id="" tvg-name="RECORD RJ HD" tvg-logo="http://i.imgur.com/1Zb1lr8.png" group-title="Canais | Alternativos",RECORD RJ HD
+#EXTVLCOPT:network-caching=1000
+http://playplusrjo-lh.akamaihd.net/i/pp_rj@377859/index_720_av-p.m3u8
+#EXTINF:30 tvg-id="" tvg-name="RECORD SP" tvg-logo="http://i.imgur.com/1Zb1lr8.png" group-title="Canais | Alternativos",RECORD SP
+#EXTVLCOPT:network-caching=1000
+http://playplusspo-lh.akamaihd.net/i/pp_sp@350176/index_360_av-p.m3u8
+#EXTINF:30 tvg-id="" tvg-name="RECORD SP HD" tvg-logo="http://i.imgur.com/1Zb1lr8.png" group-title="Canais | Alternativos",RECORD SP HD
+#EXTVLCOPT:network-caching=1000
+http://playplusspo-lh.akamaihd.net/i/pp_sp@350176/index_720_av-p.m3u8
+#EXTINF:29 tvg-id="" tvg-name="REDE TV SP" tvg-logo="https://i.imgur.com/HP5aXp6.png" group-title="Canais | Alternativos",REDE TV SP
+#EXTVLCOPT:network-caching=1000
+http://177.20.208.58:8000/play/a03p/index.m3u8
+#EXTINF:60 tvg-id="" tvg-name="SBT ALTEROSA" tvg-logo="https://i.imgur.com/3HzpWUY.png" group-title="Canais | Alternativos",SBT ALTEROSA
+#EXTVLCOPT:network-caching=1000
+http://168.205.87.198:8555/live/viniciusvieira/vieira123/104.m3u8
+#EXTINF:59 tvg-id="" tvg-name="SPACE" tvg-logo="http://i.imgur.com/wP2GD1G.png" group-title="Canais | Alternativos",SPACE
+#EXTVLCOPT:network-caching=1000
+http://168.205.87.198:8555/live/viniciusvieira/vieira123/110.m3u8
+#EXTINF:59 tvg-id="TCM" tvg-name="TCM" tvg-logo="http://tbsila.cdn.turner.com/tbsila/hashtag/assets/tcm/logo.png" group-title="Canais | Filmes e Series",TCM
+#EXTVLCOPT:network-caching=1000
+http://168.205.87.198:8555/live/viniciusvieira/vieira123/112.m3u8
+#EXTINF:0 tvg-id="TCM HD" tvg-name="TCM HD" tvg-logo="http://tbsila.cdn.turner.com/tbsila/hashtag/assets/tcm/logo.png" group-title="Canais | Filmes e Series",TCM HD
+#EXTVLCOPT:network-caching=1000
+http://168.205.87.198:8555/live/elienecp/123456/112.ts
+#EXTINF:62 tvg-id="TNT" tvg-name="TNT" tvg-logo="http://i.imgur.com/VhQUWnY.png" group-title="Canais | Filmes e Series",TNT
+#EXTVLCOPT:network-caching=1000
+http://168.205.87.198:8555/live/viniciusvieira/vieira123/116.m3u8
+#EXTINF:0 tvg-id="TNT" tvg-name="TNT HD" tvg-logo="http://i.imgur.com/VhQUWnY.png" group-title="Canais | Filmes e Series",TNT HD
+#EXTVLCOPT:network-caching=1000
+http://168.205.87.198:8555/live/elienecp/123456/116.ts
+#EXTINF:60 tvg-id="100% Vida" tvg-name="TV Aparecida" tvg-logo="http://i.imgur.com/UOMWJH6.png" group-title="Canais | Religioso",TV Aparecida
+#EXTVLCOPT:network-caching=1000
+http://168.205.87.198:8555/live/viniciusvieira/vieira123/131.m3u8
+#EXTINF:60 tvg-id="" tvg-name="TV CAMARA" tvg-logo="http://www.cxtv.com.br/img/Tvs/Logo/a21e5d497fe0f1fc302afd7f02082730.jpg" group-title="Canais | Variedades",TV CAMARA
+#EXTVLCOPT:network-caching=1000
+http://168.205.87.198:8555/live/viniciusvieira/vieira123/136.m3u8
+#EXTINF:59 tvg-id="TV Escola" tvg-name="TV Escola" tvg-logo="http://i.imgur.com/oSZZKxP.png" group-title="Canais | Abertos",TV Escola
+#EXTVLCOPT:network-caching=1000
+http://168.205.87.198:8555/live/viniciusvieira/vieira123/137.m3u8
+#EXTINF:60 tvg-id="TV Senado" tvg-name="TV Senado" tvg-logo="http://urlcurta.ml/Llwge" group-title="Canais | Variedades",TV Senado
+#EXTVLCOPT:network-caching=1000
+http://168.205.87.198:8555/live/viniciusvieira/vieira123/139.m3u8
