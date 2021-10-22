@@ -1,0 +1,184 @@
+#EXTM3U
+#EXTINF:0 tvg-logo="https://timeline.dialetto.com.br/wp-content/uploads/2019/03/CBN-SP.png" group-title="NOTICIAS", CBN São Paulo
+#EXTVLCOPT:network-caching=1000
+https://medias.sgr.globo.com/hls/vCBNSP/vCBNSP.m3u8
+#EXTINF:30 tvg-id="Band HD" tvg-name="Band" tvg-logo="http://i.imgur.com/6xouXln.png" group-title="Canais | Abertos",Band
+#EXTVLCOPT:network-caching=1000
+http://evpp.mm.uol.com.br:1935/geob_band/app/playlist.m3u8
+#EXTINF:30 tvg-id="Band HD" tvg-name="Band HD" tvg-logo="http://i.imgur.com/6xouXln.png" group-title="Canais | Abertos",Band HD
+#EXTVLCOPT:network-caching=1000
+http://evpp.mm.uol.com.br:1935/geob_band/app/playlist.m3u8
+#EXTINF:60 tvg-id="Band HD" tvg-name="Band SP HD" tvg-logo="http://i.imgur.com/6xouXln.png" group-title="Canais | Abertos",Band SP HD
+#EXTVLCOPT:network-caching=1000
+http://168.205.87.198:8555/live/viniciusvieira/vieira123/19.m3u8
+#EXTINF:30 tvg-id="BandNews FHD" tvg-name="BandNews" tvg-logo="http://i.imgur.com/ibNTVbR.png" group-title="Canais | Noticias",BandNews
+#EXTVLCOPT:network-caching=1000
+http://evpp.mm.uol.com.br:1935/geob_band/bandnewstv/playlist.m3u8
+#EXTINF:60 tvg-id="Cartoon Network" tvg-name="Cartoon Network" tvg-logo="http://i.imgur.com/S5PsDDR.png" group-title="Canais | Infantil",Cartoon Network
+#EXTVLCOPT:network-caching=1000
+http://168.205.87.198:8555/live/viniciusvieira/vieira123/26.m3u8
+#EXTINF:0 tvg-id="Cartoon Network" tvg-name="Cartoon Network HD" tvg-logo="http://i.imgur.com/S5PsDDR.png" group-title="Canais | Infantil",Cartoon Network HD
+#EXTVLCOPT:network-caching=1000
+http://168.205.87.198:8555/live/elienecp/123456/26.ts
+#EXTINF:60 tvg-name="CINE BRASIL" group-title="CANAIS DE VARIEDADES" tvg-logo="https://cdn.mitvstatic.com/channels/br_cinebrasil-tv_m.png",Cine Brasil
+#EXTVLCOPT:network-caching=1000
+http://168.205.87.198:8555/live/viniciusvieira/vieira123/145.m3u8
+#EXTINF:0 tvg-name="CINE BRASIL" group-title="CANAIS DE VARIEDADES" tvg-logo="https://cdn.mitvstatic.com/channels/br_cinebrasil-tv_m.png",Cine Brasil
+#EXTVLCOPT:network-caching=1000
+http://168.205.87.198:8555/live/elienecp/123456/145.ts
+#EXTINF:60 tvg-name="CNN Brasil HD" group-title="NOTICIAS" tvg-logo="https://www.cnnbrasil.com.br/_next/static/images/logo-0457804d41d68a5c1c3de124ff229c35.png",CNN Brasil
+#EXTVLCOPT:network-caching=1000
+http://168.205.87.198:8555/live/viniciusvieira/vieira123/28.m3u8
+#EXTINF:62 tvg-id="Comedy Central" tvg-name="Comedy Central" tvg-logo="http://i.imgur.com/0956PZG.png" group-title="Canais | Variedades",Comedy Central
+#EXTVLCOPT:network-caching=1000
+http://168.205.87.198:8555/live/viniciusvieira/vieira123/29.m3u8
+#EXTINF:0 tvg-id="Cultura" tvg-name="Cultura" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bc/TV_Cultura.svg/200px-TV_Cultura.svg.png" group-title="Canais | Abertos",Cultura
+#EXTVLCOPT:network-caching=1000
+http://168.205.87.198:8555/live/elienecp/123456/32.ts
+#EXTINF:58 tvg-id="Cultura" tvg-name="Cultura" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bc/TV_Cultura.svg/200px-TV_Cultura.svg.png" group-title="Canais | Abertos",Cultura
+#EXTVLCOPT:network-caching=1000
+http://168.205.87.198:8555/live/viniciusvieira/vieira123/32.m3u8
+#EXTINF:0 tvg-id="Discovery Channel" tvg-name="Discovery Channel" tvg-logo="http://i.imgur.com/tUTV4Kl.png" group-title="Canais | Documentarios",Discovery Channel
+#EXTVLCOPT:network-caching=1000
+http://168.205.87.198:8555/live/viniciusvieira/vieira123/33.m3u8
+#EXTINF:0 tvg-id="Discovery Home & Health" tvg-name="Discovery Home & Health" tvg-logo="http://i.imgur.com/FJgwtT5.png" group-title="Canais | Documentarios",Discovery Home & Health
+#EXTVLCOPT:network-caching=1000
+http://168.205.87.198:8555/live/elienecp/123456/35.ts
+#EXTINF:59 tvg-id="Discovery Home & Health HD" tvg-name="Discovery Home & Health HD" tvg-logo="http://i.imgur.com/tUTV4Kl.png" group-title="Canais | Documentarios",Discovery Home & Health HD
+#EXTVLCOPT:network-caching=1000
+http://168.205.87.198:8555/live/viniciusvieira/vieira123/35.m3u8
+#EXTINF:60,DISCOVERY ID
+#EXTVLCOPT:network-caching=1000
+http://168.205.87.198:8555/live/viniciusvieira/vieira123/36.m3u8
+#EXTINF:60 tvg-id="Discovery Kids HD" tvg-name="Discovery Kids" tvg-logo="http://i.imgur.com/32njYPj.png" group-title="Canais | Infantil",Discovery Kids
+#EXTVLCOPT:network-caching=1000
+http://168.205.87.198:8555/live/viniciusvieira/vieira123/37.m3u8
+#EXTINF:62,DISCOVERY SCI
+#EXTVLCOPT:network-caching=1000
+http://168.205.87.198:8555/live/viniciusvieira/vieira123/38.m3u8
+#EXTINF:59,DISCOVERY THEATER
+#EXTVLCOPT:network-caching=1000
+http://168.205.87.198:8555/live/viniciusvieira/vieira123/39.m3u8
+#EXTINF:60,DISCOVERY TLC
+#EXTVLCOPT:network-caching=1000
+http://168.205.87.198:8555/live/viniciusvieira/vieira123/40.m3u8
+#EXTINF:60 tvg-id="Disney Channel" tvg-name="Disney Channel" tvg-logo="http://i.imgur.com/4KeieN7.png" group-title="Canais | Infantil",Disney Channel
+#EXTVLCOPT:network-caching=1000
+http://168.205.87.198:8555/live/viniciusvieira/vieira123/45.m3u8
+#EXTINF:0 tvg-id="Disney Junior" tvg-name="Disney Junior" tvg-logo="https://i.imgur.com/HNCqSdX.png" group-title="Canais | Infantil",Disney Junior
+#EXTVLCOPT:network-caching=1000
+http://168.205.87.198:8555/live/elienecp/123456/46.ts
+#EXTINF:60 tvg-id="Disney Junior HD" tvg-name="Disney Junior HD" tvg-logo="https://skyassineonline.com.br/img/channels/lg-295-canal-disney-junior-hd.png" group-title="Canais | Infantil",Disney Junior HD
+#EXTVLCOPT:network-caching=1000
+http://168.205.87.198:8555/live/viniciusvieira/vieira123/46.m3u8
+#EXTINF:59 tvg-id="ESPN 2 HD" tvg-name="ESPN 2 HD" tvg-logo="https://skyassineonline.com.br/img/channels/lg-231-canal-espn-.png" group-title="Canais | Esportes",ESPN 2 HD
+#EXTVLCOPT:network-caching=1000
+http://168.205.87.198:8555/live/viniciusvieira/vieira123/49.m3u8
+#EXTINF:60 tvg-id="ESPN Brasil" tvg-name="ESPN Brasil" tvg-logo="https://bit.ly/2ICVj9U" group-title="Canais | Esportes",ESPN Brasil
+#EXTVLCOPT:network-caching=1000
+http://168.205.87.198:8555/live/viniciusvieira/vieira123/50.m3u8
+#EXTINF:59,ESPN EXTRA
+#EXTVLCOPT:network-caching=1000
+http://168.205.87.198:8555/live/viniciusvieira/vieira123/51.m3u8
+#EXTINF:0 tvg-id="ESPN Extra" tvg-name="ESPN Extra" tvg-logo="https://skyassineonline.com.br/img/channels/lg-231-canal-espn-.png" group-title="Canais | Esportes",ESPN Extra
+#EXTVLCOPT:network-caching=1000
+http://playplusespn-lh.akamaihd.net/i/pp_espnext@374460/index_720_av-p.m3u8
+#EXTINF:0 tvg-id="FoxSports" tvg-name="FoxSports" tvg-logo="http://i.imgur.com/bYUGfOo.png" group-title="Canais | Esportes",FoxSports
+#EXTVLCOPT:network-caching=1000
+http://168.205.87.198:8555/live/elienecp/123456/65.ts
+#EXTINF:60 tvg-id="FoxSports" tvg-name="FoxSports" tvg-logo="http://i.imgur.com/bYUGfOo.png" group-title="Canais | Esportes",FoxSports HD
+#EXTVLCOPT:network-caching=1000
+http://168.205.87.198:8555/live/viniciusvieira/vieira123/65.m3u8
+#EXTINF:59 tvg-id="FoxSports 2" tvg-name="FoxSports 2" tvg-logo="https://i.imgur.com/150raP9.png" group-title="Canais | Esportes",FoxSports 2
+#EXTVLCOPT:network-caching=1000
+http://168.205.87.198:8555/live/viniciusvieira/vieira123/66.m3u8
+#EXTINF:59 tvg-id="Futura" tvg-name="Futura" tvg-logo="https://macmagazine.com.br/wp-content/uploads/2014/10/29-futura.png" group-title="Canais | Abertos",Futura
+#EXTVLCOPT:network-caching=1000
+http://168.205.87.198:8555/live/viniciusvieira/vieira123/67.m3u8
+#EXTINF:0 tvg-id="Futura" tvg-name="Futura" tvg-logo="https://macmagazine.com.br/wp-content/uploads/2014/10/29-futura.png" group-title="Canais | Abertos",Futura HD
+#EXTVLCOPT:network-caching=1000
+http://168.205.87.198:8555/live/elienecp/123456/67.ts
+#EXTINF:60 tvg-id="FX" tvg-name="FX" tvg-logo="http://i.imgur.com/GaQZSu6.png" group-title="Canais | Filmes e Series",FX
+#EXTVLCOPT:network-caching=1000
+http://168.205.87.198:8555/live/viniciusvieira/vieira123/68.m3u8
+#EXTINF:60 tvg-id="Gazeta HD" tvg-name="Gazeta HD" tvg-logo="https://4.bp.blogspot.com/-njl0j_tJ_j8/T9pJrd6srTI/AAAAAAAAMWo/69-3gYzq9uY/s1600/Logo+TV+Gazeta.png" group-title="Canais | Variedades",Gazeta HD
+#EXTVLCOPT:network-caching=1000
+http://168.205.87.198:8555/live/viniciusvieira/vieira123/69.m3u8
+#EXTINF:59 tvg-id="100% Vida" tvg-name="Globo Minas HD" tvg-logo="http://i.imgur.com/ozxkJhG.png" group-title="Globos | Regionais ",Globo Minas HD
+#EXTVLCOPT:network-caching=1000
+http://168.205.87.198:8555/live/viniciusvieira/vieira123/70.m3u8
+#EXTINF:5400 tvg-id="Globo Rio" tvg-name="Globo Rio" tvg-logo="https://i.imgur.com/rRftyEP.png" group-title="Canais | Abertos",Globo Rio
+#EXTVLCOPT:network-caching=1000
+http://live.video.globo.com/h/1402196682759012345678915746027599876543210hM4EA1neMoQoIiUyVn1TNg/k/app/a/A/u/anyone/d/s/hls-globo-rj/hls-globo-rj_2359/playlist.m3u8
+#EXTINF:5400 tvg-id="Globo Rio" tvg-name="Globo Rio" tvg-logo="https://i.imgur.com/rRftyEP.png" group-title="Canais | Abertos",Globo Rio
+#EXTVLCOPT:network-caching=1000
+http://live.video.globo.com/h/1402196682759012345678915746027599876543210hM4EA1neMoQoIiUyVn1TNg/k/app/a/A/u/anyone/d/s/hls-globo-rj/hls-globo-rj_2359/playlist.m3u8
+#EXTINF:5400 tvg-id="Globo Rio HD" tvg-name="Globo Rio HD" tvg-logo="https://i.imgur.com/rRftyEP.png" group-title="Canais | Abertos",Globo Rio HD
+#EXTVLCOPT:network-caching=1000
+http://live.video.globo.com/h/1402196682759012345678915746027599876543210hM4EA1neMoQoIiUyVn1TNg/k/app/a/A/u/anyone/d/s/hls-globo-rj/hls-globo-rj_2359/playlist.m3u8
+#EXTINF:58 tvg-id="" tvg-name="NICKELODEON" tvg-logo="http://i.imgur.com/ZjLSLiY.png" group-title="Canais | Alternativos",NICKELODEON
+#EXTVLCOPT:network-caching=1000
+http://168.205.87.198:8555/live/viniciusvieira/vieira123/80.m3u8
+#EXTINF:0 tvg-id="" tvg-name="PARAMOUNT CHANNEL" tvg-logo="http://i.imgur.com/yScrn6s.png" group-title="Canais | Alternativos",PARAMOUNT CHANNEL
+#EXTVLCOPT:network-caching=1000
+http://168.205.87.198:8555/live/elienecp/123456/81.ts
+#EXTINF:58 tvg-id="" tvg-name="PARAMOUNT CHANNEL HD" tvg-logo="http://i.imgur.com/yScrn6s.png" group-title="Canais | Alternativos",PARAMOUNT CHANNEL HD
+#EXTVLCOPT:network-caching=1000
+http://168.205.87.198:8555/live/viniciusvieira/vieira123/81.m3u8
+#EXTINF:60 tvg-id="" tvg-name="RECORD MINAS" tvg-logo="http://i.imgur.com/1Zb1lr8.png" group-title="Canais | Alternativos",RECORD MINAS
+#EXTVLCOPT:network-caching=1000
+http://168.205.87.198:8555/live/viniciusvieira/vieira123/96.m3u8
+#EXTINF:0 tvg-id="" tvg-name="RECORD MINAS" tvg-logo="http://i.imgur.com/1Zb1lr8.png" group-title="Canais | Alternativos",RECORD MINAS
+#EXTVLCOPT:network-caching=1000
+http://168.205.87.198:8555/live/elienecp/123456/96.ts
+#EXTINF:60 tvg-id="" tvg-name="RECORD NEWS" tvg-logo="http://i.imgur.com/I99RZ9n.png" group-title="Canais | Alternativos",RECORD NEWS
+#EXTVLCOPT:network-caching=1000
+http://168.205.87.198:8555/live/viniciusvieira/vieira123/97.m3u8
+#EXTINF:0 tvg-id="" tvg-name="RECORD NEWS HD" tvg-logo="http://i.imgur.com/I99RZ9n.png" group-title="Canais | Alternativos",RECORD NEWS HD
+#EXTVLCOPT:network-caching=1000
+http://168.205.87.198:8555/live/elienecp/123456/97.ts
+#EXTINF:30 tvg-id="" tvg-name="RECORD RJ" tvg-logo="http://i.imgur.com/1Zb1lr8.png" group-title="Canais | Alternativos",RECORD RJ
+#EXTVLCOPT:network-caching=1000
+http://playplusrjo-lh.akamaihd.net/i/pp_rj@377859/index_360_av-p.m3u8
+#EXTINF:30 tvg-id="" tvg-name="RECORD RJ HD" tvg-logo="http://i.imgur.com/1Zb1lr8.png" group-title="Canais | Alternativos",RECORD RJ HD
+#EXTVLCOPT:network-caching=1000
+http://playplusrjo-lh.akamaihd.net/i/pp_rj@377859/index_720_av-p.m3u8
+#EXTINF:30 tvg-id="" tvg-name="RECORD SP" tvg-logo="http://i.imgur.com/1Zb1lr8.png" group-title="Canais | Alternativos",RECORD SP
+#EXTVLCOPT:network-caching=1000
+http://playplusspo-lh.akamaihd.net/i/pp_sp@350176/index_360_av-p.m3u8
+#EXTINF:30 tvg-id="" tvg-name="RECORD SP HD" tvg-logo="http://i.imgur.com/1Zb1lr8.png" group-title="Canais | Alternativos",RECORD SP HD
+#EXTVLCOPT:network-caching=1000
+http://playplusspo-lh.akamaihd.net/i/pp_sp@350176/index_720_av-p.m3u8
+#EXTINF:29 tvg-id="" tvg-name="REDE TV SP" tvg-logo="https://i.imgur.com/HP5aXp6.png" group-title="Canais | Alternativos",REDE TV SP
+#EXTVLCOPT:network-caching=1000
+http://177.20.208.58:8000/play/a03p/index.m3u8
+#EXTINF:60 tvg-id="" tvg-name="SBT ALTEROSA" tvg-logo="https://i.imgur.com/3HzpWUY.png" group-title="Canais | Alternativos",SBT ALTEROSA
+#EXTVLCOPT:network-caching=1000
+http://168.205.87.198:8555/live/viniciusvieira/vieira123/104.m3u8
+#EXTINF:59 tvg-id="" tvg-name="SPACE" tvg-logo="http://i.imgur.com/wP2GD1G.png" group-title="Canais | Alternativos",SPACE
+#EXTVLCOPT:network-caching=1000
+http://168.205.87.198:8555/live/viniciusvieira/vieira123/110.m3u8
+#EXTINF:59 tvg-id="TCM" tvg-name="TCM" tvg-logo="http://tbsila.cdn.turner.com/tbsila/hashtag/assets/tcm/logo.png" group-title="Canais | Filmes e Series",TCM
+#EXTVLCOPT:network-caching=1000
+http://168.205.87.198:8555/live/viniciusvieira/vieira123/112.m3u8
+#EXTINF:0 tvg-id="TCM HD" tvg-name="TCM HD" tvg-logo="http://tbsila.cdn.turner.com/tbsila/hashtag/assets/tcm/logo.png" group-title="Canais | Filmes e Series",TCM HD
+#EXTVLCOPT:network-caching=1000
+http://168.205.87.198:8555/live/elienecp/123456/112.ts
+#EXTINF:62 tvg-id="TNT" tvg-name="TNT" tvg-logo="http://i.imgur.com/VhQUWnY.png" group-title="Canais | Filmes e Series",TNT
+#EXTVLCOPT:network-caching=1000
+http://168.205.87.198:8555/live/viniciusvieira/vieira123/116.m3u8
+#EXTINF:0 tvg-id="TNT" tvg-name="TNT HD" tvg-logo="http://i.imgur.com/VhQUWnY.png" group-title="Canais | Filmes e Series",TNT HD
+#EXTVLCOPT:network-caching=1000
+http://168.205.87.198:8555/live/elienecp/123456/116.ts
+#EXTINF:60 tvg-id="100% Vida" tvg-name="TV Aparecida" tvg-logo="http://i.imgur.com/UOMWJH6.png" group-title="Canais | Religioso",TV Aparecida
+#EXTVLCOPT:network-caching=1000
+http://168.205.87.198:8555/live/viniciusvieira/vieira123/131.m3u8
+#EXTINF:60 tvg-id="" tvg-name="TV CAMARA" tvg-logo="http://www.cxtv.com.br/img/Tvs/Logo/a21e5d497fe0f1fc302afd7f02082730.jpg" group-title="Canais | Variedades",TV CAMARA
+#EXTVLCOPT:network-caching=1000
+http://168.205.87.198:8555/live/viniciusvieira/vieira123/136.m3u8
+#EXTINF:59 tvg-id="TV Escola" tvg-name="TV Escola" tvg-logo="http://i.imgur.com/oSZZKxP.png" group-title="Canais | Abertos",TV Escola
+#EXTVLCOPT:network-caching=1000
+http://168.205.87.198:8555/live/viniciusvieira/vieira123/137.m3u8
+#EXTINF:60 tvg-id="TV Senado" tvg-name="TV Senado" tvg-logo="http://urlcurta.ml/Llwge" group-title="Canais | Variedades",TV Senado
+#EXTVLCOPT:network-caching=1000
+http://168.205.87.198:8555/live/viniciusvieira/vieira123/139.m3u8
